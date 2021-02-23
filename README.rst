@@ -11,7 +11,7 @@ Copyright (c) 2020-2021 `Antmicro <https://www.antmicro.com>`_
 Overview
 ========
 
-This repository includes PCB design files for a baseboard supporting Raspberry Pi Compute Module 4.
+This repository includes the PCB design files for a baseboard supporting Raspberry Pi Compute Module 4.
 The baseboard has been optimized for 19-inch rack mount installations for distributed multi-node computing systems.
 
 Key features
