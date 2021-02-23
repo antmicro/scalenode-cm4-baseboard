@@ -1977,17 +1977,6 @@ F 3 "" H 5700 10100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L scalenode:Earth #PWR0107
-U 1 1 603C9A1B
-P 5075 10125
-F 0 "#PWR0107" H 5075 9875 50  0001 C CNN
-F 1 "Earth" H 5075 9975 50  0001 C CNN
-F 2 "" H 5075 10125 50  0001 C CNN
-F 3 "~" H 5075 10125 50  0001 C CNN
-	1    5075 10125
-	1    0    0    -1  
-$EndComp
-$Comp
 L scalenode:C_1n_1210_2kV C50
 U 1 1 603C948B
 P 5375 9875
@@ -2000,17 +1989,6 @@ F 5 "C1210C102KGRACTU" H 5575 10175 60  0001 L CNN "MPN"
 F 6 "1n/2kV" V 5075 10025 50  0000 R CNN "Val"
 	1    5375 9875
 	0    1    -1   0   
-$EndComp
-$Comp
-L scalenode:Earth #PWR0106
-U 1 1 60379059
-P 4125 10125
-F 0 "#PWR0106" H 4125 9875 50  0001 C CNN
-F 1 "Earth" H 4125 9975 50  0001 C CNN
-F 2 "" H 4125 10125 50  0001 C CNN
-F 3 "~" H 4125 10125 50  0001 C CNN
-	1    4125 10125
-	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	4125 10125 4125 10075
@@ -2042,8 +2020,6 @@ Wire Wire Line
 	1375 7325 1775 7325
 Wire Wire Line
 	1375 8625 1800 8625
-Text Notes 900  9000 0    50   ~ 0
-TODO: verify the footprint, add 3D model
 $Comp
 L scalenode:SS-74800-144 J6
 U 1 1 600316CC
@@ -2491,4 +2467,26 @@ Text GLabel 1775 7200 2    50   Input ~ 0
 3V3_RPi
 Text GLabel 1800 8750 2    50   Input ~ 0
 3V3_RPi
+$Comp
+L power:Earth #PWR?
+U 1 1 603777B8
+P 4125 10125
+F 0 "#PWR?" H 4125 9875 50  0001 C CNN
+F 1 "Earth" H 4125 9975 50  0001 C CNN
+F 2 "" H 4125 10125 50  0001 C CNN
+F 3 "~" H 4125 10125 50  0001 C CNN
+	1    4125 10125
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR?
+U 1 1 60377DA0
+P 5075 10125
+F 0 "#PWR?" H 5075 9875 50  0001 C CNN
+F 1 "Earth" H 5075 9975 50  0001 C CNN
+F 2 "" H 5075 10125 50  0001 C CNN
+F 3 "~" H 5075 10125 50  0001 C CNN
+	1    5075 10125
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
