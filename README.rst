@@ -15,6 +15,7 @@ This repository includes PCB design files for a baseboard supporting Raspberry P
 The baseboard has been optimized for 19-inch rack mount installations for distributed multi-node computing systems.
 
 Key features
+============
 
 * Supports Raspberry Pi CM4
 * Gigabit Ethernet with integrated PoE circuitry
