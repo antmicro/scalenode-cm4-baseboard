@@ -66,12 +66,12 @@ GPIO14
 Text GLabel 5725 4200 2    50   BiDi ~ 0
 GPIO15
 $Comp
-L antmicroRectangularConnectorsHeadersFemalePins:QSE-020-01-F-D J1
+L scalenode:QSE-020-01-F-D J1
 U 1 1 600BF3F1
 P 5125 4050
 F 0 "J1" H 5275 4225 50  0000 C CNN
 F 1 "QSE-020-01-F-D" H 5275 4134 50  0000 C CNN
-F 2 "antmicro-footprints:QSE-020-01-XXX-D-A" H 5275 1700 60  0001 L CNN
+F 2 "scalenode-footprints:QSE-020-01-XXX-D-A" H 5275 1700 60  0001 L CNN
 F 3 "https://eu.mouser.com/datasheet/2/527/qse-1370325.pdf" H 6125 3300 60  0001 L CNN
 F 4 "QSE-020-01-F-D" H 4825 1550 60  0001 L CNN "MPN"
 F 5 "SAMTEC" H 5125 1850 60  0001 L CNN "Manufacturer"
@@ -174,7 +174,7 @@ Wire Wire Line
 	5625 6250 5275 6250
 Connection ~ 5625 5200
 $Comp
-L power:GND #PWR01
+L scalenode:GND #PWR01
 U 1 1 601419BB
 P 5275 6400
 F 0 "#PWR01" H 5275 6150 50  0001 C CNN
@@ -200,7 +200,7 @@ SCL0
 Text GLabel 8325 5150 0    50   Input ~ 0
 SDA0
 $Comp
-L power:GND #PWR02
+L scalenode:GND #PWR02
 U 1 1 601DA6BC
 P 9025 6450
 F 0 "#PWR02" H 9025 6200 50  0001 C CNN
@@ -229,12 +229,12 @@ Wire Wire Line
 Wire Wire Line
 	8775 5150 8325 5150
 $Comp
-L antmicroRectangularConnectorsHeadersFemalePins:QSE-020-01-F-D J2
+L scalenode:QSE-020-01-F-D J2
 U 1 1 601B8118
 P 8875 4100
 F 0 "J2" H 9025 4275 50  0000 C CNN
 F 1 "QSE-020-01-F-D" H 9025 4184 50  0000 C CNN
-F 2 "antmicro-footprints:QSE-020-01-XXX-D-A" H 9025 1750 60  0001 L CNN
+F 2 "scalenode-footprints:QSE-020-01-XXX-D-A" H 9025 1750 60  0001 L CNN
 F 3 "https://eu.mouser.com/datasheet/2/527/qse-1370325.pdf" H 9875 3350 60  0001 L CNN
 F 4 "QSE-020-01-F-D" H 8575 1600 60  0001 L CNN "MPN"
 F 5 "SAMTEC" H 8875 1900 60  0001 L CNN "Manufacturer"
@@ -278,7 +278,7 @@ Wire Wire Line
 Text GLabel 8325 4350 0    50   Input ~ 0
 VCC5V0
 $Comp
-L power:GND #PWR03
+L scalenode:GND #PWR03
 U 1 1 603380B5
 P 9700 4350
 F 0 "#PWR03" H 9700 4100 50  0001 C CNN
@@ -362,12 +362,12 @@ Wire Wire Line
 Text Notes 7475 3900 2    50   ~ 0
 QSE connector current rating:\n2A per pin (2 pins powered)
 $Comp
-L antmicroMechanicalParts:PCB_Mount_Hole_2.2_4.5 MP1
+L scalenode:PCB_Mount_Hole_2.2_4.5 MP1
 U 1 1 603AAAE1
 P 5325 7725
 F 0 "MP1" H 5533 7771 50  0000 L CNN
 F 1 "PCB_Mount_Hole_2.2_4.5" H 5533 7680 50  0000 L CNN
-F 2 "antmicro-footprints:mounting-hole-2.2mm" H 6125 8425 50  0001 C CNN
+F 2 "scalenode-footprints:mounting-hole-2.2mm" H 6125 8425 50  0001 C CNN
 F 3 "" H 6275 8525 50  0001 C CNN
 	1    5325 7725
 	1    0    0    -1  

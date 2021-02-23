@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name scalenode)(type Legacy)(uri ${KIPRJMOD}/lib/scalenode.lib)(options "")(descr ""))
+)

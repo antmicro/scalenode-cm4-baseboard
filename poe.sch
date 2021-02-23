@@ -14,12 +14,12 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L antmicroTVSDiodes:MB10S D4
+L scalenode:MB10S D4
 U 1 1 5FF3F142
 P 1600 2525
 F 0 "D4" H 2300 2175 50  0000 C CNN
 F 1 "MB10S" H 2375 2100 50  0000 C CNN
-F 2 "antmicro-footprints:MB10S" H 1050 2475 50  0001 C CNN
+F 2 "scalenode-footprints:MB10S" H 1050 2475 50  0001 C CNN
 F 3 "http://www.farnell.com/datasheets/2895435.pdf" H 1050 2475 50  0001 C CNN
 F 4 "MB10S" H 1950 2750 50  0000 C CNN "MPN"
 F 5 "MULTICOMP" H 1950 2659 50  0000 C CNN "Manufacturer"
@@ -27,12 +27,12 @@ F 5 "MULTICOMP" H 1950 2659 50  0000 C CNN "Manufacturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroTVSDiodes:MB10S D5
+L scalenode:MB10S D5
 U 1 1 5FF3FC10
 P 1600 3175
 F 0 "D5" H 2300 2825 50  0000 C CNN
 F 1 "MB10S" H 2375 2750 50  0000 C CNN
-F 2 "antmicro-footprints:MB10S" H 1050 3125 50  0001 C CNN
+F 2 "scalenode-footprints:MB10S" H 1050 3125 50  0001 C CNN
 F 3 "http://www.farnell.com/datasheets/2895435.pdf" H 1050 3125 50  0001 C CNN
 F 4 "MB10S" H 1950 2575 50  0000 C CNN "MPN"
 F 5 "MULTICOMP" H 1950 2650 50  0000 C CNN "Manufacturer"
@@ -58,12 +58,12 @@ PAIR45
 Text Label 1025 3575 0    50   ~ 0
 PAIR78
 $Comp
-L antmicroFerriteBeadsandChips:BLM21PG221SN1D FB2
+L scalenode:BLM21PG221SN1D FB2
 U 1 1 5FF56AE5
 P 3025 2725
 F 0 "FB2" H 3000 2900 60  0000 C CNN
 F 1 "BLM21PG221SN1D" H 3275 2575 60  0000 C CNN
-F 2 "antmicro-footprints:0805-res" H 3225 2925 60  0001 L CNN
+F 2 "scalenode-footprints:0805-res" H 3225 2925 60  0001 L CNN
 F 3 "" H 3225 3025 60  0001 L CNN
 F 4 "BLM21PG221SN1D" H 3225 3225 60  0001 L CNN "MPN"
 F 5 "Murata Electronics North America" H 3225 3825 60  0001 L CNN "Manufacturer"
@@ -73,12 +73,12 @@ $EndComp
 Wire Wire Line
 	2350 3375 2625 3375
 $Comp
-L antmicroInterfaceDriversReceiversTransceivers:POE300F-50L T2
+L scalenode:POE300F-50L T2
 U 1 1 5FF91735
 P 11725 1675
 F 0 "T2" H 11625 2262 60  0000 C CNN
 F 1 "POE300F-50L" H 11625 2156 60  0000 C CNN
-F 2 "antmicro-footprints:POE300F-24LD" H 11825 1025 60  0001 L CNN
+F 2 "scalenode-footprints:POE300F-24LD" H 11825 1025 60  0001 L CNN
 F 3 "https://datasheetspdf.com/pdf-file/1244853/Coilcraft/POE300F/1" H 11825 1125 60  0001 L CNN
 F 4 "POE300F-50L" H 11925 2175 60  0001 L CNN "MPN"
 F 5 "Coilcraft" H 11925 2275 60  0001 L CNN "Manufacturer"
@@ -86,12 +86,12 @@ F 5 "Coilcraft" H 11925 2275 60  0001 L CNN "Manufacturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroCapacitors0603:C_47u_0603 C42
+L scalenode:C_47u_0603 C42
 U 1 1 5FF9E27B
 P 13675 2275
 F 0 "C42" H 13790 2320 60  0000 L CNN
 F 1 "C_47u_0603" H 13675 2125 60  0001 C CNN
-F 2 "antmicro-footprints:0603-cap" H 13875 2475 60  0001 L CNN
+F 2 "scalenode-footprints:0603-cap" H 13875 2475 60  0001 L CNN
 F 3 "" H 13675 2275 50  0001 C CNN
 F 4 "MURATA" H 13875 2675 60  0001 L CNN "Manufacturer"
 F 5 "GRM188R60J476ME15D" H 13875 2575 60  0001 L CNN "MPN"
@@ -100,12 +100,12 @@ F 6 "47u" H 13790 2222 50  0000 L CNN "Val"
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroCapacitors0603:C_47u_0603 C44
+L scalenode:C_47u_0603 C44
 U 1 1 5FF9E52E
 P 14075 2275
 F 0 "C44" H 14190 2320 60  0000 L CNN
 F 1 "C_47u_0603" H 14075 2125 60  0001 C CNN
-F 2 "antmicro-footprints:0603-cap" H 14275 2475 60  0001 L CNN
+F 2 "scalenode-footprints:0603-cap" H 14275 2475 60  0001 L CNN
 F 3 "" H 14075 2275 50  0001 C CNN
 F 4 "MURATA" H 14275 2675 60  0001 L CNN "Manufacturer"
 F 5 "GRM188R60J476ME15D" H 14275 2575 60  0001 L CNN "MPN"
@@ -114,12 +114,12 @@ F 6 "47u" H 14190 2222 50  0000 L CNN "Val"
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroCapacitorspol:C_220u_KEMET_B C45
+L scalenode:C_220u_KEMET_B C45
 U 1 1 5FF9FA4C
 P 14475 2225
 F 0 "C45" H 14593 2220 60  0000 L CNN
 F 1 "C_220u_KEMET_B" H 14475 2075 60  0001 C CNN
-F 2 "antmicro-footprints:KEMET_B" H 14675 2425 60  0001 L CNN
+F 2 "scalenode-footprints:KEMET_B" H 14675 2425 60  0001 L CNN
 F 3 "" H 14475 2225 50  0001 C CNN
 F 4 "VISHAY" H 14675 2625 60  0001 L CNN "Manufacturer"
 F 5 "TMCMB0J227MTRF" H 14675 2525 60  0001 L CNN "MPN"
@@ -128,12 +128,12 @@ F 6 "220u" H 14593 2122 50  0000 L CNN "Val"
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroCapacitorspol:C_220u_KEMET_B C46
+L scalenode:C_220u_KEMET_B C46
 U 1 1 5FFA076D
 P 15025 2225
 F 0 "C46" H 15143 2220 60  0000 L CNN
 F 1 "C_220u_KEMET_B" H 15025 2075 60  0001 C CNN
-F 2 "antmicro-footprints:KEMET_B" H 15225 2425 60  0001 L CNN
+F 2 "scalenode-footprints:KEMET_B" H 15225 2425 60  0001 L CNN
 F 3 "" H 15025 2225 50  0001 C CNN
 F 4 "VISHAY" H 15225 2625 60  0001 L CNN "Manufacturer"
 F 5 "TMCMB0J227MTRF" H 15225 2525 60  0001 L CNN "MPN"
@@ -142,12 +142,12 @@ F 6 "220u" H 15143 2122 50  0000 L CNN "Val"
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroCapacitors0603:C_1u_0603 C47
+L scalenode:C_1u_0603 C47
 U 1 1 5FFA1AF1
 P 15475 2275
 F 0 "C47" H 15590 2320 60  0000 L CNN
 F 1 "C_1u_0603" H 15475 2125 60  0001 C CNN
-F 2 "antmicro-footprints:0603-cap" H 15675 2475 60  0001 L CNN
+F 2 "scalenode-footprints:0603-cap" H 15675 2475 60  0001 L CNN
 F 3 "" H 15475 2275 50  0001 C CNN
 F 4 "WALSIN" H 15675 2675 60  0001 L CNN "Manufacturer"
 F 5 "0603YD105KAT2A" H 15675 2575 60  0001 L CNN "MPN"
@@ -156,12 +156,12 @@ F 6 "1u" H 15590 2222 50  0000 L CNN "Val"
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroFixedInductors:DR74-R33-R L5
+L scalenode:DR74-R33-R L5
 U 1 1 5FFA2759
 P 14775 2075
 F 0 "L5" H 14775 2250 60  0000 C CNN
 F 1 "DR74-R33-R" H 14775 2150 60  0000 C CNN
-F 2 "antmicro-footprints:L_DR74" H 14825 1925 60  0001 C CNN
+F 2 "scalenode-footprints:L_DR74" H 14825 1925 60  0001 C CNN
 F 3 "http://www.farnell.com/datasheets/2579564.pdf" H 14830 2105 60  0001 C CNN
 F 4 "Eaton" H 14775 1975 50  0001 C CNN "Manufacturer"
 F 5 "DR74-R33-R" H 14775 2176 50  0001 C CNN "MPN"
@@ -173,7 +173,7 @@ Wire Wire Line
 Wire Wire Line
 	15475 2125 15475 2075
 $Comp
-L power:GND #PWR042
+L scalenode:GND #PWR042
 U 1 1 5FFC891C
 P 15475 2600
 F 0 "#PWR042" H 15475 2350 50  0001 C CNN
@@ -186,34 +186,34 @@ $EndComp
 Text GLabel 15475 1825 1    50   Input ~ 0
 VCC5V0
 $Comp
-L antmicroTestPoints:TP_SMD1MM TP4
+L scalenode:TP_SMD1MM TP4
 U 1 1 5FFCDCB5
 P 15650 2075
 F 0 "TP4" V 15650 2025 50  0000 R CNN
 F 1 "TP_SMD1MM" H 15650 1975 50  0001 C CNN
-F 2 "antmicro-footprints:Testpoint_smd_1mm" H 15850 2275 60  0001 L CNN
+F 2 "scalenode-footprints:Testpoint_smd_1mm" H 15850 2275 60  0001 L CNN
 F 3 "" H 15850 2375 60  0001 L CNN
 	1    15650 2075
 	0    -1   -1   0   
 $EndComp
 $Comp
-L antmicroTestPoints:TP_SMD1MM TP5
+L scalenode:TP_SMD1MM TP5
 U 1 1 5FFD2110
 P 15650 2450
 F 0 "TP5" V 15650 2400 50  0000 R CNN
 F 1 "TP_SMD1MM" H 15650 2350 50  0001 C CNN
-F 2 "antmicro-footprints:Testpoint_smd_1mm" H 15850 2650 60  0001 L CNN
+F 2 "scalenode-footprints:Testpoint_smd_1mm" H 15850 2650 60  0001 L CNN
 F 3 "" H 15850 2750 60  0001 L CNN
 	1    15650 2450
 	0    -1   -1   0   
 $EndComp
 $Comp
-L antmicroResistors0603:R_15k_0603 R40
+L scalenode:R_15k_0603 R40
 U 1 1 5FFD845F
 P 10250 1600
 F 0 "R40" V 10150 1375 60  0000 L CNN
 F 1 "R_15k_0603" H 10250 1450 60  0001 C CNN
-F 2 "antmicro-footprints:0603-res" H 10450 1800 60  0001 L CNN
+F 2 "scalenode-footprints:0603-res" H 10450 1800 60  0001 L CNN
 F 3 "" H 10250 1600 50  0001 C CNN
 F 4 "BOURNS" H 10450 2000 60  0001 L CNN "Manufacturer"
 F 5 "CR0603-FX-1502ELF" H 10450 1900 60  0001 L CNN "MPN"
@@ -222,12 +222,12 @@ F 6 "15k" V 10250 1400 50  0000 L CNN "Val"
 	0    1    1    0   
 $EndComp
 $Comp
-L antmicroCapacitorsmisc:C_1u_1210_100V C36
+L scalenode:C_1u_1210_100V C36
 U 1 1 5FFD89AF
 P 10450 1600
 F 0 "C36" H 10475 1700 60  0000 L CNN
 F 1 "C_1u_1210_100V" H 10450 1450 60  0001 C CNN
-F 2 "antmicro-footprints:1210-cap" H 10650 1800 60  0001 L CNN
+F 2 "scalenode-footprints:1210-cap" H 10650 1800 60  0001 L CNN
 F 3 "" H 10450 1600 50  0001 C CNN
 F 4 "AVX" H 10650 2000 60  0001 L CNN "Manufacturer"
 F 5 "12101C105K4Z2A" H 10650 1900 60  0001 L CNN "MPN"
@@ -240,12 +240,12 @@ Wire Wire Line
 Wire Wire Line
 	11225 1675 11225 1575
 $Comp
-L antmicroDiodesRectifiersSingle:MURA120T3G D10
+L scalenode:MURA120T3G D10
 U 1 1 5FFE5091
 P 10700 2000
 F 0 "D10" H 10700 1900 60  0000 C CNN
 F 1 "MURA120T3G" H 10750 2125 60  0000 C CNN
-F 2 "antmicro-footprints:DO-214AC" H 10900 2200 60  0001 L CNN
+F 2 "scalenode-footprints:DO-214AC" H 10900 2200 60  0001 L CNN
 F 3 "http://www.farnell.com/datasheets/1750742.pdf?_ga=2.45653602.755650108.1590998510-1082836046.1584461759&_gac=1.251315634.1591003291.EAIaIQobChMIyurJn6Dg6QIVAsAYCh1pXwnTEAYYASABEgLilvD_BwE" H 10900 2300 60  0001 L CNN
 F 4 "MURA120T3G" H 10900 2500 60  0001 L CNN "MPN"
 F 5 "Diodes Incorporated" H 10900 3100 60  0001 L CNN "Manufacturer"
@@ -272,12 +272,12 @@ Wire Wire Line
 	10450 1375 11225 1375
 Connection ~ 10450 1375
 $Comp
-L antmicroResistors0603:R_30k1_0603 R37
+L scalenode:R_30k1_0603 R37
 U 1 1 600067A0
 P 9300 1600
 F 0 "R37" V 9225 1375 60  0000 L CNN
 F 1 "R_30k1_0603" H 9300 1450 60  0001 C CNN
-F 2 "antmicro-footprints:0603-res" H 9500 1800 60  0001 L CNN
+F 2 "scalenode-footprints:0603-res" H 9500 1800 60  0001 L CNN
 F 3 "" H 9300 1600 50  0001 C CNN
 F 4 "VISHAY" H 9500 2000 60  0001 L CNN "Manufacturer"
 F 5 "CRCW060330K1FKEA" H 9500 1900 60  0001 L CNN "MPN"
@@ -291,12 +291,12 @@ Wire Wire Line
 	9300 1375 9600 1375
 Connection ~ 9600 1375
 $Comp
-L antmicroFixedInductors:DO1608C-332MLB L4
+L scalenode:DO1608C-332MLB L4
 U 1 1 60009E09
 P 8850 1375
 F 0 "L4" H 8850 1600 60  0000 C CNN
 F 1 "DO1608C-332MLB" H 8850 1500 60  0000 C CNN
-F 2 "antmicro-footprints:L_6.3x4.5" H 8900 1225 60  0001 C CNN
+F 2 "scalenode-footprints:L_6.3x4.5" H 8900 1225 60  0001 C CNN
 F 3 "http://www.farnell.com/datasheets/2579564.pdf" H 8905 1405 60  0001 C CNN
 F 4 "Coilcraft" H 8850 1275 50  0001 C CNN "Manufacturer"
 F 5 "DO1608C-332MLB" H 8850 1476 50  0001 C CNN "MPN"
@@ -307,7 +307,7 @@ Wire Wire Line
 	9000 1375 9300 1375
 Connection ~ 9300 1375
 $Comp
-L power:GNDD #PWR026
+L scalenode:GNDD #PWR026
 U 1 1 6000E44A
 P 9600 1875
 F 0 "#PWR026" H 9600 1625 50  0001 C CNN
@@ -318,7 +318,7 @@ F 3 "" H 9600 1875 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GNDD #PWR028
+L scalenode:GNDD #PWR028
 U 1 1 6000EC1E
 P 9900 1875
 F 0 "#PWR028" H 9900 1625 50  0001 C CNN
@@ -351,7 +351,7 @@ Wire Wire Line
 Wire Wire Line
 	11175 1825 11175 2300
 $Comp
-L power:GNDD #PWR032
+L scalenode:GNDD #PWR032
 U 1 1 6004069F
 P 11175 2300
 F 0 "#PWR032" H 11175 2050 50  0001 C CNN
@@ -362,12 +362,12 @@ F 3 "" H 11175 2300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroResistors0603:R_20R_0603 R41
+L scalenode:R_20R_0603 R41
 U 1 1 60047AE7
 P 10675 2250
 F 0 "R41" H 10700 2150 60  0000 C CNN
 F 1 "R_20R_0603" H 10675 2100 60  0001 C CNN
-F 2 "antmicro-footprints:0603-res" H 10875 2450 60  0001 L CNN
+F 2 "scalenode-footprints:0603-res" H 10875 2450 60  0001 L CNN
 F 3 "http://www.farnell.com/datasheets/2310790.pdf" H 10675 2250 50  0001 C CNN
 F 4 "Vishay" H 10875 2650 60  0001 L CNN "Manufacturer"
 F 5 "CRCW060320R0FKEA" H 10875 2550 60  0001 L CNN "MPN"
@@ -376,12 +376,12 @@ F 6 "20R" H 10875 2150 50  0000 C CNN "Val"
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroDiodesRectifiersSingle:BAS16E6327HTSA1 D7
+L scalenode:BAS16E6327HTSA1 D7
 U 1 1 60048D84
 P 10175 2250
 F 0 "D7" H 10175 2150 60  0000 C CNN
 F 1 "BAS16E6327HTSA1" H 10325 2375 60  0000 C CNN
-F 2 "antmicro-footprints:SOT-23-3" H 10375 2450 60  0001 L CNN
+F 2 "scalenode-footprints:SOT-23-3" H 10375 2450 60  0001 L CNN
 F 3 "https://www.infineon.com/dgdl/Infineon-BAS16SERIES-DS-v01_01-en.pdf" H 10375 2550 60  0001 L CNN
 F 4 "BAS16E6327HTSA1" H 10375 2750 60  0001 L CNN "MPN"
 F 5 "INFINEON" H 10375 3350 60  0001 L CNN "Manufacturer"
@@ -395,12 +395,12 @@ Wire Wire Line
 Wire Wire Line
 	11100 2250 10825 2250
 $Comp
-L antmicroCapacitorspol:C_47u_ELEC_100V C29
+L scalenode:C_47u_ELEC_100V C29
 U 1 1 6006660A
 P 8375 1550
 F 0 "C29" H 8493 1545 60  0000 L CNN
 F 1 "C_47u_ELEC_100V" H 8375 1400 60  0001 C CNN
-F 2 "antmicro-footprints:CP_Elec_10x10.5" H 8575 1750 60  0001 L CNN
+F 2 "scalenode-footprints:CP_Elec_10x10.5" H 8575 1750 60  0001 L CNN
 F 3 "https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1151.pdf" H 8375 1550 50  0001 C CNN
 F 4 "PANASONIC" H 8575 1950 60  0001 L CNN "Manufacturer"
 F 5 "EEEHA2A470UP" H 8575 1850 60  0001 L CNN "MPN"
@@ -413,7 +413,7 @@ Wire Wire Line
 Wire Wire Line
 	8375 1375 8375 1450
 $Comp
-L power:GNDD #PWR022
+L scalenode:GNDD #PWR022
 U 1 1 6007B2E9
 P 8375 1875
 F 0 "#PWR022" H 8375 1625 50  0001 C CNN
@@ -431,12 +431,12 @@ Connection ~ 8375 1375
 Text GLabel 8375 975  1    50   Input ~ 0
 VDD
 $Comp
-L antmicroTransistorsFETsMOSFETsSingle:SI7450DP-T1-GE3 Q4
+L scalenode:SI7450DP-T1-GE3 Q4
 U 1 1 600A14CB
 P 11000 3000
 F 0 "Q4" H 11100 3100 60  0000 L CNN
 F 1 "SI7450DP-T1-GE3" H 11100 2925 60  0000 L CNN
-F 2 "antmicro-footprints:PowerPAK_SO-8_Single" H 11200 3200 60  0001 L CNN
+F 2 "scalenode-footprints:PowerPAK_SO-8_Single" H 11200 3200 60  0001 L CNN
 F 3 "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" H 11200 3300 60  0001 L CNN
 F 4 "SI7450DP-T1-GE3" H 11200 3500 60  0001 L CNN "MPN"
 F 5 "Vishay" H 11200 3600 60  0001 L CNN "Manufacturer"
@@ -444,12 +444,12 @@ F 5 "Vishay" H 11200 3600 60  0001 L CNN "Manufacturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroDiodesRectifiersSingle:BAS16E6327HTSA1 D9
+L scalenode:BAS16E6327HTSA1 D9
 U 1 1 600A2690
 P 10275 3100
 F 0 "D9" H 10275 3337 60  0000 C CNN
 F 1 "BAS16E6327HTSA1" H 10275 3231 60  0000 C CNN
-F 2 "antmicro-footprints:SOT-23-3" H 10475 3300 60  0001 L CNN
+F 2 "scalenode-footprints:SOT-23-3" H 10475 3300 60  0001 L CNN
 F 3 "https://www.infineon.com/dgdl/Infineon-BAS16SERIES-DS-v01_01-en.pdf" H 10475 3400 60  0001 L CNN
 F 4 "BAS16E6327HTSA1" H 10475 3600 60  0001 L CNN "MPN"
 F 5 "INFINEON" H 10475 4200 60  0001 L CNN "Manufacturer"
@@ -457,12 +457,12 @@ F 5 "INFINEON" H 10475 4200 60  0001 L CNN "Manufacturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroResistorsmisc:R_R33_2512 R43
+L scalenode:R_R33_2512 R43
 U 1 1 600AE476
 P 11000 4975
 F 0 "R43" V 10955 5045 60  0000 L CNN
 F 1 "R_R33_2512" H 11000 4825 60  0001 C CNN
-F 2 "antmicro-footprints:2512" H 11200 5175 60  0001 L CNN
+F 2 "scalenode-footprints:2512" H 11200 5175 60  0001 L CNN
 F 3 "http://www.farnell.com/datasheets/1610602.pdf" H 10945 5110 50  0001 C CNN
 F 4 "TE CONNECTIVITY" H 11200 5375 60  0001 L CNN "Manufacturer"
 F 5 "RLP73K3AR33JTE" H 11200 5275 60  0001 L CNN "MPN"
@@ -471,12 +471,12 @@ F 6 "R33" V 11053 5045 50  0000 L CNN "Val"
 	0    1    1    0   
 $EndComp
 $Comp
-L antmicroResistors0402:R_1k_0402 R44
+L scalenode:R_1k_0402 R44
 U 1 1 600BA3DA
 P 10725 4725
 F 0 "R44" H 10725 4825 60  0000 C CNN
 F 1 "R_1k_0402" H 10725 4575 60  0001 C CNN
-F 2 "antmicro-footprints:0402-res" H 10925 4925 60  0001 L CNN
+F 2 "scalenode-footprints:0402-res" H 10925 4925 60  0001 L CNN
 F 3 "" H 10725 4725 50  0001 C CNN
 F 4 "BOURNS" H 10925 5125 60  0001 L CNN "Manufacturer"
 F 5 "CR0402-FX-1001GLF" H 10925 5025 60  0001 L CNN "MPN"
@@ -485,12 +485,12 @@ F 6 "1k" H 10725 4625 50  0000 C CNN "Val"
 	-1   0    0    -1  
 $EndComp
 $Comp
-L antmicroCapacitors0402:C_100p_0402 C38
+L scalenode:C_100p_0402 C38
 U 1 1 600BAFC9
 P 10425 5000
 F 0 "C38" H 10540 5045 60  0000 L CNN
 F 1 "C_100p_0402" H 10425 4850 60  0001 C CNN
-F 2 "antmicro-footprints:0402-cap" H 10625 5200 60  0001 L CNN
+F 2 "scalenode-footprints:0402-cap" H 10625 5200 60  0001 L CNN
 F 3 "" H 10425 5000 50  0001 C CNN
 F 4 "WALSIN" H 10625 5400 60  0001 L CNN "Manufacturer"
 F 5 "0402N101J500CT" H 10625 5300 60  0001 L CNN "MPN"
@@ -499,12 +499,12 @@ F 6 "100p" H 10540 4947 50  0000 L CNN "Val"
 	-1   0    0    -1  
 $EndComp
 $Comp
-L antmicroTransistorsBipolarSingle:MMBT3906,215 Q2
+L scalenode:MMBT3906,215 Q2
 U 1 1 600C85D1
 P 10300 3600
 F 0 "Q2" H 10350 3500 50  0000 L CNN
 F 1 "MMBT3906,215" H 9925 3575 50  0000 L CNN
-F 2 "antmicro-footprints:SOT-23-3" H 10300 3600 50  0001 C CNN
+F 2 "scalenode-footprints:SOT-23-3" H 10300 3600 50  0001 C CNN
 F 3 "" H 10300 3600 50  0001 C CNN
 F 4 "MMBT3906,215" H 9925 3275 50  0001 L CNN "MPN"
 F 5 "ON SEMICONDUCTOR" H 9750 3175 50  0001 L CNN "Manufacturer"
@@ -514,12 +514,12 @@ $EndComp
 Wire Wire Line
 	9850 3400 9950 3400
 $Comp
-L antmicroResistors0603:R_24R9_0603 R39
+L scalenode:R_24R9_0603 R39
 U 1 1 600EAE1E
 P 9700 3400
 F 0 "R39" H 9700 3613 60  0000 C CNN
 F 1 "R_24R9_0603" H 9700 3250 60  0001 C CNN
-F 2 "antmicro-footprints:0603-res" H 9900 3600 60  0001 L CNN
+F 2 "scalenode-footprints:0603-res" H 9900 3600 60  0001 L CNN
 F 3 "http://www.farnell.com/datasheets/2310790.pdf" H 9700 3400 50  0001 C CNN
 F 4 "Vishay" H 9900 3800 60  0001 L CNN "Manufacturer"
 F 5 "CRCW060324R9FKEA" H 9900 3700 60  0001 L CNN "MPN"
@@ -536,7 +536,7 @@ Wire Wire Line
 Wire Wire Line
 	10425 5150 10425 5250
 $Comp
-L power:GNDD #PWR030
+L scalenode:GNDD #PWR030
 U 1 1 601128AB
 P 10600 3650
 F 0 "#PWR030" H 10600 3400 50  0001 C CNN
@@ -547,7 +547,7 @@ F 3 "" H 10600 3650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GNDD #PWR031
+L scalenode:GNDD #PWR031
 U 1 1 60112D78
 P 11000 5250
 F 0 "#PWR031" H 11000 5000 50  0001 C CNN
@@ -562,7 +562,7 @@ CTRL_OUT
 Text Label 10350 4725 2    50   ~ 0
 CTRL_FB
 $Comp
-L power:GNDD #PWR035
+L scalenode:GNDD #PWR035
 U 1 1 60113131
 P 10425 5250
 F 0 "#PWR035" H 10425 5000 50  0001 C CNN
@@ -573,12 +573,12 @@ F 3 "" H 10425 5250 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L antmicroCapacitors0603:C_1n_0603 C48
+L scalenode:C_1n_0603 C48
 U 1 1 60221CA5
 P 12750 2450
 F 0 "C48" V 12492 2450 60  0000 C CNN
 F 1 "C_1n_0603" H 12750 2300 60  0001 C CNN
-F 2 "antmicro-footprints:0603-cap" H 12950 2650 60  0001 L CNN
+F 2 "scalenode-footprints:0603-cap" H 12950 2650 60  0001 L CNN
 F 3 "" H 12750 2450 50  0001 C CNN
 F 4 "AVX" H 12950 2850 60  0001 L CNN "Manufacturer"
 F 5 "06031C102JAT2A" H 12950 2750 60  0001 L CNN "MPN"
@@ -587,12 +587,12 @@ F 6 "1n" V 12590 2450 50  0000 C CNN "Val"
 	0    1    1    0   
 $EndComp
 $Comp
-L antmicroResistorsmisc:R_10R_2010 R50
+L scalenode:R_10R_2010 R50
 U 1 1 6021D635
 P 12400 2450
 F 0 "R50" H 12400 2663 60  0000 C CNN
 F 1 "R_10R_2010" H 12400 2300 60  0001 C CNN
-F 2 "antmicro-footprints:2010-res" H 12600 2650 60  0001 L CNN
+F 2 "scalenode-footprints:2010-res" H 12600 2650 60  0001 L CNN
 F 3 "" H 12400 2450 50  0001 C CNN
 F 4 "WALSIN" H 12600 2850 60  0001 L CNN "Manufacturer"
 F 5 "WF20P10R0FTL" H 12600 2750 60  0001 L CNN "MPN"
@@ -601,12 +601,12 @@ F 6 "10R" H 12400 2565 50  0000 C CNN "Val"
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroTVSDiodes:BAV99W,115 D14
+L scalenode:BAV99W,115 D14
 U 1 1 601F4617
 P 13250 3475
 F 0 "D14" H 13550 2925 50  0000 C CNN
 F 1 "BAV99W,115" H 13525 3000 50  0000 C CNN
-F 2 "antmicro-footprints:SOT-323" H 12700 3425 50  0001 C CNN
+F 2 "scalenode-footprints:SOT-323" H 12700 3425 50  0001 C CNN
 F 3 "http://www.farnell.com/datasheets/953882.pdf?_ga=2.54433134.755650108.1590998510-1082836046.1584461759&_gac=1.5909127.1591003291.EAIaIQobChMIyurJn6Dg6QIVAsAYCh1pXwnTEAYYASABEgLilvD_BwE" H 12700 3425 50  0001 C CNN
 F 4 "BAV99W,115" H 13550 2910 50  0001 C CNN "MPN"
 F 5 "Nexperia" H 13550 3001 50  0001 C CNN "Manufacturer"
@@ -614,7 +614,7 @@ F 5 "Nexperia" H 13550 3001 50  0001 C CNN "Manufacturer"
 	1    0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR038
+L scalenode:GND #PWR038
 U 1 1 601F3B7C
 P 12450 4850
 F 0 "#PWR038" H 12450 4600 50  0001 C CNN
@@ -625,12 +625,12 @@ F 3 "" H 12450 4850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroTransistorsBipolarSingle:MMBT3906,215 Q5
+L scalenode:MMBT3906,215 Q5
 U 1 1 601DA79D
 P 13125 3750
 F 0 "Q5" H 13600 3475 50  0000 C CNN
 F 1 "MMBT3906,215" H 13825 3575 50  0000 C CNN
-F 2 "antmicro-footprints:SOT-23-3" H 13125 3750 50  0001 C CNN
+F 2 "scalenode-footprints:SOT-23-3" H 13125 3750 50  0001 C CNN
 F 3 "" H 13125 3750 50  0001 C CNN
 F 4 "MMBT3906,215" V 13754 3550 50  0001 C CNN "MPN"
 F 5 "ON SEMICONDUCTOR" V 13845 3550 50  0001 C CNN "Manufacturer"
@@ -638,12 +638,12 @@ F 5 "ON SEMICONDUCTOR" V 13845 3550 50  0001 C CNN "Manufacturer"
 	-1   0    0    1   
 $EndComp
 $Comp
-L antmicroResistors0603:R_10k_0603 R47
+L scalenode:R_10k_0603 R47
 U 1 1 601D9772
 P 12450 4450
 F 0 "R47" V 12405 4520 60  0000 L CNN
 F 1 "R_10k_0603" H 12450 4300 60  0001 C CNN
-F 2 "antmicro-footprints:0603-res" H 12650 4650 60  0001 L CNN
+F 2 "scalenode-footprints:0603-res" H 12650 4650 60  0001 L CNN
 F 3 "" H 12450 4450 50  0001 C CNN
 F 4 "BOURNS" H 12650 4850 60  0001 L CNN "Manufacturer"
 F 5 "CR0603-JW-103ELF" H 12650 4750 60  0001 L CNN "MPN"
@@ -652,12 +652,12 @@ F 6 "10k" V 12503 4520 50  0000 L CNN "Val"
 	0    1    1    0   
 $EndComp
 $Comp
-L antmicroResistors0603:R_49R9_0603 R48
+L scalenode:R_49R9_0603 R48
 U 1 1 601CC398
 P 12900 4275
 F 0 "R48" H 12900 4375 60  0000 C CNN
 F 1 "R_49R9_0603" H 12900 4125 60  0001 C CNN
-F 2 "antmicro-footprints:0603-res" H 13100 4475 60  0001 L CNN
+F 2 "scalenode-footprints:0603-res" H 13100 4475 60  0001 L CNN
 F 3 "http://www.farnell.com/datasheets/2310790.pdf" H 12900 4275 50  0001 C CNN
 F 4 "Vishay" H 13100 4675 60  0001 L CNN "Manufacturer"
 F 5 "CRCW060349R9FKEA" H 13100 4575 60  0001 L CNN "MPN"
@@ -679,7 +679,7 @@ Wire Wire Line
 Wire Wire Line
 	11900 3975 11950 3975
 $Comp
-L power:GNDD #PWR034
+L scalenode:GNDD #PWR034
 U 1 1 601B1A76
 P 11325 5250
 F 0 "#PWR034" H 11325 5000 50  0001 C CNN
@@ -690,7 +690,7 @@ F 3 "" H 11325 5250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR037
+L scalenode:GND #PWR037
 U 1 1 601A96AE
 P 11950 4850
 F 0 "#PWR037" H 11950 4600 50  0001 C CNN
@@ -709,12 +709,12 @@ CTRL_OUT
 Wire Wire Line
 	11500 4175 11350 4175
 $Comp
-L antmicroCapacitors0603:C_470n_0603 C37
+L scalenode:C_470n_0603 C37
 U 1 1 6018AD17
 P 11200 4175
 F 0 "C37" V 10942 4175 60  0000 C CNN
 F 1 "C_470n_0603" H 11200 4025 60  0001 C CNN
-F 2 "antmicro-footprints:0603-cap" H 11400 4375 60  0001 L CNN
+F 2 "scalenode-footprints:0603-cap" H 11400 4375 60  0001 L CNN
 F 3 "" H 11200 4175 50  0001 C CNN
 F 4 "TDK" H 11400 4575 60  0001 L CNN "Manufacturer"
 F 5 "C1608X5R1H474K080AB" H 11400 4475 60  0001 L CNN "MPN"
@@ -723,12 +723,12 @@ F 6 "470n" V 11040 4175 50  0000 C CNN "Val"
 	0    1    1    0   
 $EndComp
 $Comp
-L antmicroFixedInductors:P0926NL T1
+L scalenode:P0926NL T1
 U 1 1 60188A25
 P 11700 4325
 F 0 "T1" H 11700 4900 50  0000 C CNN
 F 1 "P0926NL" H 11700 4800 50  0000 C CNN
-F 2 "antmicro-footprints:Pulse_P0926NL" H 11700 4325 50  0001 C CNN
+F 2 "scalenode-footprints:Pulse_P0926NL" H 11700 4325 50  0001 C CNN
 F 3 "http://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf" H 11400 4325 50  0001 C CNN
 F 4 "P0926" H 11700 4856 50  0001 C CNN "MPN"
 F 5 "Pulse Electronics Power" H 11700 4765 50  0001 C CNN "Manufacturer"
@@ -736,12 +736,12 @@ F 5 "Pulse Electronics Power" H 11700 4765 50  0001 C CNN "Manufacturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroOptoisolatorsLogicOutput:TCMT1107 U4
+L scalenode:TCMT1107 U4
 U 1 1 60322F7D
 P 11775 6500
 F 0 "U4" H 11775 6837 60  0000 C CNN
 F 1 "TCMT1107" H 11775 6731 60  0000 C CNN
-F 2 "antmicro-footprints:TCMT1107" H 11975 6700 60  0001 L CNN
+F 2 "scalenode-footprints:TCMT1107" H 11975 6700 60  0001 L CNN
 F 3 "http://www.farnell.com/datasheets/2049304.pdf?_ga=2.50828655.755650108.1590998510-1082836046.1584461759&_gac=1.220400044.1591003291.EAIaIQobChMIyurJn6Dg6QIVAsAYCh1pXwnTEAYYASABEgLilvD_BwE" H 11975 6800 60  0001 L CNN
 F 4 "TCMT1107" H 11975 7000 60  0001 L CNN "MPN"
 F 5 "ON Semiconductor" H 11975 7600 60  0001 L CNN "Manufacturer"
@@ -749,12 +749,12 @@ F 5 "ON Semiconductor" H 11975 7600 60  0001 L CNN "Manufacturer"
 	-1   0    0    -1  
 $EndComp
 $Comp
-L antmicroResistors0603:R_1k_0603 R46
+L scalenode:R_1k_0603 R46
 U 1 1 603241D2
 P 12200 6150
 F 0 "R46" V 12155 6220 60  0000 L CNN
 F 1 "R_1k_0603" H 12200 6000 60  0001 C CNN
-F 2 "antmicro-footprints:0603-res" H 12400 6350 60  0001 L CNN
+F 2 "scalenode-footprints:0603-res" H 12400 6350 60  0001 L CNN
 F 3 "" H 12200 6150 50  0001 C CNN
 F 4 "BOURNS" H 12400 6550 60  0001 L CNN "Manufacturer"
 F 5 "CR0603-JW-102ELF" H 12400 6450 60  0001 L CNN "MPN"
@@ -773,12 +773,12 @@ VCC5V0
 Wire Wire Line
 	12200 5900 12200 6000
 $Comp
-L antmicroResistors0603:R_10k_0603 R49
+L scalenode:R_10k_0603 R49
 U 1 1 603426E1
 P 12500 6150
 F 0 "R49" V 12455 6220 60  0000 L CNN
 F 1 "R_10k_0603" H 12500 6000 60  0001 C CNN
-F 2 "antmicro-footprints:0603-res" H 12700 6350 60  0001 L CNN
+F 2 "scalenode-footprints:0603-res" H 12700 6350 60  0001 L CNN
 F 3 "" H 12500 6150 50  0001 C CNN
 F 4 "BOURNS" H 12700 6550 60  0001 L CNN "Manufacturer"
 F 5 "CR0603-JW-103ELF" H 12700 6450 60  0001 L CNN "MPN"
@@ -789,12 +789,12 @@ $EndComp
 Wire Wire Line
 	12500 6000 12500 5900
 $Comp
-L antmicroTVSDiodes:BAV99W,115 D13
+L scalenode:BAV99W,115 D13
 U 1 1 6034B44F
 P 13325 6600
 F 0 "D13" H 13625 6025 50  0000 C CNN
 F 1 "BAV99W,115" H 13625 6125 50  0000 C CNN
-F 2 "antmicro-footprints:SOT-323" H 12775 6550 50  0001 C CNN
+F 2 "scalenode-footprints:SOT-323" H 12775 6550 50  0001 C CNN
 F 3 "http://www.farnell.com/datasheets/953882.pdf?_ga=2.54433134.755650108.1590998510-1082836046.1584461759&_gac=1.5909127.1591003291.EAIaIQobChMIyurJn6Dg6QIVAsAYCh1pXwnTEAYYASABEgLilvD_BwE" H 12775 6550 50  0001 C CNN
 F 4 "BAV99W,115" H 13625 6035 50  0001 C CNN "MPN"
 F 5 "Nexperia" H 13625 6126 50  0001 C CNN "Manufacturer"
@@ -822,12 +822,12 @@ Wire Wire Line
 	12500 6400 12500 7750
 Connection ~ 12500 6400
 $Comp
-L antmicroCapacitors0603:C_1u_0603 C43
+L scalenode:C_1u_0603 C43
 U 1 1 603812D3
 P 12500 7900
 F 0 "C43" H 12615 7945 60  0000 L CNN
 F 1 "C_1u_0603" H 12500 7750 60  0001 C CNN
-F 2 "antmicro-footprints:0603-cap" H 12700 8100 60  0001 L CNN
+F 2 "scalenode-footprints:0603-cap" H 12700 8100 60  0001 L CNN
 F 3 "" H 12500 7900 50  0001 C CNN
 F 4 "WALSIN" H 12700 8300 60  0001 L CNN "Manufacturer"
 F 5 "0603YD105KAT2A" H 12700 8200 60  0001 L CNN "MPN"
@@ -836,7 +836,7 @@ F 6 "1u" H 12615 7847 50  0000 L CNN "Val"
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR039
+L scalenode:GND #PWR039
 U 1 1 6038AE65
 P 12500 8050
 F 0 "#PWR039" H 12500 7800 50  0001 C CNN
@@ -847,12 +847,12 @@ F 3 "" H 12500 8050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroResistors0603:R_41k2_0603 R51
+L scalenode:R_41k2_0603 R51
 U 1 1 6038C150
 P 13575 6775
 F 0 "R51" H 13575 6988 60  0000 C CNN
 F 1 "R_41k2_0603" H 13575 6625 60  0001 C CNN
-F 2 "antmicro-footprints:0603-res" H 13775 6975 60  0001 L CNN
+F 2 "scalenode-footprints:0603-res" H 13775 6975 60  0001 L CNN
 F 3 "http://www.farnell.com/datasheets/2310790.pdf" H 13575 6775 50  0001 C CNN
 F 4 "Vishay" H 13775 7175 60  0001 L CNN "Manufacturer"
 F 5 "CRCW060341K2FKEA" H 13775 7075 60  0001 L CNN "MPN"
@@ -864,12 +864,12 @@ Wire Wire Line
 	13425 6775 13375 6775
 Connection ~ 13375 6775
 $Comp
-L antmicroCapacitors0603:C_1n2_0603 C49
+L scalenode:C_1n2_0603 C49
 U 1 1 603960E6
 P 13900 6775
 F 0 "C49" V 13642 6775 60  0000 C CNN
 F 1 "C_1n2_0603" H 13900 6625 60  0001 C CNN
-F 2 "antmicro-footprints:0603-res" H 14100 6975 60  0001 L CNN
+F 2 "scalenode-footprints:0603-res" H 14100 6975 60  0001 L CNN
 F 3 "" H 13900 6775 50  0001 C CNN
 F 4 "KEMET" H 14100 7175 60  0001 L CNN "Manufacturer"
 F 5 "C0603C122K5RACTU" H 14100 7075 60  0001 L CNN "MPN"
@@ -878,12 +878,12 @@ F 6 "1n2" V 13740 6775 50  0000 C CNN "Val"
 	0    1    1    0   
 $EndComp
 $Comp
-L antmicroResistors0603:R_41k2_0603 R54
+L scalenode:R_41k2_0603 R54
 U 1 1 60396A1C
 P 14075 6525
 F 0 "R54" V 14030 6595 60  0000 L CNN
 F 1 "R_41k2_0603" H 14075 6375 60  0001 C CNN
-F 2 "antmicro-footprints:0603-res" H 14275 6725 60  0001 L CNN
+F 2 "scalenode-footprints:0603-res" H 14275 6725 60  0001 L CNN
 F 3 "http://www.farnell.com/datasheets/2310790.pdf" H 14075 6525 50  0001 C CNN
 F 4 "Vishay" H 14275 6925 60  0001 L CNN "Manufacturer"
 F 5 "CRCW060341K2FKEA" H 14275 6825 60  0001 L CNN "MPN"
@@ -892,12 +892,12 @@ F 6 "41k2" V 14128 6595 50  0000 L CNN "Val"
 	0    1    1    0   
 $EndComp
 $Comp
-L antmicroResistors0603:R_49R9_0603 R53
+L scalenode:R_49R9_0603 R53
 U 1 1 60397758
 P 14075 6100
 F 0 "R53" V 14030 6170 60  0000 L CNN
 F 1 "R_49R9_0603" H 14075 5950 60  0001 C CNN
-F 2 "antmicro-footprints:0603-res" H 14275 6300 60  0001 L CNN
+F 2 "scalenode-footprints:0603-res" H 14275 6300 60  0001 L CNN
 F 3 "http://www.farnell.com/datasheets/2310790.pdf" H 14075 6100 50  0001 C CNN
 F 4 "Vishay" H 14275 6500 60  0001 L CNN "Manufacturer"
 F 5 "CRCW060349R9FKEA" H 14275 6400 60  0001 L CNN "MPN"
@@ -913,12 +913,12 @@ Connection ~ 13375 5900
 Wire Wire Line
 	14075 6250 14075 6325
 $Comp
-L antmicroTestPoints:TP_SMD1MM TP6
+L scalenode:TP_SMD1MM TP6
 U 1 1 603C554A
 P 14175 6325
 F 0 "TP6" V 14175 6275 50  0000 R CNN
 F 1 "TP_SMD1MM" H 14175 6225 50  0001 C CNN
-F 2 "antmicro-footprints:Testpoint_smd_1mm" H 14375 6525 60  0001 L CNN
+F 2 "scalenode-footprints:Testpoint_smd_1mm" H 14375 6525 60  0001 L CNN
 F 3 "" H 14375 6625 60  0001 L CNN
 	1    14175 6325
 	0    -1   -1   0   
@@ -927,12 +927,12 @@ Connection ~ 14075 6325
 Wire Wire Line
 	14075 6325 14075 6375
 $Comp
-L antmicroTVSDiodes:TLV431ACDBVR D12
+L scalenode:TLV431ACDBVR D12
 U 1 1 603D5FC0
 P 13275 7775
 F 0 "D12" H 13575 7950 50  0000 C CNN
 F 1 "TLV431ACDBVR" H 13575 7850 50  0000 C CNN
-F 2 "antmicro-footprints:SOT-23-5" H 12725 7725 50  0001 C CNN
+F 2 "scalenode-footprints:SOT-23-5" H 12725 7725 50  0001 C CNN
 F 3 "http://www.farnell.com/datasheets/953882.pdf?_ga=2.54433134.755650108.1590998510-1082836046.1584461759&_gac=1.5909127.1591003291.EAIaIQobChMIyurJn6Dg6QIVAsAYCh1pXwnTEAYYASABEgLilvD_BwE" H 12725 7725 50  0001 C CNN
 F 4 "TLV431ACDBVR" H 13575 7940 50  0001 C CNN "MPN"
 F 5 "Texas Instruments" H 13575 7849 50  0001 C CNN "Manufacturer"
@@ -940,12 +940,12 @@ F 5 "Texas Instruments" H 13575 7849 50  0001 C CNN "Manufacturer"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L antmicroResistors0603:R_13k3_0603 R52
+L scalenode:R_13k3_0603 R52
 U 1 1 603F2CA9
 P 14075 7275
 F 0 "R52" H 14075 7488 60  0000 C CNN
 F 1 "R_13k3_0603" H 14075 7125 60  0001 C CNN
-F 2 "antmicro-footprints:0603-res" H 14275 7475 60  0001 L CNN
+F 2 "scalenode-footprints:0603-res" H 14275 7475 60  0001 L CNN
 F 3 "http://www.farnell.com/datasheets/2310790.pdf" H 14075 7275 50  0001 C CNN
 F 4 "Vishay" H 14275 7675 60  0001 L CNN "Manufacturer"
 F 5 "CRCW060313K3FKEA" H 14275 7575 60  0001 L CNN "MPN"
@@ -954,7 +954,7 @@ F 6 "13k3" H 14075 7390 50  0000 C CNN "Val"
 	0    1    1    0   
 $EndComp
 $Comp
-L power:GND #PWR040
+L scalenode:GND #PWR040
 U 1 1 60410A63
 P 14075 8025
 F 0 "#PWR040" H 14075 7775 50  0001 C CNN
@@ -969,12 +969,12 @@ Wire Wire Line
 Text Label 10650 6400 0    50   ~ 0
 CTRL_REF
 $Comp
-L antmicroResistors0603:R_1k_0603 R45
+L scalenode:R_1k_0603 R45
 U 1 1 60435A34
 P 11225 6600
 F 0 "R45" H 11225 6700 60  0000 C CNN
 F 1 "R_1k_0603" H 11225 6450 60  0001 C CNN
-F 2 "antmicro-footprints:0603-res" H 11425 6800 60  0001 L CNN
+F 2 "scalenode-footprints:0603-res" H 11425 6800 60  0001 L CNN
 F 3 "" H 11225 6600 50  0001 C CNN
 F 4 "BOURNS" H 11425 7000 60  0001 L CNN "Manufacturer"
 F 5 "CR0603-JW-102ELF" H 11425 6900 60  0001 L CNN "MPN"
@@ -985,12 +985,12 @@ $EndComp
 Text Label 10650 6600 0    50   ~ 0
 CTRL_FB
 $Comp
-L antmicroCapacitors0603:C_82n_0603 C39
+L scalenode:C_82n_0603 C39
 U 1 1 604551A1
 P 11425 6850
 F 0 "C39" H 11540 6895 60  0000 L CNN
 F 1 "C_82n_0603" H 11425 6700 60  0001 C CNN
-F 2 "antmicro-footprints:0603-cap" H 11625 7050 60  0001 L CNN
+F 2 "scalenode-footprints:0603-cap" H 11625 7050 60  0001 L CNN
 F 3 "" H 11425 6850 50  0001 C CNN
 F 4 "MULTICOMP" H 11625 7250 60  0001 L CNN "Manufacturer"
 F 5 "MC0603B823K500CT" H 11625 7150 60  0001 L CNN "MPN"
@@ -1006,7 +1006,7 @@ Connection ~ 11425 6600
 Wire Wire Line
 	11425 6600 11375 6600
 $Comp
-L power:GNDD #PWR036
+L scalenode:GNDD #PWR036
 U 1 1 6046BA5A
 P 11425 7000
 F 0 "#PWR036" H 11425 6750 50  0001 C CNN
@@ -1017,12 +1017,12 @@ F 3 "" H 11425 7000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroDCDCConverters:UCC3809D2 U3
+L scalenode:UCC3809D2 U3
 U 1 1 604D923A
 P 7300 5275
 F 0 "U3" H 7400 5662 60  0000 C CNN
 F 1 "UCC3809D2" H 7400 5556 60  0000 C CNN
-F 2 "antmicro-footprints:SOIC-8_W3.9mm" H 7550 5625 60  0001 L CNN
+F 2 "scalenode-footprints:SOIC-8_W3.9mm" H 7550 5625 60  0001 L CNN
 F 3 "http://www.ti.com/lit/ds/symlink/ucc2809-1.pdf" H 7500 5575 60  0001 L CNN
 F 4 "UCC3809D2" H 7500 5775 60  0001 L CNN "MPN"
 F 5 "Texas Instruments" H 7500 5925 60  0001 L CNN "Manufacturer"
@@ -1030,12 +1030,12 @@ F 5 "Texas Instruments" H 7500 5925 60  0001 L CNN "Manufacturer"
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroResistors0603:R_10k_0603 R35
+L scalenode:R_10k_0603 R35
 U 1 1 604DDF8D
 P 9350 5050
 F 0 "R35" H 9350 5263 60  0000 C CNN
 F 1 "R_10k_0603" H 9350 4900 60  0001 C CNN
-F 2 "antmicro-footprints:0603-res" H 9550 5250 60  0001 L CNN
+F 2 "scalenode-footprints:0603-res" H 9550 5250 60  0001 L CNN
 F 3 "" H 9350 5050 50  0001 C CNN
 F 4 "BOURNS" H 9550 5450 60  0001 L CNN "Manufacturer"
 F 5 "CR0603-JW-103ELF" H 9550 5350 60  0001 L CNN "MPN"
@@ -1044,12 +1044,12 @@ F 6 "10k" H 9350 5165 50  0000 C CNN "Val"
 	0    1    1    0   
 $EndComp
 $Comp
-L antmicroCapacitors0603:C_100n_0603 C30
+L scalenode:C_100n_0603 C30
 U 1 1 604DEE3E
 P 9350 5400
 F 0 "C30" V 9092 5400 60  0000 C CNN
 F 1 "C_100n_0603" H 9350 5250 60  0001 C CNN
-F 2 "antmicro-footprints:0603-cap" H 9550 5600 60  0001 L CNN
+F 2 "scalenode-footprints:0603-cap" H 9550 5600 60  0001 L CNN
 F 3 "" H 9350 5400 50  0001 C CNN
 F 4 "AVX" H 9550 5800 60  0001 L CNN "Manufacturer"
 F 5 "0603YC104KAZ2A" H 9550 5700 60  0001 L CNN "MPN"
@@ -1070,12 +1070,12 @@ Wire Wire Line
 Wire Wire Line
 	6675 5175 6675 4725
 $Comp
-L antmicroCapacitors0603:C_10n_0603 C26
+L scalenode:C_10n_0603 C26
 U 1 1 60528DCE
 P 6175 6100
 F 0 "C26" H 6290 6145 60  0000 L CNN
 F 1 "C_10n_0603" H 6175 5950 60  0001 C CNN
-F 2 "antmicro-footprints:0603-cap" H 6375 6300 60  0001 L CNN
+F 2 "scalenode-footprints:0603-cap" H 6375 6300 60  0001 L CNN
 F 3 "" H 6175 6100 50  0001 C CNN
 F 4 "AVX" H 6375 6500 60  0001 L CNN "Manufacturer"
 F 5 "06031C103JAT2A" H 6375 6400 60  0001 L CNN "MPN"
@@ -1084,12 +1084,12 @@ F 6 "10n" H 6290 6047 50  0000 L CNN "Val"
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroCapacitors0603:C_270p_0603 C27
+L scalenode:C_270p_0603 C27
 U 1 1 605296C6
 P 6575 6100
 F 0 "C27" H 6690 6145 60  0000 L CNN
 F 1 "C_270p_0603" H 6575 5950 60  0001 C CNN
-F 2 "antmicro-footprints:0603-cap" H 6775 6300 60  0001 L CNN
+F 2 "scalenode-footprints:0603-cap" H 6775 6300 60  0001 L CNN
 F 3 "" H 6575 6100 50  0001 C CNN
 F 4 "MULTICOMP" H 6775 6500 60  0001 L CNN "Manufacturer"
 F 5 "MC0603B271K500CT" H 6775 6400 60  0001 L CNN "MPN"
@@ -1098,12 +1098,12 @@ F 6 "270p" H 6690 6047 50  0000 L CNN "Val"
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroResistors0603:R_10k7_0603 R31
+L scalenode:R_10k7_0603 R31
 U 1 1 6052A084
 P 6575 5700
 F 0 "R31" V 6530 5770 60  0000 L CNN
 F 1 "R_10k7_0603" H 6575 5550 60  0001 C CNN
-F 2 "antmicro-footprints:0603-res" H 6775 5900 60  0001 L CNN
+F 2 "scalenode-footprints:0603-res" H 6775 5900 60  0001 L CNN
 F 3 "http://www.farnell.com/datasheets/2310790.pdf" H 6575 5700 50  0001 C CNN
 F 4 "Vishay" H 6775 6100 60  0001 L CNN "Manufacturer"
 F 5 "CRCW060310K7FKEA" H 6775 6000 60  0001 L CNN "MPN"
@@ -1112,12 +1112,12 @@ F 6 "10k7" V 6628 5770 50  0000 L CNN "Val"
 	0    1    1    0   
 $EndComp
 $Comp
-L antmicroResistors0603:R_4k64_0603 R33
+L scalenode:R_4k64_0603 R33
 U 1 1 6052AED6
 P 6925 5700
 F 0 "R33" V 6880 5770 60  0000 L CNN
 F 1 "R_4k64_0603" H 6925 5550 60  0001 C CNN
-F 2 "antmicro-footprints:0603-res" H 7125 5900 60  0001 L CNN
+F 2 "scalenode-footprints:0603-res" H 7125 5900 60  0001 L CNN
 F 3 "http://www.farnell.com/datasheets/2310790.pdf" H 6925 5700 50  0001 C CNN
 F 4 "Vishay" H 7125 6100 60  0001 L CNN "Manufacturer"
 F 5 "CRCW06034K64FKEA" H 7125 6000 60  0001 L CNN "MPN"
@@ -1154,7 +1154,7 @@ Wire Wire Line
 	6575 6325 6575 6450
 Connection ~ 6575 6325
 $Comp
-L power:GNDD #PWR021
+L scalenode:GNDD #PWR021
 U 1 1 605B2646
 P 6575 6450
 F 0 "#PWR021" H 6575 6200 50  0001 C CNN
@@ -1165,12 +1165,12 @@ F 3 "" H 6575 6450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroTransistorsBipolarSingle:MMBT3906,215 Q1
+L scalenode:MMBT3906,215 Q1
 U 1 1 605B5540
 P 8650 6150
 F 0 "Q1" H 9052 6087 50  0000 L CNN
 F 1 "MMBT3906,215" H 9052 5996 50  0000 L CNN
-F 2 "antmicro-footprints:SOT-23-3" H 8650 6150 50  0001 C CNN
+F 2 "scalenode-footprints:SOT-23-3" H 8650 6150 50  0001 C CNN
 F 3 "" H 8650 6150 50  0001 C CNN
 F 4 "MMBT3906,215" H 9052 5905 50  0001 L CNN "MPN"
 F 5 "ON SEMICONDUCTOR" H 9052 5814 50  0001 L CNN "Manufacturer"
@@ -1178,12 +1178,12 @@ F 5 "ON SEMICONDUCTOR" H 9052 5814 50  0001 L CNN "Manufacturer"
 	1    0    0    1   
 $EndComp
 $Comp
-L antmicroResistors0402:R_4k99_0402 R38
+L scalenode:R_4k99_0402 R38
 U 1 1 605B717D
 P 8950 5475
 F 0 "R38" V 8905 5545 60  0000 L CNN
 F 1 "R_4k99_0402" H 8950 5325 60  0001 C CNN
-F 2 "antmicro-footprints:0402-res" H 9150 5675 60  0001 L CNN
+F 2 "scalenode-footprints:0402-res" H 9150 5675 60  0001 L CNN
 F 3 "" H 8950 5475 50  0001 C CNN
 F 4 "MULTICOMP" H 9150 5875 60  0001 L CNN "Manufacturer"
 F 5 "MCMR04X4991FTL" H 9150 5775 60  0001 L CNN "MPN"
@@ -1205,7 +1205,7 @@ Wire Wire Line
 Wire Wire Line
 	7900 5475 7900 5625
 $Comp
-L power:GNDD #PWR024
+L scalenode:GNDD #PWR024
 U 1 1 605FC624
 P 7900 5625
 F 0 "#PWR024" H 7900 5375 50  0001 C CNN
@@ -1218,12 +1218,12 @@ $EndComp
 Text Label 7825 5275 0    50   ~ 0
 CTRL_VDD
 $Comp
-L antmicroCapacitors0603:C_1u_0603 C35
+L scalenode:C_1u_0603 C35
 U 1 1 606150C7
 P 8500 5725
 F 0 "C35" H 8615 5770 60  0000 L CNN
 F 1 "C_1u_0603" H 8500 5575 60  0001 C CNN
-F 2 "antmicro-footprints:0603-cap" H 8700 5925 60  0001 L CNN
+F 2 "scalenode-footprints:0603-cap" H 8700 5925 60  0001 L CNN
 F 3 "" H 8500 5725 50  0001 C CNN
 F 4 "WALSIN" H 8700 6125 60  0001 L CNN "Manufacturer"
 F 5 "0603YD105KAT2A" H 8700 6025 60  0001 L CNN "MPN"
@@ -1238,7 +1238,7 @@ Wire Wire Line
 Wire Wire Line
 	8950 6150 8950 6450
 $Comp
-L power:GNDD #PWR027
+L scalenode:GNDD #PWR027
 U 1 1 605E046D
 P 8950 6450
 F 0 "#PWR027" H 8950 6200 50  0001 C CNN
@@ -1251,7 +1251,7 @@ $EndComp
 Wire Wire Line
 	8500 5875 8500 6450
 $Comp
-L power:GNDD #PWR029
+L scalenode:GNDD #PWR029
 U 1 1 6063121C
 P 8500 6450
 F 0 "#PWR029" H 8500 6200 50  0001 C CNN
@@ -1265,12 +1265,12 @@ Connection ~ 8950 5700
 Wire Wire Line
 	8950 5700 8950 5750
 $Comp
-L antmicroPMICPowerDistributionSwitchesLoadDrivers:TPS2378DDA IC2
+L scalenode:TPS2378DDA IC2
 U 1 1 5FF8289A
 P 4775 2950
 F 0 "IC2" H 5275 3215 50  0000 C CNN
 F 1 "TPS2378DDA" H 5275 3124 50  0000 C CNN
-F 2 "antmicro-footprints:SOIC127P600X170-9N" H 5625 3050 50  0001 L CNN
+F 2 "scalenode-footprints:SOIC127P600X170-9N" H 5625 3050 50  0001 L CNN
 F 3 "http://www.ti.com/lit/ds/symlink/tps2378.pdf" H 5625 2950 50  0001 L CNN
 F 4 "IEEE 802.3at PoE High-Power PD Interface with AUX Control" H 5625 2850 50  0001 L CNN "Description"
 F 5 "Texas Instruments" H 5625 2650 50  0001 L CNN "Manufacturer"
@@ -1283,12 +1283,12 @@ F 10 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS2378DDA?qs=577
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroResistors0402:R_24k9_0402 R36
+L scalenode:R_24k9_0402 R36
 U 1 1 5FF839A6
 P 4625 3050
 F 0 "R36" H 4625 3263 60  0000 C CNN
 F 1 "R_24k9_0402" H 4625 2900 60  0001 C CNN
-F 2 "antmicro-footprints:0402-res" H 4825 3250 60  0001 L CNN
+F 2 "scalenode-footprints:0402-res" H 4825 3250 60  0001 L CNN
 F 3 "" H 4625 3050 50  0001 C CNN
 F 4 "WALSIN" H 4825 3450 60  0001 L CNN "Manufacturer"
 F 5 "WR04X2492FTL" H 4825 3350 60  0001 L CNN "MPN"
@@ -1303,12 +1303,12 @@ Wire Wire Line
 Wire Wire Line
 	4400 3050 4400 2725
 $Comp
-L antmicroResistors0402:R_63R4_0402 R34
+L scalenode:R_63R4_0402 R34
 U 1 1 5FFAFE0F
 P 4425 3300
 F 0 "R34" V 4380 3370 60  0000 L CNN
 F 1 "R_63R4_0402" H 4425 3150 60  0001 C CNN
-F 2 "antmicro-footprints:0402-res" H 4625 3500 60  0001 L CNN
+F 2 "scalenode-footprints:0402-res" H 4625 3500 60  0001 L CNN
 F 3 "" H 4425 3300 50  0001 C CNN
 F 4 "Vishay" H 4625 3700 60  0001 L CNN "Manufacturer"
 F 5 "CRCW040263R4FKED" H 4625 3600 60  0001 L CNN "MPN"
@@ -1321,12 +1321,12 @@ Wire Wire Line
 Wire Wire Line
 	4775 3250 4775 3750
 $Comp
-L antmicroCapacitorsmisc:C_100n_0805_100V C28
+L scalenode:C_100n_0805_100V C28
 U 1 1 5FFDDDC5
 P 4100 3125
 F 0 "C28" H 3900 3200 60  0000 L CNN
 F 1 "C_100n_0805_100V" H 4100 2975 60  0001 C CNN
-F 2 "antmicro-footprints:0805-cap" H 4300 3325 60  0001 L CNN
+F 2 "scalenode-footprints:0805-cap" H 4300 3325 60  0001 L CNN
 F 3 "http://www.farnell.com/datasheets/2710694.pdf" H 4100 3125 50  0001 C CNN
 F 4 "SAMSUNG" H 4300 3525 60  0001 L CNN "Manufacturer"
 F 5 "CL21B104KCFNNNE" H 4300 3425 60  0001 L CNN "MPN"
@@ -1335,12 +1335,12 @@ F 6 "100n/100V" V 3950 2725 50  0000 L CNN "Val"
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroDiodesRectifiersSingle:SMAJ58A-13-F D6
+L scalenode:SMAJ58A-13-F D6
 U 1 1 5FFDE809
 P 3775 3125
 F 0 "D6" V 3850 3350 60  0000 R CNN
 F 1 "SMAJ58A-13-F" V 3725 3900 60  0000 R CNN
-F 2 "antmicro-footprints:DO-214AC" H 3975 3325 60  0001 L CNN
+F 2 "scalenode-footprints:DO-214AC" H 3975 3325 60  0001 L CNN
 F 3 "https://4donline.ihs.com/images/VipMasterIC/IC/DIOD/DIOD-S-A0001754755/DIOD-S-A0001754755-1.pdf?hkey=52A5661711E402568146F3353EA87419" H 3975 3425 60  0001 L CNN
 F 4 "SMAJ58A-13-F" H 3975 3625 60  0001 L CNN "MPN"
 F 5 "Diodes Incorporated" H 3975 4225 60  0001 L CNN "Manufacturer"
@@ -1365,7 +1365,7 @@ Wire Wire Line
 	5850 3250 5775 3250
 Connection ~ 5850 3250
 $Comp
-L power:GNDD #PWR033
+L scalenode:GNDD #PWR033
 U 1 1 60129DE0
 P 5850 3675
 F 0 "#PWR033" H 5850 3425 50  0001 C CNN
@@ -1410,12 +1410,12 @@ Text Label 6025 3150 0    50   ~ 0
 CDB
 Connection ~ 6175 5275
 $Comp
-L antmicroLEDIndicationDiscrete:KP-1608CGCK D8
+L scalenode:KP-1608CGCK D8
 U 1 1 602918FF
 P 7350 2825
 F 0 "D8" H 7125 2975 60  0000 L CNN
 F 1 "KP-1608CGCK" H 6825 2700 60  0000 L CNN
-F 2 "antmicro-footprints:LED_0603" H 7550 3025 60  0001 L CNN
+F 2 "scalenode-footprints:LED_0603" H 7550 3025 60  0001 L CNN
 F 3 "http://www.farnell.com/datasheets/2045956.pdf" H 7550 3125 60  0001 L CNN
 F 4 "KP-1608CGCK" H 7550 3325 60  0001 L CNN "MPN"
 F 5 "KINGBRIGHT" H 7560 3445 60  0001 L CNN "Manufacturer"
@@ -1423,12 +1423,12 @@ F 5 "KINGBRIGHT" H 7560 3445 60  0001 L CNN "Manufacturer"
 	0    1    1    0   
 $EndComp
 $Comp
-L antmicroCapacitorsmisc:C_1u_1210_100V C34
+L scalenode:C_1u_1210_100V C34
 U 1 1 5FFD6C03
 P 9900 1600
 F 0 "C34" H 9725 1700 60  0000 L CNN
 F 1 "C_1u_1210_100V" H 9900 1450 60  0001 C CNN
-F 2 "antmicro-footprints:1210-cap" H 10100 1800 60  0001 L CNN
+F 2 "scalenode-footprints:1210-cap" H 10100 1800 60  0001 L CNN
 F 3 "" H 9900 1600 50  0001 C CNN
 F 4 "AVX" H 10100 2000 60  0001 L CNN "Manufacturer"
 F 5 "12101C105K4Z2A" H 10100 1900 60  0001 L CNN "MPN"
@@ -1437,12 +1437,12 @@ F 6 "1u/100V" V 9775 1300 50  0000 L CNN "Val"
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroCapacitorsmisc:C_1u_1210_100V C32
+L scalenode:C_1u_1210_100V C32
 U 1 1 5FFD7782
 P 9600 1600
 F 0 "C32" H 9400 1700 60  0000 L CNN
 F 1 "C_1u_1210_100V" H 9600 1450 60  0001 C CNN
-F 2 "antmicro-footprints:1210-cap" H 9800 1800 60  0001 L CNN
+F 2 "scalenode-footprints:1210-cap" H 9800 1800 60  0001 L CNN
 F 3 "" H 9600 1600 50  0001 C CNN
 F 4 "AVX" H 9800 2000 60  0001 L CNN "Manufacturer"
 F 5 "12101C105K4Z2A" H 9800 1900 60  0001 L CNN "MPN"
@@ -1458,12 +1458,12 @@ Wire Wire Line
 	10250 1850 10250 1750
 Connection ~ 10350 1850
 $Comp
-L antmicroFerriteBeadsandChips:BLM21PG221SN1D FB1
+L scalenode:BLM21PG221SN1D FB1
 U 1 1 5FF47E4A
 P 3025 3750
 F 0 "FB1" H 3000 3900 60  0000 C CNN
 F 1 "BLM21PG221SN1D" H 3275 3575 60  0000 C CNN
-F 2 "antmicro-footprints:0805-res" H 3225 3950 60  0001 L CNN
+F 2 "scalenode-footprints:0805-res" H 3225 3950 60  0001 L CNN
 F 3 "" H 3225 4050 60  0001 L CNN
 F 4 "BLM21PG221SN1D" H 3225 4250 60  0001 L CNN "MPN"
 F 5 "Murata Electronics North America" H 3225 4850 60  0001 L CNN "Manufacturer"
@@ -1489,12 +1489,12 @@ Connection ~ 3775 3750
 Wire Wire Line
 	5775 3050 6875 3050
 $Comp
-L antmicroResistors0603:R_10k_0603 R32
+L scalenode:R_10k_0603 R32
 U 1 1 602D82AD
 P 7025 3050
 F 0 "R32" H 6950 2975 60  0000 L CNN
 F 1 "R_10k_0603" H 7025 2900 60  0001 C CNN
-F 2 "antmicro-footprints:0603-res" H 7225 3250 60  0001 L CNN
+F 2 "scalenode-footprints:0603-res" H 7225 3250 60  0001 L CNN
 F 3 "" H 7025 3050 50  0001 C CNN
 F 4 "BOURNS" H 7225 3450 60  0001 L CNN "Manufacturer"
 F 5 "CR0603-JW-103ELF" H 7225 3350 60  0001 L CNN "MPN"
@@ -1512,12 +1512,12 @@ Wire Wire Line
 Wire Wire Line
 	9300 2250 9525 2250
 $Comp
-L antmicroTestPoints:TP_SMD1MM TP3
+L scalenode:TP_SMD1MM TP3
 U 1 1 60090130
 P 8750 2025
 F 0 "TP3" H 8750 1950 50  0000 C CNN
 F 1 "TP_SMD1MM" H 8750 1925 50  0001 C CNN
-F 2 "antmicro-footprints:Testpoint_smd_1mm" H 8950 2225 60  0001 L CNN
+F 2 "scalenode-footprints:Testpoint_smd_1mm" H 8950 2225 60  0001 L CNN
 F 3 "" H 8950 2325 60  0001 L CNN
 	1    8750 2025
 	-1   0    0    1   
@@ -1527,7 +1527,7 @@ CTRL_VDD
 Wire Wire Line
 	9300 1750 9300 2250
 $Comp
-L power:GNDD #PWR025
+L scalenode:GNDD #PWR025
 U 1 1 60062B2F
 P 9300 2925
 F 0 "#PWR025" H 9300 2675 50  0001 C CNN
@@ -1553,12 +1553,12 @@ Connection ~ 9300 2250
 Wire Wire Line
 	9300 2375 9300 2250
 $Comp
-L antmicroCapacitors0603:C_220n_0603_25V C31
+L scalenode:C_220n_0603_25V C31
 U 1 1 6005305A
 P 9300 2525
 F 0 "C31" H 9025 2575 60  0000 L CNN
 F 1 "C_220n_0603_25V" H 9300 2375 60  0001 C CNN
-F 2 "antmicro-footprints:0603-cap" H 9500 2725 60  0001 L CNN
+F 2 "scalenode-footprints:0603-cap" H 9500 2725 60  0001 L CNN
 F 3 "" H 9300 2525 50  0001 C CNN
 F 4 "MULTICOMP" H 9500 2925 60  0001 L CNN "Manufacturer"
 F 5 "C1608X5R1H474K080AB" H 9500 2825 60  0001 L CNN "MPN"
@@ -1567,12 +1567,12 @@ F 6 "220n" H 9025 2475 50  0000 L CNN "Val"
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroCapacitorspol:C_22u_ELEC_25V C33
+L scalenode:C_22u_ELEC_25V C33
 U 1 1 60051B68
 P 9525 2475
 F 0 "C33" H 9625 2475 60  0000 L CNN
 F 1 "C_22u_ELEC_25V" H 9525 2325 60  0001 C CNN
-F 2 "antmicro-footprints:CP_Elec_5x5.8" H 9725 2675 60  0001 L CNN
+F 2 "scalenode-footprints:CP_Elec_5x5.8" H 9725 2675 60  0001 L CNN
 F 3 "http://www.farnell.com/datasheets/2813657.pdf" H 9525 2475 50  0001 C CNN
 F 4 "PANASONIC" H 9725 2875 60  0001 L CNN "Manufacturer"
 F 5 "EEEFK1E220R" H 9725 2775 60  0001 L CNN "MPN"
@@ -1629,12 +1629,12 @@ Wire Wire Line
 Wire Wire Line
 	12025 1375 12075 1375
 $Comp
-L antmicroTransistorsFETsMOSFETsSingle:SI7848BDP-T1-E3 Q3
+L scalenode:SI7848BDP-T1-E3 Q3
 U 1 1 617F8F0E
 P 12725 2750
 F 0 "Q3" V 12775 3000 60  0000 C CNN
 F 1 "SI7848BDP-T1-E3" V 12625 3350 60  0000 C CNN
-F 2 "antmicro-footprints:PowerPAK_SO-8_Single" H 12925 2950 60  0001 L CNN
+F 2 "scalenode-footprints:PowerPAK_SO-8_Single" H 12925 2950 60  0001 L CNN
 F 3 "https://www.vishay.com/docs/74632/si7848bdp.pdf" H 12925 3050 60  0001 L CNN
 F 4 "SI7848BDP-T1-E3" H 12925 3250 60  0001 L CNN "MPN"
 F 5 "Vishay" H 12925 3350 60  0001 L CNN "Manufacturer"
@@ -1682,12 +1682,12 @@ Wire Wire Line
 	13075 2450 13275 2450
 Connection ~ 13075 2450
 $Comp
-L antmicroCapacitors0603:C_47u_0603 C41
+L scalenode:C_47u_0603 C41
 U 1 1 5FF9DDF4
 P 13275 2275
 F 0 "C41" H 13390 2320 60  0000 L CNN
 F 1 "C_47u_0603" H 13275 2125 60  0001 C CNN
-F 2 "antmicro-footprints:0603-cap" H 13475 2475 60  0001 L CNN
+F 2 "scalenode-footprints:0603-cap" H 13475 2475 60  0001 L CNN
 F 3 "" H 13275 2275 50  0001 C CNN
 F 4 "MURATA" H 13475 2675 60  0001 L CNN "Manufacturer"
 F 5 "GRM188R60J476ME15D" H 13475 2575 60  0001 L CNN "MPN"
@@ -1768,12 +1768,12 @@ Wire Wire Line
 	12450 4300 12450 4275
 Connection ~ 12450 4275
 $Comp
-L antmicroCapacitors0603:C_470n_0603 C40
+L scalenode:C_470n_0603 C40
 U 1 1 601CADD7
 P 12250 4275
 F 0 "C40" V 11992 4275 60  0000 C CNN
 F 1 "C_470n_0603" H 12250 4125 60  0001 C CNN
-F 2 "antmicro-footprints:0603-cap" H 12450 4475 60  0001 L CNN
+F 2 "scalenode-footprints:0603-cap" H 12450 4475 60  0001 L CNN
 F 3 "" H 12250 4275 50  0001 C CNN
 F 4 "TDK" H 12450 4675 60  0001 L CNN "Manufacturer"
 F 5 "C1608X5R1H474K080AB" H 12450 4575 60  0001 L CNN "MPN"
@@ -1792,7 +1792,7 @@ Connection ~ 11000 4725
 Wire Wire Line
 	11000 4725 11000 3350
 $Comp
-L power:GND #PWR0109
+L scalenode:GND #PWR0109
 U 1 1 6232B7CA
 P 12825 3975
 F 0 "#PWR0109" H 12825 3725 50  0001 C CNN
@@ -1943,12 +1943,12 @@ Wire Wire Line
 Wire Wire Line
 	5075 9875 5075 9650
 $Comp
-L antmicroResistorsmisc:R_0R_1206 R17
+L scalenode:R_0R_1206 R17
 U 1 1 603F6E84
 P 5375 9650
 F 0 "R17" H 5375 9863 60  0000 C CNN
 F 1 "R_0R_1206" H 5375 9500 60  0001 C CNN
-F 2 "antmicro-footprints:1206-res" H 5575 9850 60  0001 L CNN
+F 2 "scalenode-footprints:1206-res" H 5575 9850 60  0001 L CNN
 F 3 "" H 5375 9650 50  0001 C CNN
 F 4 "MULTICOMP" H 5575 10050 60  0001 L CNN "Manufacturer"
 F 5 "MCMR12X000_PTL" H 5575 9950 60  0001 L CNN "MPN"
@@ -1966,7 +1966,7 @@ Wire Wire Line
 Wire Wire Line
 	5075 10125 5075 9875
 $Comp
-L power:GND #PWR0108
+L scalenode:GND #PWR0108
 U 1 1 603C9E45
 P 5700 10100
 F 0 "#PWR0108" H 5700 9850 50  0001 C CNN
@@ -1977,7 +1977,7 @@ F 3 "" H 5700 10100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:Earth #PWR0107
+L scalenode:Earth #PWR0107
 U 1 1 603C9A1B
 P 5075 10125
 F 0 "#PWR0107" H 5075 9875 50  0001 C CNN
@@ -1988,12 +1988,12 @@ F 3 "~" H 5075 10125 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroCapacitorsmisc:C_1n_1210_2kV C50
+L scalenode:C_1n_1210_2kV C50
 U 1 1 603C948B
 P 5375 9875
 F 0 "C50" V 5175 9950 60  0000 R CNN
 F 1 "C_1n_1210_2kV" H 5375 9725 60  0001 C CNN
-F 2 "antmicro-footprints:1210-cap" H 5575 10075 60  0001 L CNN
+F 2 "scalenode-footprints:1210-cap" H 5575 10075 60  0001 L CNN
 F 3 "" H 5375 9875 50  0001 C CNN
 F 4 "KEMET" H 5575 10275 60  0001 L CNN "Manufacturer"
 F 5 "C1210C102KGRACTU" H 5575 10175 60  0001 L CNN "MPN"
@@ -2002,7 +2002,7 @@ F 6 "1n/2kV" V 5075 10025 50  0000 R CNN "Val"
 	0    1    -1   0   
 $EndComp
 $Comp
-L power:Earth #PWR0106
+L scalenode:Earth #PWR0106
 U 1 1 60379059
 P 4125 10125
 F 0 "#PWR0106" H 4125 9875 50  0001 C CNN
@@ -2024,7 +2024,7 @@ Wire Wire Line
 Wire Wire Line
 	6275 9225 6275 10100
 $Comp
-L power:GND #PWR0105
+L scalenode:GND #PWR0105
 U 1 1 602D4830
 P 6275 10100
 F 0 "#PWR0105" H 6275 9850 50  0001 C CNN
@@ -2045,12 +2045,12 @@ Wire Wire Line
 Text Notes 900  9000 0    50   ~ 0
 TODO: verify the footprint, add 3D model
 $Comp
-L antmicroModularConnectorsJacks:SS-74800-144 J6
+L scalenode:SS-74800-144 J6
 U 1 1 600316CC
 P 1675 7925
 F 0 "J6" V 1679 7470 50  0000 R CNN
 F 1 "SS-74800-144" V 1770 7470 50  0000 R CNN
-F 2 "antmicro-footprints:SS-74800-144" H 1875 8125 50  0001 L CNN
+F 2 "scalenode-footprints:SS-74800-144" H 1875 8125 50  0001 L CNN
 F 3 "https://belfuse.com/resources/drawings/stewartconnector/dr-STW-SS-74800-144.pdf" H 1875 8225 60  0001 L CNN
 F 4 "SS-74800-144" H 1875 8425 60  0001 L CNN "MPN"
 F 5 "Stewart Connector" H 1325 8625 60  0001 L CNN "Manufacturer"
@@ -2084,12 +2084,12 @@ TRD0_P
 Wire Wire Line
 	6275 8525 6275 8925
 $Comp
-L antmicroCapacitorsmisc:C_1n_1210_2kV C25
+L scalenode:C_1n_1210_2kV C25
 U 1 1 5FF27A1E
 P 6275 9075
 F 0 "C25" H 6160 9030 60  0000 R CNN
 F 1 "C_1n_1210_2kV" H 6275 8925 60  0001 C CNN
-F 2 "antmicro-footprints:1210-cap" H 6475 9275 60  0001 L CNN
+F 2 "scalenode-footprints:1210-cap" H 6475 9275 60  0001 L CNN
 F 3 "" H 6275 9075 50  0001 C CNN
 F 4 "KEMET" H 6475 9475 60  0001 L CNN "Manufacturer"
 F 5 "C1210C102KGRACTU" H 6475 9375 60  0001 L CNN "MPN"
@@ -2139,12 +2139,12 @@ Wire Wire Line
 Wire Wire Line
 	5800 7325 5600 7325
 $Comp
-L antmicroResistors0402:R_75R_0402 R30
+L scalenode:R_75R_0402 R30
 U 1 1 5FF15360
 P 5950 8525
 F 0 "R30" H 5950 8425 60  0000 C CNN
 F 1 "R_75R_0402" H 5950 8375 60  0001 C CNN
-F 2 "antmicro-footprints:0402-res" H 6150 8725 60  0001 L CNN
+F 2 "scalenode-footprints:0402-res" H 6150 8725 60  0001 L CNN
 F 3 "" H 5950 8525 50  0001 C CNN
 F 4 "YAGEO" H 6150 8925 60  0001 L CNN "Manufacturer"
 F 5 "RC0402FR-0775RL" H 6150 8825 60  0001 L CNN "MPN"
@@ -2153,12 +2153,12 @@ F 6 "75R" H 5950 8525 50  0000 C CNN "Val"
 	-1   0    0    1   
 $EndComp
 $Comp
-L antmicroResistors0402:R_75R_0402 R29
+L scalenode:R_75R_0402 R29
 U 1 1 5FF150C1
 P 5950 8125
 F 0 "R29" H 5950 8025 60  0000 C CNN
 F 1 "R_75R_0402" H 5950 7975 60  0001 C CNN
-F 2 "antmicro-footprints:0402-res" H 6150 8325 60  0001 L CNN
+F 2 "scalenode-footprints:0402-res" H 6150 8325 60  0001 L CNN
 F 3 "" H 5950 8125 50  0001 C CNN
 F 4 "YAGEO" H 6150 8525 60  0001 L CNN "Manufacturer"
 F 5 "RC0402FR-0775RL" H 6150 8425 60  0001 L CNN "MPN"
@@ -2167,12 +2167,12 @@ F 6 "75R" H 5950 8125 50  0000 C CNN "Val"
 	-1   0    0    1   
 $EndComp
 $Comp
-L antmicroResistors0402:R_75R_0402 R28
+L scalenode:R_75R_0402 R28
 U 1 1 5FF14CF6
 P 5950 7725
 F 0 "R28" H 5950 7625 60  0000 C CNN
 F 1 "R_75R_0402" H 5950 7575 60  0001 C CNN
-F 2 "antmicro-footprints:0402-res" H 6150 7925 60  0001 L CNN
+F 2 "scalenode-footprints:0402-res" H 6150 7925 60  0001 L CNN
 F 3 "" H 5950 7725 50  0001 C CNN
 F 4 "YAGEO" H 6150 8125 60  0001 L CNN "Manufacturer"
 F 5 "RC0402FR-0775RL" H 6150 8025 60  0001 L CNN "MPN"
@@ -2181,12 +2181,12 @@ F 6 "75R" H 5950 7725 50  0000 C CNN "Val"
 	-1   0    0    1   
 $EndComp
 $Comp
-L antmicroResistors0402:R_75R_0402 R27
+L scalenode:R_75R_0402 R27
 U 1 1 5FF14144
 P 5950 7325
 F 0 "R27" H 5950 7225 60  0000 C CNN
 F 1 "R_75R_0402" H 5950 7175 60  0001 C CNN
-F 2 "antmicro-footprints:0402-res" H 6150 7525 60  0001 L CNN
+F 2 "scalenode-footprints:0402-res" H 6150 7525 60  0001 L CNN
 F 3 "" H 5950 7325 50  0001 C CNN
 F 4 "YAGEO" H 6150 7725 60  0001 L CNN "Manufacturer"
 F 5 "RC0402FR-0775RL" H 6150 7625 60  0001 L CNN "MPN"
@@ -2241,12 +2241,12 @@ Wire Wire Line
 Wire Wire Line
 	3800 9700 4025 9700
 $Comp
-L antmicroCapacitorsmisc:C_1n_1210_2kV C22
+L scalenode:C_1n_1210_2kV C22
 U 1 1 5FF03159
 P 4125 9925
 F 0 "C22" H 4010 9880 60  0000 R CNN
 F 1 "C_1n_1210_2kV" H 4125 9775 60  0001 C CNN
-F 2 "antmicro-footprints:1210-cap" H 4325 10125 60  0001 L CNN
+F 2 "scalenode-footprints:1210-cap" H 4325 10125 60  0001 L CNN
 F 3 "" H 4125 9925 50  0001 C CNN
 F 4 "KEMET" H 4325 10325 60  0001 L CNN "Manufacturer"
 F 5 "C1210C102KGRACTU" H 4325 10225 60  0001 L CNN "MPN"
@@ -2255,12 +2255,12 @@ F 6 "1n/2kV" H 4010 9978 50  0000 R CNN "Val"
 	-1   0    0    -1  
 $EndComp
 $Comp
-L antmicroResistors0402:R_75R_0402 R23
+L scalenode:R_75R_0402 R23
 U 1 1 5FF011C9
 P 3800 9425
 F 0 "R23" H 3700 9325 60  0000 L CNN
 F 1 "R_75R_0402" H 3800 9275 60  0001 C CNN
-F 2 "antmicro-footprints:0402-res" H 4000 9625 60  0001 L CNN
+F 2 "scalenode-footprints:0402-res" H 4000 9625 60  0001 L CNN
 F 3 "" H 3800 9425 50  0001 C CNN
 F 4 "YAGEO" H 4000 9825 60  0001 L CNN "Manufacturer"
 F 5 "RC0402FR-0775RL" H 4000 9725 60  0001 L CNN "MPN"
@@ -2269,12 +2269,12 @@ F 6 "75R" H 3725 9425 50  0000 L CNN "Val"
 	0    1    1    0   
 $EndComp
 $Comp
-L antmicroResistors0402:R_75R_0402 R24
+L scalenode:R_75R_0402 R24
 U 1 1 5FF00E72
 P 4025 9425
 F 0 "R24" H 3925 9325 60  0000 L CNN
 F 1 "R_75R_0402" H 4025 9275 60  0001 C CNN
-F 2 "antmicro-footprints:0402-res" H 4225 9625 60  0001 L CNN
+F 2 "scalenode-footprints:0402-res" H 4225 9625 60  0001 L CNN
 F 3 "" H 4025 9425 50  0001 C CNN
 F 4 "YAGEO" H 4225 9825 60  0001 L CNN "Manufacturer"
 F 5 "RC0402FR-0775RL" H 4225 9725 60  0001 L CNN "MPN"
@@ -2283,12 +2283,12 @@ F 6 "75R" H 3950 9425 50  0000 L CNN "Val"
 	0    1    1    0   
 $EndComp
 $Comp
-L antmicroResistors0402:R_75R_0402 R25
+L scalenode:R_75R_0402 R25
 U 1 1 5FF00B27
 P 4250 9425
 F 0 "R25" H 4150 9325 60  0000 L CNN
 F 1 "R_75R_0402" H 4250 9275 60  0001 C CNN
-F 2 "antmicro-footprints:0402-res" H 4450 9625 60  0001 L CNN
+F 2 "scalenode-footprints:0402-res" H 4450 9625 60  0001 L CNN
 F 3 "" H 4250 9425 50  0001 C CNN
 F 4 "YAGEO" H 4450 9825 60  0001 L CNN "Manufacturer"
 F 5 "RC0402FR-0775RL" H 4450 9725 60  0001 L CNN "MPN"
@@ -2297,12 +2297,12 @@ F 6 "75R" H 4175 9425 50  0000 L CNN "Val"
 	0    1    1    0   
 $EndComp
 $Comp
-L antmicroResistors0402:R_75R_0402 R26
+L scalenode:R_75R_0402 R26
 U 1 1 5FF002FD
 P 4475 9425
 F 0 "R26" H 4375 9325 60  0000 L CNN
 F 1 "R_75R_0402" H 4475 9275 60  0001 C CNN
-F 2 "antmicro-footprints:0402-res" H 4675 9625 60  0001 L CNN
+F 2 "scalenode-footprints:0402-res" H 4675 9625 60  0001 L CNN
 F 3 "" H 4475 9425 50  0001 C CNN
 F 4 "YAGEO" H 4675 9825 60  0001 L CNN "Manufacturer"
 F 5 "RC0402FR-0775RL" H 4675 9725 60  0001 L CNN "MPN"
@@ -2323,12 +2323,12 @@ Wire Wire Line
 Wire Wire Line
 	4250 8975 4250 8125
 $Comp
-L antmicroCapacitors0402:C_10n_0402 C20
+L scalenode:C_10n_0402 C20
 U 1 1 5FEFD6C5
 P 3800 9125
 F 0 "C20" H 3600 9200 60  0000 L CNN
 F 1 "C_10n_0402" H 3800 8975 60  0001 C CNN
-F 2 "antmicro-footprints:0402-cap" H 4000 9325 60  0001 L CNN
+F 2 "scalenode-footprints:0402-cap" H 4000 9325 60  0001 L CNN
 F 3 "" H 3800 9125 50  0001 C CNN
 F 4 "AVX" H 4000 9525 60  0001 L CNN "Manufacturer"
 F 5 "04025G103ZAT2A" H 4000 9425 60  0001 L CNN "MPN"
@@ -2337,12 +2337,12 @@ F 6 "10n" H 3650 9050 50  0000 L CNN "Val"
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroCapacitors0402:C_10n_0402 C21
+L scalenode:C_10n_0402 C21
 U 1 1 5FEFD39A
 P 4025 9125
 F 0 "C21" H 3850 9200 60  0000 L CNN
 F 1 "C_10n_0402" H 4025 8975 60  0001 C CNN
-F 2 "antmicro-footprints:0402-cap" H 4225 9325 60  0001 L CNN
+F 2 "scalenode-footprints:0402-cap" H 4225 9325 60  0001 L CNN
 F 3 "" H 4025 9125 50  0001 C CNN
 F 4 "AVX" H 4225 9525 60  0001 L CNN "Manufacturer"
 F 5 "04025G103ZAT2A" H 4225 9425 60  0001 L CNN "MPN"
@@ -2351,12 +2351,12 @@ F 6 "10n" H 3875 9050 50  0000 L CNN "Val"
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroCapacitors0402:C_10n_0402 C23
+L scalenode:C_10n_0402 C23
 U 1 1 5FEFD02F
 P 4250 9125
 F 0 "C23" H 4075 9200 60  0000 L CNN
 F 1 "C_10n_0402" H 4250 8975 60  0001 C CNN
-F 2 "antmicro-footprints:0402-cap" H 4450 9325 60  0001 L CNN
+F 2 "scalenode-footprints:0402-cap" H 4450 9325 60  0001 L CNN
 F 3 "" H 4250 9125 50  0001 C CNN
 F 4 "AVX" H 4450 9525 60  0001 L CNN "Manufacturer"
 F 5 "04025G103ZAT2A" H 4450 9425 60  0001 L CNN "MPN"
@@ -2365,12 +2365,12 @@ F 6 "10n" H 4100 9050 50  0000 L CNN "Val"
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroCapacitors0402:C_10n_0402 C24
+L scalenode:C_10n_0402 C24
 U 1 1 5FEFC60A
 P 4475 9125
 F 0 "C24" H 4300 9200 60  0000 L CNN
 F 1 "C_10n_0402" H 4475 8975 60  0001 C CNN
-F 2 "antmicro-footprints:0402-cap" H 4675 9325 60  0001 L CNN
+F 2 "scalenode-footprints:0402-cap" H 4675 9325 60  0001 L CNN
 F 3 "" H 4475 9125 50  0001 C CNN
 F 4 "AVX" H 4675 9525 60  0001 L CNN "Manufacturer"
 F 5 "04025G103ZAT2A" H 4675 9425 60  0001 L CNN "MPN"
@@ -2397,12 +2397,12 @@ Wire Wire Line
 Wire Wire Line
 	2075 7725 2700 7725
 $Comp
-L antmicroInterfaceDriversReceiversTransceivers:H6096NL L3
+L scalenode:H6096NL L3
 U 1 1 5FEF5267
 P 4900 7925
 F 0 "L3" H 5175 8880 50  0000 C CNN
 F 1 "H6096NL" H 5175 8789 50  0000 C CNN
-F 2 "antmicro-footprints:SOIC127P1594X685-24N" H 5850 8025 50  0001 L CNN
+F 2 "scalenode-footprints:SOIC127P1594X685-24N" H 5850 8025 50  0001 L CNN
 F 3 "https://www.arrow.com/en/products/h6096nl/pulse-electronics-corporation" H 5850 7925 50  0001 L CNN
 F 4 "Common Mode Chokes / Filters 1000Base-T SMD PoE+ 350uH .3Ohms 1-Port" H 5850 7825 50  0001 L CNN "Description"
 F 5 "H6096NL" H 5850 7525 50  0001 L CNN "MPN"
@@ -2436,12 +2436,12 @@ Wire Wire Line
 Wire Wire Line
 	1275 8525 1275 8750
 $Comp
-L antmicroResistors0402:R_220R_0402 R22
+L scalenode:R_220R_0402 R22
 U 1 1 5FEE4638
 P 1550 8750
 F 0 "R22" H 1525 8650 60  0000 C CNN
 F 1 "R_220R_0402" H 1550 8600 60  0001 C CNN
-F 2 "antmicro-footprints:0402-res" H 1750 8950 60  0001 L CNN
+F 2 "scalenode-footprints:0402-res" H 1750 8950 60  0001 L CNN
 F 3 "" H 1550 8750 50  0001 C CNN
 F 4 "Panasonic" H 1750 9150 60  0001 L CNN "Manufacturer"
 F 5 "ERJ2GEJ221X" H 1750 9050 60  0001 L CNN "MPN"
@@ -2460,12 +2460,12 @@ Wire Wire Line
 Wire Wire Line
 	1400 7200 1275 7200
 $Comp
-L antmicroResistors0402:R_220R_0402 R21
+L scalenode:R_220R_0402 R21
 U 1 1 5FEE3244
 P 1550 7200
 F 0 "R21" H 1500 7300 60  0000 C CNN
 F 1 "R_220R_0402" H 1550 7050 60  0001 C CNN
-F 2 "antmicro-footprints:0402-res" H 1750 7400 60  0001 L CNN
+F 2 "scalenode-footprints:0402-res" H 1750 7400 60  0001 L CNN
 F 3 "" H 1550 7200 50  0001 C CNN
 F 4 "Panasonic" H 1750 7600 60  0001 L CNN "Manufacturer"
 F 5 "ERJ2GEJ221X" H 1750 7500 60  0001 L CNN "MPN"

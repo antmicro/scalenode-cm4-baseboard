@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name scalenode-footprints)(type Kicad)(uri ${KIPRJMOD}/lib/scalenode-footprints)(options "")(descr ""))
+)

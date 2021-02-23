@@ -702,7 +702,7 @@
     (add_net USB2_P)
   )
 
-  (module antmicro-footprints:0603-cap (layer F.Cu) (tedit 5D5E94D2) (tstamp 60328ECF)
+  (module scalenode-footprints:0603-cap (layer F.Cu) (tedit 5D5E94D2) (tstamp 60328ECF)
     (at 86.614 71.12 180)
     (path /5FEA17D8/605296C6)
     (attr smd)
@@ -737,7 +737,7 @@
     )
   )
 
-  (module antmicro-footprints:SS-74800-144 (layer F.Cu) (tedit 602D7AC4) (tstamp 602A0DDE)
+  (module scalenode-footprints:SS-74800-144 (layer F.Cu) (tedit 602D7AC4) (tstamp 602A0DDE)
     (at 57.8 81.354 270)
     (path /5FEA17D8/600316CC)
     (fp_text reference J6 (at 10.086 1.158 90) (layer F.SilkS)
@@ -827,7 +827,7 @@
     )
   )
 
-  (module antmicro-footprints:oshw-logo (layer F.Cu) (tedit 5E4A93CD) (tstamp 603153F3)
+  (module scalenode-footprints:oshw-logo (layer F.Cu) (tedit 5E4A93CD) (tstamp 603153F3)
     (at 64.841 68.621)
     (path /603350D4)
     (attr virtual)
@@ -1965,7 +1965,7 @@
       (xy -1.520547 2.559315)) (layer F.Mask) (width 0.01))
   )
 
-  (module antmicro-footprints:97730256332R (layer B.Cu) (tedit 602D3C9E) (tstamp 602D72DC)
+  (module scalenode-footprints:97730256332R (layer B.Cu) (tedit 602D3C9E) (tstamp 602D72DC)
     (at 108.039 76.781)
     (path /5FEA1B94/602DC131)
     (fp_text reference SP6 (at -3.518 -0.073) (layer B.SilkS) hide
@@ -2016,7 +2016,7 @@
     )
   )
 
-  (module antmicro-footprints:97730256332R (layer B.Cu) (tedit 602D3C9E) (tstamp 602D7299)
+  (module scalenode-footprints:97730256332R (layer B.Cu) (tedit 602D3C9E) (tstamp 602D7299)
     (at 146.039 76.781)
     (path /5FEA1B94/602DBD02)
     (fp_text reference SP1 (at 0 4.2) (layer B.SilkS) hide
@@ -2067,7 +2067,7 @@
     )
   )
 
-  (module antmicro-footprints:antmicro-logo_scaled_15mm (layer F.Cu) (tedit 5E4A93DE) (tstamp 602D6A7C)
+  (module scalenode-footprints:antmicro-logo_scaled_15mm (layer F.Cu) (tedit 5E4A93DE) (tstamp 602D6A7C)
     (at 70.716 61.546)
     (path /602D4D74)
     (attr virtual)
@@ -2653,7 +2653,7 @@
       (xy -5.880765 -2.455653) (xy -5.817481 -2.454635)) (layer F.Cu) (width 0.001395))
   )
 
-  (module antmicro-footprints:mounting-hole-2.2mm (layer F.Cu) (tedit 5F06C528) (tstamp 602A0092)
+  (module scalenode-footprints:mounting-hole-2.2mm (layer F.Cu) (tedit 5F06C528) (tstamp 602A0092)
     (at 51.816 93.472)
     (path /60011E76/603AAAE1)
     (attr virtual)
@@ -2666,7 +2666,7 @@
     (pad 1 thru_hole circle (at 0 0) (size 4.5 4.5) (drill 2.2) (layers *.Cu *.Mask))
   )
 
-  (module antmicro-footprints:PowerPAK_SO-8_Single (layer B.Cu) (tedit 5ED63F4F) (tstamp 6027992F)
+  (module scalenode-footprints:PowerPAK_SO-8_Single (layer B.Cu) (tedit 5ED63F4F) (tstamp 6027992F)
     (at 113.538 80.772)
     (descr "PowerPAK SO-8 Single (https://www.vishay.com/docs/71655/powerpak.pdf, https://www.vishay.com/docs/72599/72599.pdf)")
     (tags "PowerPAK SO-8 Single")
@@ -2717,7 +2717,7 @@
     )
   )
 
-  (module antmicro-footprints:1206-res (layer B.Cu) (tedit 5D5E9367) (tstamp 60274095)
+  (module scalenode-footprints:1206-res (layer B.Cu) (tedit 5D5E9367) (tstamp 60274095)
     (at 66.802 71.628)
     (descr http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C230KFKT_5-24-06.pdf)
     (path /5FEA17D8/603F6E84)
@@ -2756,7 +2756,7 @@
     )
   )
 
-  (module antmicro-footprints:1210-cap (layer B.Cu) (tedit 5FD9C203) (tstamp 60272652)
+  (module scalenode-footprints:1210-cap (layer B.Cu) (tedit 5FD9C203) (tstamp 60272652)
     (at 66.802 68.326 180)
     (descr http://www.murata-ps.com/data/magnetics/kmp_8200c.pdf)
     (path /5FEA17D8/603C948B)
@@ -2791,7 +2791,7 @@
     )
   )
 
-  (module antmicro-footprints:SOIC127P1594X685-24N (layer F.Cu) (tedit 5FD9C070) (tstamp 5FFFAC6F)
+  (module scalenode-footprints:SOIC127P1594X685-24N (layer F.Cu) (tedit 5FD9C070) (tstamp 5FFFAC6F)
     (at 66.702 81.478 180)
     (descr PS-2473.001-A)
     (tags Inductor)
@@ -2875,7 +2875,7 @@
     )
   )
 
-  (module antmicro-footprints:KEMET_A (layer B.Cu) (tedit 5EDA24BB) (tstamp 60241A5E)
+  (module scalenode-footprints:KEMET_A (layer B.Cu) (tedit 5EDA24BB) (tstamp 60241A5E)
     (at 128.651 92.583 90)
     (path /5FEA17E9/60286D44)
     (fp_text reference C16 (at 4.572 0 90) (layer B.SilkS)
@@ -2898,7 +2898,7 @@
       (net 178 "Net-(C16-Pad1)"))
   )
 
-  (module antmicro-footprints:SON50P350X135X55-14N (layer B.Cu) (tedit 60127F45) (tstamp 60195FEC)
+  (module scalenode-footprints:SON50P350X135X55-14N (layer B.Cu) (tedit 60127F45) (tstamp 60195FEC)
     (at 52.832 63.119)
     (path /5FEA1803/60199091)
     (fp_text reference D2 (at 0.784 -2.573 180) (layer B.SilkS)
@@ -2953,7 +2953,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer F.Cu) (tedit 5D5E94D2) (tstamp 6000A307)
+  (module scalenode-footprints:0603-cap (layer F.Cu) (tedit 5D5E94D2) (tstamp 6000A307)
     (at 88.646 68.834 180)
     (path /5FEA17D8/60528DCE)
     (attr smd)
@@ -2988,7 +2988,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-res (layer F.Cu) (tedit 5D5D3E92) (tstamp 6018DBED)
+  (module scalenode-footprints:0603-res (layer F.Cu) (tedit 5D5D3E92) (tstamp 6018DBED)
     (at 72.898 94.742)
     (path /5FEA17D8/602D82AD)
     (attr smd)
@@ -3023,7 +3023,7 @@
     )
   )
 
-  (module antmicro-footprints:LED_0603 (layer F.Cu) (tedit 5D5D41B0) (tstamp 6018CDE5)
+  (module scalenode-footprints:LED_0603 (layer F.Cu) (tedit 5D5D41B0) (tstamp 6018CDE5)
     (at 70.104 94.742)
     (path /5FEA17D8/602918FF)
     (attr smd)
@@ -3065,7 +3065,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-res (layer F.Cu) (tedit 5D5D3E92) (tstamp 6018D2A5)
+  (module scalenode-footprints:0603-res (layer F.Cu) (tedit 5D5D3E92) (tstamp 6018D2A5)
     (at 203.454 61.976)
     (path /5FEA17C4/601EE0FC)
     (attr smd)
@@ -3100,7 +3100,7 @@
     )
   )
 
-  (module antmicro-footprints:compute-module-4-1.5mm (layer F.Cu) (tedit 6022D889) (tstamp 60228DB1)
+  (module scalenode-footprints:compute-module-4-1.5mm (layer F.Cu) (tedit 6022D889) (tstamp 60228DB1)
     (at 164.008 56.134)
     (path /5FEA17C4/5FEB7F76)
     (fp_text reference M1 (at 2.54 20.32) (layer F.SilkS)
@@ -3207,7 +3207,7 @@
     )
   )
 
-  (module antmicro-footprints:IHLP2020BZER4R7M01 (layer B.Cu) (tedit 5FB29F35) (tstamp 602450D6)
+  (module scalenode-footprints:IHLP2020BZER4R7M01 (layer B.Cu) (tedit 5FB29F35) (tstamp 602450D6)
     (at 124.714 91.567 270)
     (path /5FEA17E9/602D25DE)
     (fp_text reference L1 (at -4.064 -1.651 180) (layer B.SilkS)
@@ -3260,7 +3260,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-res (layer F.Cu) (tedit 5D5D3E92) (tstamp 60152A14)
+  (module scalenode-footprints:0603-res (layer F.Cu) (tedit 5D5D3E92) (tstamp 60152A14)
     (at 130.5306 93.0148 90)
     (path /5FEA17E9/6029EDD9)
     (attr smd)
@@ -3295,7 +3295,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 60328454)
+  (module scalenode-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 60328454)
     (at 132.08 92.6084)
     (path /5FEA17E9/602A1299)
     (attr smd)
@@ -3330,7 +3330,7 @@
     )
   )
 
-  (module antmicro-footprints:QSE-020-01-XXX-D-A (layer F.Cu) (tedit 5FFD8877) (tstamp 60218CAB)
+  (module scalenode-footprints:QSE-020-01-XXX-D-A (layer F.Cu) (tedit 5FFD8877) (tstamp 60218CAB)
     (at 203.7 78.75 270)
     (descr "0.8MM DOUBLE ROW HS SOCKET ASSEMBLY.")
     (path /60011E76/601B8118)
@@ -3447,7 +3447,7 @@
     )
   )
 
-  (module antmicro-footprints:QSE-020-01-XXX-D-A (layer F.Cu) (tedit 5FFD8877) (tstamp 6012B394)
+  (module scalenode-footprints:QSE-020-01-XXX-D-A (layer F.Cu) (tedit 5FFD8877) (tstamp 6012B394)
     (at 135.509 78.75 270)
     (descr "0.8MM DOUBLE ROW HS SOCKET ASSEMBLY.")
     (path /60011E76/600BF3F1)
@@ -3564,7 +3564,7 @@
     )
   )
 
-  (module antmicro-footprints:USB_Micro_B_Female_0473460001 (layer F.Cu) (tedit 5D5E8368) (tstamp 5FFD9691)
+  (module scalenode-footprints:USB_Micro_B_Female_0473460001 (layer F.Cu) (tedit 5D5E8368) (tstamp 5FFD9691)
     (at 38.846 64.908 90)
     (descr http://www.molex.com/pdm_docs/sd/473460001_sd.pdf)
     (path /5FEA1803/5FF4D17E)
@@ -3621,7 +3621,7 @@
     )
   )
 
-  (module antmicro-footprints:Testpoint_smd_1mm (layer B.Cu) (tedit 5E4A935B) (tstamp 5FFD0470)
+  (module scalenode-footprints:Testpoint_smd_1mm (layer B.Cu) (tedit 5E4A935B) (tstamp 5FFD0470)
     (at 137.795 91.44 180)
     (path /5FEA17E9/60280128)
     (attr virtual)
@@ -3635,7 +3635,7 @@
       (net 177 3V3_SSD))
   )
 
-  (module antmicro-footprints:0402-cap (layer B.Cu) (tedit 5D5E9295) (tstamp 6028414A)
+  (module scalenode-footprints:0402-cap (layer B.Cu) (tedit 5D5E9295) (tstamp 6028414A)
     (at 64.77 87.249)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -3669,7 +3669,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-cap (layer B.Cu) (tedit 5D5E9295) (tstamp 5FFFAA22)
+  (module scalenode-footprints:0402-cap (layer B.Cu) (tedit 5D5E9295) (tstamp 5FFFAA22)
     (at 64.77 84.709)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -3703,7 +3703,7 @@
     )
   )
 
-  (module antmicro-footprints:1210-cap (layer B.Cu) (tedit 5FD9C203) (tstamp 5FFFA9F4)
+  (module scalenode-footprints:1210-cap (layer B.Cu) (tedit 5FD9C203) (tstamp 5FFFA9F4)
     (at 60.96 72.009 180)
     (descr http://www.murata-ps.com/data/magnetics/kmp_8200c.pdf)
     (path /5FEA17D8/5FF03159)
@@ -3738,7 +3738,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-cap (layer B.Cu) (tedit 5D5E9295) (tstamp 5FFFA9C8)
+  (module scalenode-footprints:0402-cap (layer B.Cu) (tedit 5D5E9295) (tstamp 5FFFA9C8)
     (at 64.77 79.502)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -3772,7 +3772,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-cap (layer B.Cu) (tedit 5D5E9295) (tstamp 5FFFACFE)
+  (module scalenode-footprints:0402-cap (layer B.Cu) (tedit 5D5E9295) (tstamp 5FFFACFE)
     (at 64.77 76.962)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -3806,7 +3806,7 @@
     )
   )
 
-  (module antmicro-footprints:1210-cap (layer B.Cu) (tedit 5FD9C203) (tstamp 5FFFA99A)
+  (module scalenode-footprints:1210-cap (layer B.Cu) (tedit 5FD9C203) (tstamp 5FFFA99A)
     (at 72.39 72.009 180)
     (descr http://www.murata-ps.com/data/magnetics/kmp_8200c.pdf)
     (path /5FEA17D8/5FF27A1E)
@@ -3841,7 +3841,7 @@
     )
   )
 
-  (module antmicro-footprints:0805-cap (layer B.Cu) (tedit 5FD9C126) (tstamp 5FFFACD2)
+  (module scalenode-footprints:0805-cap (layer B.Cu) (tedit 5FD9C126) (tstamp 5FFFACD2)
     (at 67.3735 91.44 90)
     (path /5FEA17D8/5FFDDDC5)
     (attr smd)
@@ -3872,7 +3872,7 @@
     )
   )
 
-  (module antmicro-footprints:CP_Elec_10x10.5 (layer F.Cu) (tedit 5ED8C968) (tstamp 60215F92)
+  (module scalenode-footprints:CP_Elec_10x10.5 (layer F.Cu) (tedit 5ED8C968) (tstamp 60215F92)
     (at 82.296 90.932)
     (descr "SMD capacitor, aluminum electrolytic, Vishay 1010, 10.0x10.5mm, http://www.vishay.com/docs/28395/150crz.pdf")
     (tags "capacitor electrolytic")
@@ -3931,7 +3931,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer F.Cu) (tedit 5D5E94D2) (tstamp 6030E7F9)
+  (module scalenode-footprints:0603-cap (layer F.Cu) (tedit 5D5E94D2) (tstamp 6030E7F9)
     (at 95.745998 74.921717)
     (path /5FEA17D8/604DEE3E)
     (attr smd)
@@ -3966,7 +3966,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer F.Cu) (tedit 5D5E94D2) (tstamp 6000A664)
+  (module scalenode-footprints:0603-cap (layer F.Cu) (tedit 5D5E94D2) (tstamp 6000A664)
     (at 98.806 71.374 270)
     (path /5FEA17D8/6005305A)
     (attr smd)
@@ -4001,7 +4001,7 @@
     )
   )
 
-  (module antmicro-footprints:1210-cap (layer B.Cu) (tedit 5FD9C203) (tstamp 60009074)
+  (module scalenode-footprints:1210-cap (layer B.Cu) (tedit 5FD9C203) (tstamp 60009074)
     (at 85.09 82.042 180)
     (descr http://www.murata-ps.com/data/magnetics/kmp_8200c.pdf)
     (path /5FEA17D8/5FFD7782)
@@ -4036,7 +4036,7 @@
     )
   )
 
-  (module antmicro-footprints:CP_Elec_5x5.8 (layer F.Cu) (tedit 5ED8C938) (tstamp 5FFF0F9C)
+  (module scalenode-footprints:CP_Elec_5x5.8 (layer F.Cu) (tedit 5ED8C938) (tstamp 5FFF0F9C)
     (at 84.823998 81.144717 270)
     (descr "SMD capacitor, aluminum electrolytic, Panasonic, 5.0x5.8mm")
     (tags "capacitor electrolytic")
@@ -4095,7 +4095,7 @@
     )
   )
 
-  (module antmicro-footprints:1210-cap (layer B.Cu) (tedit 5FD9C203) (tstamp 5FFF0F55)
+  (module scalenode-footprints:1210-cap (layer B.Cu) (tedit 5FD9C203) (tstamp 5FFF0F55)
     (at 85.09 78.359 180)
     (descr http://www.murata-ps.com/data/magnetics/kmp_8200c.pdf)
     (path /5FEA17D8/5FFD6C03)
@@ -4130,7 +4130,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer F.Cu) (tedit 5D5E94D2) (tstamp 6030D2A5)
+  (module scalenode-footprints:0603-cap (layer F.Cu) (tedit 5D5E94D2) (tstamp 6030D2A5)
     (at 100.33 71.374 270)
     (path /5FEA17D8/606150C7)
     (attr smd)
@@ -4165,7 +4165,7 @@
     )
   )
 
-  (module antmicro-footprints:1210-cap (layer B.Cu) (tedit 5FD9C203) (tstamp 60007848)
+  (module scalenode-footprints:1210-cap (layer B.Cu) (tedit 5FD9C203) (tstamp 60007848)
     (at 91.186 80.264 270)
     (descr http://www.murata-ps.com/data/magnetics/kmp_8200c.pdf)
     (path /5FEA17D8/5FFD89AF)
@@ -4200,7 +4200,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer F.Cu) (tedit 5D5E94D2) (tstamp 602E6446)
+  (module scalenode-footprints:0603-cap (layer F.Cu) (tedit 5D5E94D2) (tstamp 602E6446)
     (at 100.33 74.168 90)
     (path /5FEA17D8/6018AD17)
     (attr smd)
@@ -4235,7 +4235,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-cap (layer B.Cu) (tedit 5D5E9295) (tstamp 600077E3)
+  (module scalenode-footprints:0402-cap (layer B.Cu) (tedit 5D5E9295) (tstamp 600077E3)
     (at 99.06 77.724 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -4269,7 +4269,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 600077AF)
+  (module scalenode-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 600077AF)
     (at 99.568 91.694 180)
     (path /5FEA17D8/604551A1)
     (attr smd)
@@ -4304,7 +4304,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer F.Cu) (tedit 5D5E94D2) (tstamp 6030D0E9)
+  (module scalenode-footprints:0603-cap (layer F.Cu) (tedit 5D5E94D2) (tstamp 6030D0E9)
     (at 109.474 70.358 90)
     (path /5FEA17D8/601CADD7)
     (attr smd)
@@ -4339,7 +4339,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer F.Cu) (tedit 5D5E94D2) (tstamp 6013B428)
+  (module scalenode-footprints:0603-cap (layer F.Cu) (tedit 5D5E94D2) (tstamp 6013B428)
     (at 121.666 95.123 270)
     (path /5FEA17D8/5FF9DDF4)
     (attr smd)
@@ -4374,7 +4374,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer F.Cu) (tedit 5D5E94D2) (tstamp 6013B3EF)
+  (module scalenode-footprints:0603-cap (layer F.Cu) (tedit 5D5E94D2) (tstamp 6013B3EF)
     (at 123.19 95.123 270)
     (path /5FEA17D8/5FF9E27B)
     (attr smd)
@@ -4409,7 +4409,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 6000773D)
+  (module scalenode-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 6000773D)
     (at 116.332 91.059 180)
     (path /5FEA17D8/603812D3)
     (attr smd)
@@ -4444,7 +4444,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer F.Cu) (tedit 5D5E94D2) (tstamp 6013B3B6)
+  (module scalenode-footprints:0603-cap (layer F.Cu) (tedit 5D5E94D2) (tstamp 6013B3B6)
     (at 124.714 95.123 270)
     (path /5FEA17D8/5FF9E52E)
     (attr smd)
@@ -4479,7 +4479,7 @@
     )
   )
 
-  (module antmicro-footprints:KEMET_B (layer F.Cu) (tedit 5ED8EA59) (tstamp 601574C7)
+  (module scalenode-footprints:KEMET_B (layer F.Cu) (tedit 5ED8EA59) (tstamp 601574C7)
     (at 124.714 90.923717 180)
     (path /5FEA17D8/5FF9FA4C)
     (fp_text reference C45 (at -2.54 -0.008283) (layer F.SilkS)
@@ -4516,7 +4516,7 @@
     )
   )
 
-  (module antmicro-footprints:KEMET_B (layer F.Cu) (tedit 5ED8EA59) (tstamp 60005B86)
+  (module scalenode-footprints:KEMET_B (layer F.Cu) (tedit 5ED8EA59) (tstamp 60005B86)
     (at 124.447998 77.969717 180)
     (path /5FEA17D8/5FFA076D)
     (fp_text reference C46 (at -2.918002 -0.001283) (layer F.SilkS)
@@ -4553,7 +4553,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer F.Cu) (tedit 5D5E94D2) (tstamp 60005B4A)
+  (module scalenode-footprints:0603-cap (layer F.Cu) (tedit 5D5E94D2) (tstamp 60005B4A)
     (at 122.415998 75.556717 180)
     (path /5FEA17D8/5FFA1AF1)
     (attr smd)
@@ -4588,7 +4588,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 60006FD8)
+  (module scalenode-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 60006FD8)
     (at 108.458 85.09 270)
     (path /5FEA17D8/60221CA5)
     (attr smd)
@@ -4623,7 +4623,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 60006F9F)
+  (module scalenode-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 60006F9F)
     (at 113.538 92.71 180)
     (path /5FEA17D8/603960E6)
     (attr smd)
@@ -4658,7 +4658,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-cap (layer F.Cu) (tedit 5D5E9295) (tstamp 5FF82454)
+  (module scalenode-footprints:0402-cap (layer F.Cu) (tedit 5D5E9295) (tstamp 5FF82454)
     (at 177.8 83.82 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -4692,7 +4692,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-cap (layer F.Cu) (tedit 5D5E9295) (tstamp 5FF8242A)
+  (module scalenode-footprints:0402-cap (layer F.Cu) (tedit 5D5E9295) (tstamp 5FF8242A)
     (at 177.8 82.804 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -4726,7 +4726,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-cap (layer F.Cu) (tedit 5D5E9295) (tstamp 60282496)
+  (module scalenode-footprints:0402-cap (layer F.Cu) (tedit 5D5E9295) (tstamp 60282496)
     (at 48.006 67.047717 270)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -4760,7 +4760,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 5FF8F2B9)
+  (module scalenode-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 5FF8F2B9)
     (at 177.022 67.256 90)
     (path /5FEA1B94/5FFA3033)
     (attr smd)
@@ -4795,7 +4795,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 5FF8F3D9)
+  (module scalenode-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 5FF8F3D9)
     (at 177.022 80.972 90)
     (path /5FEA1B94/5FF7E247)
     (attr smd)
@@ -4830,7 +4830,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 5FF8F739)
+  (module scalenode-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 5FF8F739)
     (at 177.022 86.052 270)
     (path /5FEA1B94/5FF8C439)
     (attr smd)
@@ -4865,7 +4865,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 5FF8F32B)
+  (module scalenode-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 5FF8F32B)
     (at 178.546 67.256 90)
     (path /5FEA1B94/5FFA31A2)
     (attr smd)
@@ -4900,7 +4900,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 5FF8F52F)
+  (module scalenode-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 5FF8F52F)
     (at 178.546 80.972 90)
     (path /5FEA1B94/5FF7F44F)
     (attr smd)
@@ -4935,7 +4935,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 5FF8F4BD)
+  (module scalenode-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 5FF8F4BD)
     (at 178.546 86.052 270)
     (path /5FEA1B94/5FF8C53E)
     (attr smd)
@@ -4970,7 +4970,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 5FF8F367)
+  (module scalenode-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 5FF8F367)
     (at 180.07 67.256 90)
     (path /5FEA1B94/5FFA31AF)
     (attr smd)
@@ -5005,7 +5005,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 5FF8F484)
+  (module scalenode-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 5FF8F484)
     (at 180.07 80.972 90)
     (path /5FEA1B94/5FF80661)
     (attr smd)
@@ -5040,7 +5040,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 60103251)
+  (module scalenode-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 60103251)
     (at 180.07 86.052 270)
     (path /5FEA1B94/5FF8C54B)
     (attr smd)
@@ -5075,7 +5075,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 5FF8F772)
+  (module scalenode-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 5FF8F772)
     (at 181.594 67.256 90)
     (path /5FEA1B94/5FFA31BC)
     (attr smd)
@@ -5110,7 +5110,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 5FF8F700)
+  (module scalenode-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 5FF8F700)
     (at 181.594 80.972 90)
     (path /5FEA1B94/5FF829CF)
     (attr smd)
@@ -5145,7 +5145,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 5FF8F44B)
+  (module scalenode-footprints:0603-cap (layer B.Cu) (tedit 5D5E94D2) (tstamp 5FF8F44B)
     (at 181.594 86.052 270)
     (path /5FEA1B94/5FF8C558)
     (attr smd)
@@ -5180,7 +5180,7 @@
     )
   )
 
-  (module antmicro-footprints:LED_0603 (layer F.Cu) (tedit 5D5D41B0) (tstamp 60188FCB)
+  (module scalenode-footprints:LED_0603 (layer F.Cu) (tedit 5D5D41B0) (tstamp 60188FCB)
     (at 203.527 63.5)
     (path /5FEA17C4/5FF225C8)
     (attr smd)
@@ -5222,7 +5222,7 @@
     )
   )
 
-  (module antmicro-footprints:MB10S (layer B.Cu) (tedit 5ED65AD2) (tstamp 60283EBA)
+  (module scalenode-footprints:MB10S (layer B.Cu) (tedit 5ED65AD2) (tstamp 60283EBA)
     (at 60.452 86.614 270)
     (path /5FEA17D8/5FF3F142)
     (fp_text reference D4 (at 0 3.556 90) (layer B.SilkS)
@@ -5262,7 +5262,7 @@
     )
   )
 
-  (module antmicro-footprints:MB10S (layer B.Cu) (tedit 5ED65AD2) (tstamp 6027B320)
+  (module scalenode-footprints:MB10S (layer B.Cu) (tedit 5ED65AD2) (tstamp 6027B320)
     (at 60.452 78.232 90)
     (path /5FEA17D8/5FF3FC10)
     (fp_text reference D5 (at 0 -3.556 270) (layer B.SilkS)
@@ -5302,7 +5302,7 @@
     )
   )
 
-  (module antmicro-footprints:DO-214AC (layer B.Cu) (tedit 5ED8CF42) (tstamp 601062DE)
+  (module scalenode-footprints:DO-214AC (layer B.Cu) (tedit 5ED8CF42) (tstamp 601062DE)
     (at 64.8335 91.948 90)
     (path /5FEA17D8/5FFDE809)
     (attr smd)
@@ -5354,7 +5354,7 @@
     )
   )
 
-  (module antmicro-footprints:SOT-23-3 (layer B.Cu) (tedit 5D5D4314) (tstamp 5FFF03BA)
+  (module scalenode-footprints:SOT-23-3 (layer B.Cu) (tedit 5D5D4314) (tstamp 5FFF03BA)
     (at 87.376 94.488 90)
     (path /5FEA17D8/60048D84)
     (attr smd)
@@ -5400,7 +5400,7 @@
     )
   )
 
-  (module antmicro-footprints:SOT-23-3 (layer B.Cu) (tedit 5D5D4314) (tstamp 60006F56)
+  (module scalenode-footprints:SOT-23-3 (layer B.Cu) (tedit 5D5D4314) (tstamp 60006F56)
     (at 95.25 90.7288)
     (path /5FEA17D8/600A2690)
     (attr smd)
@@ -5446,7 +5446,7 @@
     )
   )
 
-  (module antmicro-footprints:DO-214AC (layer B.Cu) (tedit 5ED8CF42) (tstamp 60137BAD)
+  (module scalenode-footprints:DO-214AC (layer B.Cu) (tedit 5ED8CF42) (tstamp 60137BAD)
     (at 91.186 86.106 270)
     (path /5FEA17D8/5FFE5091)
     (attr smd)
@@ -5498,7 +5498,7 @@
     )
   )
 
-  (module antmicro-footprints:SOT-23-5 (layer B.Cu) (tedit 5D64D240) (tstamp 60006EA1)
+  (module scalenode-footprints:SOT-23-5 (layer B.Cu) (tedit 5D64D240) (tstamp 60006EA1)
     (at 116.84 93.98 180)
     (path /5FEA17D8/603D5FC0)
     (attr smd)
@@ -5545,7 +5545,7 @@
     )
   )
 
-  (module antmicro-footprints:SOT-323 (layer B.Cu) (tedit 5DC13324) (tstamp 60006E57)
+  (module scalenode-footprints:SOT-323 (layer B.Cu) (tedit 5DC13324) (tstamp 60006E57)
     (at 113.284 90.424)
     (descr https://assets.nexperia.com/documents/data-sheet/PESD1CAN-U.pdf)
     (path /5FEA17D8/6034B44F)
@@ -5589,7 +5589,7 @@
     )
   )
 
-  (module antmicro-footprints:SOT-323 (layer F.Cu) (tedit 5DC13324) (tstamp 6000A28B)
+  (module scalenode-footprints:SOT-323 (layer F.Cu) (tedit 5DC13324) (tstamp 6000A28B)
     (at 113.284 70.104 90)
     (descr https://assets.nexperia.com/documents/data-sheet/PESD1CAN-U.pdf)
     (path /5FEA17D8/601F4617)
@@ -5633,7 +5633,7 @@
     )
   )
 
-  (module antmicro-footprints:UFDFN-6_1.45x1mm (layer F.Cu) (tedit 5D28ACE7) (tstamp 5FF71C9C)
+  (module scalenode-footprints:UFDFN-6_1.45x1mm (layer F.Cu) (tedit 5D28ACE7) (tstamp 5FF71C9C)
     (at 44.0436 64.8208 270)
     (path /5FEA1803/5FFB90B3)
     (attr smd)
@@ -5677,7 +5677,7 @@
       (net 26 /Interfaces/RPi_USB_P) (solder_mask_margin 0.05))
   )
 
-  (module antmicro-footprints:LED_0603 (layer F.Cu) (tedit 5D5D41B0) (tstamp 601890F8)
+  (module scalenode-footprints:LED_0603 (layer F.Cu) (tedit 5D5D41B0) (tstamp 601890F8)
     (at 203.708 92.075 180)
     (path /5FEA1B94/6038CBB9)
     (attr smd)
@@ -5719,7 +5719,7 @@
     )
   )
 
-  (module antmicro-footprints:0805-res (layer B.Cu) (tedit 5D5D3F54) (tstamp 5FFFA87C)
+  (module scalenode-footprints:0805-res (layer B.Cu) (tedit 5D5D3F54) (tstamp 5FFFA87C)
     (at 60.452 91.948)
     (path /5FEA17D8/5FF47E4A)
     (attr smd)
@@ -5750,7 +5750,7 @@
     )
   )
 
-  (module antmicro-footprints:0805-res (layer B.Cu) (tedit 5D5D3F54) (tstamp 5FFFA84F)
+  (module scalenode-footprints:0805-res (layer B.Cu) (tedit 5D5D3F54) (tstamp 5FFFA84F)
     (at 60.452 94.996)
     (path /5FEA17D8/5FF56AE5)
     (attr smd)
@@ -5781,7 +5781,7 @@
     )
   )
 
-  (module antmicro-footprints:SOIC127P600X170-9N (layer B.Cu) (tedit 5FD9C0CC) (tstamp 6030DE90)
+  (module scalenode-footprints:SOIC127P600X170-9N (layer B.Cu) (tedit 5FD9C0CC) (tstamp 6030DE90)
     (at 73.152 91.44)
     (descr "DDA (R-PDSO-G8)_1")
     (tags "Integrated Circuit")
@@ -5831,7 +5831,7 @@
     )
   )
 
-  (module "antmicro-footprints:DF40HC(3.0)-100DS-0.4v" (layer F.Cu) (tedit 6022D863) (tstamp 60100849)
+  (module scalenode-footprints:DF40HC(3.0)-100DS-0.4v" (layer F.Cu) (tedit 6022D863) (tstamp 60100849)
     (at 167.17772 59.70568 180)
     (path /5FEA17C4/5FEB9ACD)
     (fp_text reference J7 (at -12.78128 0.01568 180) (layer F.SilkS)
@@ -6171,7 +6171,7 @@
     )
   )
 
-  (module "antmicro-footprints:DF40HC(3.0)-100DS-0.4v" (layer F.Cu) (tedit 6022D863) (tstamp 601019EA)
+  (module scalenode-footprints:DF40HC(3.0)-100DS-0.4v" (layer F.Cu) (tedit 6022D863) (tstamp 601019EA)
     (at 167.17772 93.70568 180)
     (path /5FEA17C4/5FEBA7CA)
     (fp_text reference J8 (at -13.03828 0.00968 180) (layer F.SilkS)
@@ -6511,7 +6511,7 @@
     )
   )
 
-  (module antmicro-footprints:MicroSD_1140084168 (layer B.Cu) (tedit 5EF0CD07) (tstamp 5FF868B2)
+  (module scalenode-footprints:MicroSD_1140084168 (layer B.Cu) (tedit 5EF0CD07) (tstamp 5FF868B2)
     (at 43.8055 63.4905 90)
     (path /5FEA1803/5FED21FD)
     (attr smd)
@@ -6564,7 +6564,7 @@
     )
   )
 
-  (module antmicro-footprints:1-2199230-6 (layer B.Cu) (tedit 5EE0CA7C) (tstamp 5FF8F637)
+  (module scalenode-footprints:1-2199230-6 (layer B.Cu) (tedit 5EE0CA7C) (tstamp 5FF8F637)
     (at 186.039 76.781 90)
     (path /5FEA1B94/6036F4D3)
     (fp_text reference J3 (at -12.246 1.54 180) (layer B.SilkS)
@@ -6737,7 +6737,7 @@
     )
   )
 
-  (module antmicro-footprints:L_6.3x4.5 (layer B.Cu) (tedit 5ED647DB) (tstamp 5FFF0C74)
+  (module scalenode-footprints:L_6.3x4.5 (layer B.Cu) (tedit 5ED647DB) (tstamp 5FFF0C74)
     (at 86.36 88.138 90)
     (descr "Power Inductor, SMD, unshielded, 6.6x4.45mm 3mm height")
     (tags "Power Inductor SMD")
@@ -6780,7 +6780,7 @@
     )
   )
 
-  (module antmicro-footprints:L_DR74 (layer F.Cu) (tedit 5ED64EC8) (tstamp 60005C44)
+  (module scalenode-footprints:L_DR74 (layer F.Cu) (tedit 5ED64EC8) (tstamp 60005C44)
     (at 124.46 84.446717 90)
     (path /5FEA17D8/5FFA2759)
     (fp_text reference L5 (at -3.599283 5.806) (layer F.SilkS)
@@ -6818,7 +6818,7 @@
     )
   )
 
-  (module antmicro-footprints:IHLP-1212AE (layer B.Cu) (tedit 5FF7B2C4) (tstamp 603284A0)
+  (module scalenode-footprints:IHLP-1212AE (layer B.Cu) (tedit 5FF7B2C4) (tstamp 603284A0)
     (at 133.096 94.996)
     (path /5FEA17E9/5FF98413)
     (attr smd)
@@ -6843,7 +6843,7 @@
     )
   )
 
-  (module antmicro-footprints:SOT-23-3 (layer B.Cu) (tedit 5D5D4314) (tstamp 602799B1)
+  (module scalenode-footprints:SOT-23-3 (layer B.Cu) (tedit 5D5D4314) (tstamp 602799B1)
     (at 90.424 74.676)
     (path /5FEA17D8/605B5540)
     (attr smd)
@@ -6889,7 +6889,7 @@
     )
   )
 
-  (module antmicro-footprints:SOT-23-3 (layer B.Cu) (tedit 5D5D4314) (tstamp 6000753E)
+  (module scalenode-footprints:SOT-23-3 (layer B.Cu) (tedit 5D5D4314) (tstamp 6000753E)
     (at 95.25 94.6404)
     (path /5FEA17D8/600C85D1)
     (attr smd)
@@ -6935,7 +6935,7 @@
     )
   )
 
-  (module antmicro-footprints:PowerPAK_SO-8_Single (layer B.Cu) (tedit 5ED63F4F) (tstamp 600074F3)
+  (module scalenode-footprints:PowerPAK_SO-8_Single (layer B.Cu) (tedit 5ED63F4F) (tstamp 600074F3)
     (at 99.06 85.979 180)
     (descr "PowerPAK SO-8 Single (https://www.vishay.com/docs/71655/powerpak.pdf, https://www.vishay.com/docs/72599/72599.pdf)")
     (tags "PowerPAK SO-8 Single")
@@ -6986,7 +6986,7 @@
     )
   )
 
-  (module antmicro-footprints:SOT-23-3 (layer F.Cu) (tedit 5D5D4314) (tstamp 6000A4C8)
+  (module scalenode-footprints:SOT-23-3 (layer F.Cu) (tedit 5D5D4314) (tstamp 6000A4C8)
     (at 112.268 73.66)
     (path /5FEA17D8/601DA79D)
     (attr smd)
@@ -7032,7 +7032,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer F.Cu) (tedit 5FD9C158) (tstamp 5FFFF4AF)
+  (module scalenode-footprints:0402-res (layer F.Cu) (tedit 5FD9C158) (tstamp 5FFFF4AF)
     (at 55.245 70.612 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -7066,7 +7066,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer F.Cu) (tedit 5FD9C158) (tstamp 5FFFF485)
+  (module scalenode-footprints:0402-res (layer F.Cu) (tedit 5FD9C158) (tstamp 5FFFF485)
     (at 55.245 71.628 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -7100,7 +7100,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FFFAC29)
+  (module scalenode-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FFFAC29)
     (at 64.77 85.979)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -7134,7 +7134,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FFFABFF)
+  (module scalenode-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FFFABFF)
     (at 64.77 83.439)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -7168,7 +7168,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FFFABD5)
+  (module scalenode-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FFFABD5)
     (at 64.77 80.772)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -7202,7 +7202,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FFFABAB)
+  (module scalenode-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FFFABAB)
     (at 64.77 78.232)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -7236,7 +7236,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FFFAB81)
+  (module scalenode-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FFFAB81)
     (at 71.374 86.614 270)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -7270,7 +7270,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 6028584E)
+  (module scalenode-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 6028584E)
     (at 71.374 82.804 270)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -7304,7 +7304,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FFFAB2D)
+  (module scalenode-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FFFAB2D)
     (at 71.374 78.994 270)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -7338,7 +7338,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FFFAB03)
+  (module scalenode-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FFFAB03)
     (at 71.374 75.184 270)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -7372,7 +7372,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-res (layer F.Cu) (tedit 5D5D3E92) (tstamp 602E5A5E)
+  (module scalenode-footprints:0603-res (layer F.Cu) (tedit 5D5D3E92) (tstamp 602E5A5E)
     (at 89.154 71.12 180)
     (path /5FEA17D8/6052A084)
     (attr smd)
@@ -7407,7 +7407,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-res (layer F.Cu) (tedit 5D5D3E92) (tstamp 6000A44E)
+  (module scalenode-footprints:0603-res (layer F.Cu) (tedit 5D5D3E92) (tstamp 6000A44E)
     (at 89.154 72.644 180)
     (path /5FEA17D8/6052AED6)
     (attr smd)
@@ -7442,7 +7442,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FFFAAD9)
+  (module scalenode-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FFFAAD9)
     (at 68.834 90.17 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -7476,7 +7476,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-res (layer F.Cu) (tedit 5D5D3E92) (tstamp 6013F3DE)
+  (module scalenode-footprints:0603-res (layer F.Cu) (tedit 5D5D3E92) (tstamp 6013F3DE)
     (at 98.285998 74.921717 180)
     (path /5FEA17D8/604DDF8D)
     (attr smd)
@@ -7511,7 +7511,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FFFAAAF)
+  (module scalenode-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FFFAAAF)
     (at 68.834 92.71 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -7545,7 +7545,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-res (layer F.Cu) (tedit 5D5D3E92) (tstamp 6000A3DC)
+  (module scalenode-footprints:0603-res (layer F.Cu) (tedit 5D5D3E92) (tstamp 6000A3DC)
     (at 88.646 74.676 90)
     (path /5FEA17D8/600067A0)
     (attr smd)
@@ -7580,7 +7580,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer F.Cu) (tedit 5FD9C158) (tstamp 602F1767)
+  (module scalenode-footprints:0402-res (layer F.Cu) (tedit 5FD9C158) (tstamp 602F1767)
     (at 93.98 74.422 270)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -7614,7 +7614,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 6000730E)
+  (module scalenode-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 6000730E)
     (at 91.948 91.694)
     (path /5FEA17D8/600EAE1E)
     (attr smd)
@@ -7649,7 +7649,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 600072D5)
+  (module scalenode-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 600072D5)
     (at 93.98 80.264 270)
     (path /5FEA17D8/5FFD845F)
     (attr smd)
@@ -7684,7 +7684,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-res (layer F.Cu) (tedit 5D5D3E92) (tstamp 5FFF089B)
+  (module scalenode-footprints:0603-res (layer F.Cu) (tedit 5D5D3E92) (tstamp 5FFF089B)
     (at 91.694 95.504)
     (path /5FEA17D8/60047AE7)
     (attr smd)
@@ -7719,7 +7719,7 @@
     )
   )
 
-  (module antmicro-footprints:2512 (layer B.Cu) (tedit 5ED5FF77) (tstamp 600072A2)
+  (module scalenode-footprints:2512 (layer B.Cu) (tedit 5ED5FF77) (tstamp 600072A2)
     (at 103.378 82.804 180)
     (descr http://www.murata-ps.com/data/magnetics/kmp_8200c.pdf)
     (path /5FEA17D8/600AE476)
@@ -7754,7 +7754,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 602F3E1D)
+  (module scalenode-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 602F3E1D)
     (at 101.092 77.724 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -7788,7 +7788,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 60007242)
+  (module scalenode-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 60007242)
     (at 99.568 93.218)
     (path /5FEA17D8/60435A34)
     (attr smd)
@@ -7823,7 +7823,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 60007209)
+  (module scalenode-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 60007209)
     (at 110.998 90.17 270)
     (path /5FEA17D8/603241D2)
     (attr smd)
@@ -7858,7 +7858,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-res (layer F.Cu) (tedit 5D5D3E92) (tstamp 602F1815)
+  (module scalenode-footprints:0603-res (layer F.Cu) (tedit 5D5D3E92) (tstamp 602F1815)
     (at 109.474 72.898 270)
     (path /5FEA17D8/601D9772)
     (attr smd)
@@ -7893,7 +7893,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-res (layer F.Cu) (tedit 5D5D3E92) (tstamp 6027A4D6)
+  (module scalenode-footprints:0603-res (layer F.Cu) (tedit 5D5D3E92) (tstamp 6027A4D6)
     (at 110.998 70.358 90)
     (path /5FEA17D8/601CC398)
     (attr smd)
@@ -7928,7 +7928,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 6000715E)
+  (module scalenode-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 6000715E)
     (at 116.332 89.535)
     (path /5FEA17D8/603426E1)
     (attr smd)
@@ -7963,7 +7963,7 @@
     )
   )
 
-  (module antmicro-footprints:2010-res (layer B.Cu) (tedit 5EE38A9F) (tstamp 6000712B)
+  (module scalenode-footprints:2010-res (layer B.Cu) (tedit 5EE38A9F) (tstamp 6000712B)
     (at 112.776 85.344 180)
     (descr "Resistor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -7999,7 +7999,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 600070F5)
+  (module scalenode-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 600070F5)
     (at 110.998 92.71)
     (path /5FEA17D8/6038C150)
     (attr smd)
@@ -8034,7 +8034,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 600070BC)
+  (module scalenode-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 600070BC)
     (at 119.38 94.996 270)
     (path /5FEA17D8/603F2CA9)
     (attr smd)
@@ -8069,7 +8069,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 602F42D8)
+  (module scalenode-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 602F42D8)
     (at 119.38 89.916 270)
     (path /5FEA17D8/60397758)
     (attr smd)
@@ -8104,7 +8104,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 6000704A)
+  (module scalenode-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 6000704A)
     (at 119.38 92.456 270)
     (path /5FEA17D8/60396A1C)
     (attr smd)
@@ -8139,7 +8139,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer F.Cu) (tedit 5FD9C158) (tstamp 5FF7D242)
+  (module scalenode-footprints:0402-res (layer F.Cu) (tedit 5FD9C158) (tstamp 5FF7D242)
     (at 175.768 89.281 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -8173,7 +8173,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer F.Cu) (tedit 5FD9C158) (tstamp 60102A99)
+  (module scalenode-footprints:0402-res (layer F.Cu) (tedit 5FD9C158) (tstamp 60102A99)
     (at 176.911 89.281 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -8207,7 +8207,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer F.Cu) (tedit 5FD9C158) (tstamp 60103360)
+  (module scalenode-footprints:0402-res (layer F.Cu) (tedit 5FD9C158) (tstamp 60103360)
     (at 179.959 85.09 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -8241,7 +8241,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer F.Cu) (tedit 5FD9C158) (tstamp 5FF8228C)
+  (module scalenode-footprints:0402-res (layer F.Cu) (tedit 5FD9C158) (tstamp 5FF8228C)
     (at 173.482 82.931)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -8275,7 +8275,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer F.Cu) (tedit 5FD9C158) (tstamp 6030D627)
+  (module scalenode-footprints:0402-res (layer F.Cu) (tedit 5FD9C158) (tstamp 6030D627)
     (at 173.482 83.947)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -8309,7 +8309,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FF8687D)
+  (module scalenode-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FF8687D)
     (at 52.5145 66.4845 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -8343,7 +8343,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 6030E0B3)
+  (module scalenode-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 6030E0B3)
     (at 51.6255 70.104 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -8377,7 +8377,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FF86829)
+  (module scalenode-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FF86829)
     (at 53.5305 66.4845 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -8411,7 +8411,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FF867FF)
+  (module scalenode-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FF867FF)
     (at 54.5465 66.4845 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -8445,7 +8445,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FF867D5)
+  (module scalenode-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FF867D5)
     (at 55.5625 66.4845 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -8479,7 +8479,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FF867AB)
+  (module scalenode-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FF867AB)
     (at 56.5785 66.4845 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -8513,7 +8513,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FF86781)
+  (module scalenode-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 5FF86781)
     (at 57.5945 66.4845 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -8547,7 +8547,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 5FF8F2F2)
+  (module scalenode-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 5FF8F2F2)
     (at 181.594 70.05 270)
     (path /5FEA1B94/600B10CE)
     (attr smd)
@@ -8582,7 +8582,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-res (layer F.Cu) (tedit 5D5D3E92) (tstamp 5FF8F3A0)
+  (module scalenode-footprints:0603-res (layer F.Cu) (tedit 5D5D3E92) (tstamp 5FF8F3A0)
     (at 203.581 90.551 180)
     (path /5FEA1B94/6038F383)
     (attr smd)
@@ -8617,7 +8617,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 5FF8F412)
+  (module scalenode-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 5FF8F412)
     (at 180.07 70.05 270)
     (path /5FEA1B94/6005A2DB)
     (attr smd)
@@ -8652,7 +8652,7 @@
     )
   )
 
-  (module antmicro-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 5FF8F280)
+  (module scalenode-footprints:0603-res (layer B.Cu) (tedit 5D5D3E92) (tstamp 5FF8F280)
     (at 178.546 70.05 270)
     (path /5FEA1B94/6005A923)
     (attr smd)
@@ -8687,7 +8687,7 @@
     )
   )
 
-  (module antmicro-footprints:9774030151 (layer F.Cu) (tedit 5EE0CAB2) (tstamp 5FF7CE9C)
+  (module scalenode-footprints:9774030151 (layer F.Cu) (tedit 5EE0CAB2) (tstamp 5FF7CE9C)
     (at 145.488 60.104)
     (path /5FEA17C4/5FECFB4A)
     (fp_text reference SP2 (at 4.804 -0.033) (layer F.SilkS) hide
@@ -8705,7 +8705,7 @@
     )
   )
 
-  (module antmicro-footprints:9774030151 (layer F.Cu) (tedit 5EE0CAB2) (tstamp 5FF7CE90)
+  (module scalenode-footprints:9774030151 (layer F.Cu) (tedit 5EE0CAB2) (tstamp 5FF7CE90)
     (at 193.488 60.104)
     (path /5FEA17C4/5FED09B8)
     (fp_text reference SP3 (at -5.35 -0.16) (layer F.SilkS) hide
@@ -8723,7 +8723,7 @@
     )
   )
 
-  (module antmicro-footprints:9774030151 (layer F.Cu) (tedit 5EE0CAB2) (tstamp 5FF7CE84)
+  (module scalenode-footprints:9774030151 (layer F.Cu) (tedit 5EE0CAB2) (tstamp 5FF7CE84)
     (at 145.488 93.104)
     (path /5FEA17C4/5FED0D6C)
     (fp_text reference SP4 (at 4.55 -0.14) (layer F.SilkS) hide
@@ -8741,7 +8741,7 @@
     )
   )
 
-  (module antmicro-footprints:9774030151 (layer F.Cu) (tedit 5EE0CAB2) (tstamp 5FF7CE78)
+  (module scalenode-footprints:9774030151 (layer F.Cu) (tedit 5EE0CAB2) (tstamp 5FF7CE78)
     (at 193.488 93.104)
     (path /5FEA17C4/5FED1044)
     (fp_text reference SP5 (at -5.35 -0.14) (layer F.SilkS) hide
@@ -8759,7 +8759,7 @@
     )
   )
 
-  (module antmicro-footprints:Pulse_P0926NL (layer F.Cu) (tedit 5B981E47) (tstamp 6000A572)
+  (module scalenode-footprints:Pulse_P0926NL (layer F.Cu) (tedit 5B981E47) (tstamp 6000A572)
     (at 104.902 71.374 90)
     (descr "SMT Gate Drive Transformer, 1:1:1, 8.0x6.3x5.3mm (https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)")
     (tags "pulse pa0926nl")
@@ -8809,7 +8809,7 @@
     )
   )
 
-  (module antmicro-footprints:POE300F-24LD (layer F.Cu) (tedit 5FD9D376) (tstamp 600076AA)
+  (module scalenode-footprints:POE300F-24LD (layer F.Cu) (tedit 5FD9D376) (tstamp 600076AA)
     (at 104.902 86.106 270)
     (path /5FEA17D8/5FF91735)
     (attr smd)
@@ -8860,7 +8860,7 @@
     )
   )
 
-  (module antmicro-footprints:Testpoint_smd_1mm (layer F.Cu) (tedit 5E4A935B) (tstamp 5FFF0D78)
+  (module scalenode-footprints:Testpoint_smd_1mm (layer F.Cu) (tedit 5E4A935B) (tstamp 5FFF0D78)
     (at 87.122 73.914)
     (path /5FEA17D8/60090130)
     (attr virtual)
@@ -8874,7 +8874,7 @@
       (net 7 /PoE/CTRL_VDD))
   )
 
-  (module antmicro-footprints:Testpoint_smd_1mm (layer F.Cu) (tedit 5E4A935B) (tstamp 60005C82)
+  (module scalenode-footprints:Testpoint_smd_1mm (layer F.Cu) (tedit 5E4A935B) (tstamp 60005C82)
     (at 124.447998 75.556717 270)
     (path /5FEA17D8/5FFCDCB5)
     (attr virtual)
@@ -8888,7 +8888,7 @@
       (net 13 VCC5V0))
   )
 
-  (module antmicro-footprints:Testpoint_smd_1mm (layer F.Cu) (tedit 5E4A935B) (tstamp 60005C76)
+  (module scalenode-footprints:Testpoint_smd_1mm (layer F.Cu) (tedit 5E4A935B) (tstamp 60005C76)
     (at 120.015 75.556717)
     (path /5FEA17D8/5FFD2110)
     (attr virtual)
@@ -8902,7 +8902,7 @@
       (net 12 GND))
   )
 
-  (module antmicro-footprints:Testpoint_smd_1mm (layer B.Cu) (tedit 5E4A935B) (tstamp 60007689)
+  (module scalenode-footprints:Testpoint_smd_1mm (layer B.Cu) (tedit 5E4A935B) (tstamp 60007689)
     (at 120.904 91.1352)
     (path /5FEA17D8/603C554A)
     (attr virtual)
@@ -8916,7 +8916,7 @@
       (net 269 "Net-(R53-Pad2)"))
   )
 
-  (module antmicro-footprints:SOIC-8_W3.9mm (layer F.Cu) (tedit 5FD9C9DA) (tstamp 6000A51C)
+  (module scalenode-footprints:SOIC-8_W3.9mm (layer F.Cu) (tedit 5FD9C9DA) (tstamp 6000A51C)
     (at 94.234 70.612 270)
     (path /5FEA17D8/604D923A)
     (attr smd)
@@ -8970,7 +8970,7 @@
     )
   )
 
-  (module antmicro-footprints:TCMT1107 (layer B.Cu) (tedit 5ED639D4) (tstamp 600075E7)
+  (module scalenode-footprints:TCMT1107 (layer B.Cu) (tedit 5ED639D4) (tstamp 600075E7)
     (at 105.41 92.456 180)
     (path /5FEA17D8/60322F7D)
     (fp_text reference U4 (at 0 2.413 180) (layer B.SilkS)
@@ -9022,7 +9022,7 @@
     )
   )
 
-  (module antmicro-footprints:QFN-8_2x1mm (layer B.Cu) (tedit 5DC1A3A6) (tstamp 5FF72690)
+  (module scalenode-footprints:QFN-8_2x1mm (layer B.Cu) (tedit 5DC1A3A6) (tstamp 5FF72690)
     (at 131.826 90.17 270)
     (descr "DFN8 2x2, 0.5P; No exposed pad - Ref http://pdfserv.maximintegrated.com/land_patterns/90-0349.PDF")
     (tags "DFN 0.5")
@@ -9070,7 +9070,7 @@
     )
   )
 
-  (module antmicro-footprints:MSOP-10_W3mm (layer F.Cu) (tedit 5D2894A0) (tstamp 60102CD2)
+  (module scalenode-footprints:MSOP-10_W3mm (layer F.Cu) (tedit 5D2894A0) (tstamp 60102CD2)
     (at 176.149 86.233 270)
     (path /5FEA1803/5FEE6B6E)
     (attr smd)
@@ -9122,7 +9122,7 @@
       (net 100 USBOTG_ID) (solder_mask_margin 0.05))
   )
 
-  (module antmicro-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 600FECAB)
+  (module scalenode-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 600FECAB)
     (at 131.826 85.979 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -9156,7 +9156,7 @@
     )
   )
 
-  (module antmicro-footprints:1210-cap (layer B.Cu) (tedit 5FD9C203) (tstamp 60245F3B)
+  (module scalenode-footprints:1210-cap (layer B.Cu) (tedit 5FD9C203) (tstamp 60245F3B)
     (at 135.382 91.059 90)
     (descr http://www.murata-ps.com/data/magnetics/kmp_8200c.pdf)
     (path /5FEA17E9/602CC093)
@@ -9191,7 +9191,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 602F3BA3)
+  (module scalenode-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 602F3BA3)
     (at 131.826 86.995 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -9225,7 +9225,7 @@
     )
   )
 
-  (module antmicro-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 600FED0F)
+  (module scalenode-footprints:0402-res (layer B.Cu) (tedit 5FD9C158) (tstamp 600FED0F)
     (at 131.826 88.011)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -9259,7 +9259,7 @@
     )
   )
 
-  (module antmicro-footprints:Testpoint_smd_1mm (layer B.Cu) (tedit 5E4A935B) (tstamp 600FED19)
+  (module scalenode-footprints:Testpoint_smd_1mm (layer B.Cu) (tedit 5E4A935B) (tstamp 600FED19)
     (at 130.175 92.6084)
     (path /5FEA17E9/602FC1B7)
     (attr virtual)

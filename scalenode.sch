@@ -2169,23 +2169,23 @@ F0 "PoE" 50
 F1 "poe.sch" 50
 $EndSheet
 $Comp
-L antmicroMechanicalParts:antmicro_logo N1
+L scalenode:antmicro_logo N1
 U 1 1 602D4D74
 P 1250 11025
 F 0 "N1" H 1464 11118 50  0000 L CNN
 F 1 "antmicro_logo" H 1464 11027 50  0000 L CNN
-F 2 "antmicro-footprints:antmicro-logo_scaled_15mm" H 1150 11275 50  0001 C CNN
+F 2 "scalenode-footprints:antmicro-logo_scaled_15mm" H 1150 11275 50  0001 C CNN
 F 3 "" H 1250 11375 50  0001 C CNN
 	1    1250 11025
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroMechanicalParts:oshw_logo N3
+L scalenode:oshw_logo N3
 U 1 1 603350D4
 P 3025 10950
 F 0 "N3" H 3219 10953 50  0000 L CNN
 F 1 "oshw_logo" H 3219 10862 50  0000 L CNN
-F 2 "antmicro-footprints:oshw-logo" H 3045 10710 50  0001 C CNN
+F 2 "scalenode-footprints:oshw-logo" H 3045 10710 50  0001 C CNN
 F 3 "" H 3025 10950 50  0001 C CNN
 	1    3025 10950
 	1    0    0    -1  

@@ -14,47 +14,47 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L antmicroModules:compute-module-4-1.5mm M?
+L scalenode:compute-module-4-1.5mm M?
 U 1 1 5FEB7F76
 P 11450 8875
 F 0 "M?" H 11878 9046 50  0000 L CNN
 F 1 "compute-module-4-1.5mm" H 11878 8955 50  0000 L CNN
-F 2 "antmicro-footprints:compute-module-4-1.5mm" H 11500 8775 50  0001 C CNN
+F 2 "scalenode-footprints:compute-module-4-1.5mm" H 11500 8775 50  0001 C CNN
 F 3 "" H 11500 8775 50  0001 C CNN
 	1    11450 8875
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroRectangularConnectorsHeadersMalePins:DF40HC(3.0)-100DS-0.4v J?
+L scalenode:DF40HC(3.0)-100DS-0.4v J?
 U 1 1 5FEB9ACD
 P 4300 5000
 F 0 "J?" H 4300 7667 50  0000 C CNN
 F 1 "DF40HC(3.0)-100DS-0.4v" H 4300 7576 50  0000 C CNN
-F 2 "antmicro-footprints:DF40HC(3.0)-100DS-0.4v" H 4300 5000 50  0001 L BNN
+F 2 "scalenode-footprints:DF40HC(3.0)-100DS-0.4v" H 4300 5000 50  0001 L BNN
 F 3 "" H 4300 5000 50  0001 L BNN
 F 4 "HRS" H 4300 5000 50  0001 L BNN "Manufacturer"
 	1    4300 5000
 	-1   0    0    -1  
 $EndComp
 $Comp
-L antmicroRectangularConnectorsHeadersMalePins:DF40HC(3.0)-100DS-0.4v J?
+L scalenode:DF40HC(3.0)-100DS-0.4v J?
 U 1 1 5FEBA7CA
 P 8300 5000
 F 0 "J?" H 8300 7667 50  0000 C CNN
 F 1 "DF40HC(3.0)-100DS-0.4v" H 8300 7576 50  0000 C CNN
-F 2 "antmicro-footprints:DF40HC(3.0)-100DS-0.4v" H 8300 5000 50  0001 L BNN
+F 2 "scalenode-footprints:DF40HC(3.0)-100DS-0.4v" H 8300 5000 50  0001 L BNN
 F 3 "" H 8300 5000 50  0001 L BNN
 F 4 "HRS" H 8300 5000 50  0001 L BNN "Manufacturer"
 	1    8300 5000
 	-1   0    0    -1  
 $EndComp
 $Comp
-L antmicroMechanicalParts:9774030151 SP?
+L scalenode:9774030151 SP?
 U 1 1 5FECFB4A
 P 11000 8000
 F 0 "SP?" H 11130 8053 60  0000 L CNN
 F 1 "9774030151" H 11130 7947 60  0000 L CNN
-F 2 "antmicro-footprints:9774030151" H 11000 8000 60  0001 C CNN
+F 2 "scalenode-footprints:9774030151" H 11000 8000 60  0001 C CNN
 F 3 "https://www.we-online.com/catalog/datasheet/9774030151.pdf" H 11000 8000 60  0001 C CNN
 F 4 "Wurth Elektronik" H 11000 8000 50  0001 C CNN "Manufacturer"
 F 5 "9774030151" H 11000 8000 50  0001 C CNN "MPN"
@@ -62,12 +62,12 @@ F 5 "9774030151" H 11000 8000 50  0001 C CNN "MPN"
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroMechanicalParts:9774030151 SP?
+L scalenode:9774030151 SP?
 U 1 1 5FED09B8
 P 11000 8350
 F 0 "SP?" H 11130 8403 60  0000 L CNN
 F 1 "9774030151" H 11130 8297 60  0000 L CNN
-F 2 "antmicro-footprints:9774030151" H 11000 8350 60  0001 C CNN
+F 2 "scalenode-footprints:9774030151" H 11000 8350 60  0001 C CNN
 F 3 "https://www.we-online.com/catalog/datasheet/9774030151.pdf" H 11000 8350 60  0001 C CNN
 F 4 "Wurth Elektronik" H 11000 8350 50  0001 C CNN "Manufacturer"
 F 5 "9774030151" H 11000 8350 50  0001 C CNN "MPN"
@@ -75,12 +75,12 @@ F 5 "9774030151" H 11000 8350 50  0001 C CNN "MPN"
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroMechanicalParts:9774030151 SP?
+L scalenode:9774030151 SP?
 U 1 1 5FED0D6C
 P 12000 8000
 F 0 "SP?" H 12130 8053 60  0000 L CNN
 F 1 "9774030151" H 12130 7947 60  0000 L CNN
-F 2 "antmicro-footprints:9774030151" H 12000 8000 60  0001 C CNN
+F 2 "scalenode-footprints:9774030151" H 12000 8000 60  0001 C CNN
 F 3 "https://www.we-online.com/catalog/datasheet/9774030151.pdf" H 12000 8000 60  0001 C CNN
 F 4 "Wurth Elektronik" H 12000 8000 50  0001 C CNN "Manufacturer"
 F 5 "9774030151" H 12000 8000 50  0001 C CNN "MPN"
@@ -88,12 +88,12 @@ F 5 "9774030151" H 12000 8000 50  0001 C CNN "MPN"
 	1    0    0    -1  
 $EndComp
 $Comp
-L antmicroMechanicalParts:9774030151 SP?
+L scalenode:9774030151 SP?
 U 1 1 5FED1044
 P 12000 8350
 F 0 "SP?" H 12130 8403 60  0000 L CNN
 F 1 "9774030151" H 12130 8297 60  0000 L CNN
-F 2 "antmicro-footprints:9774030151" H 12000 8350 60  0001 C CNN
+F 2 "scalenode-footprints:9774030151" H 12000 8350 60  0001 C CNN
 F 3 "https://www.we-online.com/catalog/datasheet/9774030151.pdf" H 12000 8350 60  0001 C CNN
 F 4 "Wurth Elektronik" H 12000 8350 50  0001 C CNN "Manufacturer"
 F 5 "9774030151" H 12000 8350 50  0001 C CNN "MPN"
@@ -320,12 +320,12 @@ Text GLabel 5250 3400 2    50   Input ~ 0
 ETH_LEDY
 NoConn ~ 4800 3500
 $Comp
-L antmicroLEDIndicationDiscrete:KP-1608CGCK D?
+L scalenode:KP-1608CGCK D?
 U 1 1 5FF225C8
 P 5650 3600
 F 0 "D?" H 5575 3500 60  0000 C CNN
 F 1 "KP-1608CGCK" H 5200 3725 60  0001 C CNN
-F 2 "antmicro-footprints:LED_0603" H 5850 3800 60  0001 L CNN
+F 2 "scalenode-footprints:LED_0603" H 5850 3800 60  0001 L CNN
 F 3 "http://www.farnell.com/datasheets/2045956.pdf" H 5850 3900 60  0001 L CNN
 F 4 "KP-1608CGCK" H 5850 4100 60  0001 L CNN "MPN"
 F 5 "KINGBRIGHT" H 5860 4220 60  0001 L CNN "Manufacturer"
@@ -465,7 +465,7 @@ Connection ~ 4900 2900
 Wire Wire Line
 	4900 2900 4900 3200
 $Comp
-L power:GND #PWR?
+L scalenode:GND #PWR?
 U 1 1 5FF7AA3F
 P 4900 7850
 F 0 "#PWR?" H 4900 7600 50  0001 C CNN
@@ -476,7 +476,7 @@ F 3 "" H 4900 7850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR?
+L scalenode:GND #PWR?
 U 1 1 5FF7AD72
 P 3700 7850
 F 0 "#PWR?" H 3700 7600 50  0001 C CNN
@@ -763,7 +763,7 @@ Wire Wire Line
 Wire Wire Line
 	7650 2900 7650 3200
 $Comp
-L power:GND #PWR?
+L scalenode:GND #PWR?
 U 1 1 600DB00A
 P 7650 7900
 F 0 "#PWR?" H 7650 7650 50  0001 C CNN
@@ -851,7 +851,7 @@ Wire Wire Line
 Wire Wire Line
 	8800 2900 8900 2900
 $Comp
-L power:GND #PWR?
+L scalenode:GND #PWR?
 U 1 1 6019843C
 P 8900 7900
 F 0 "#PWR?" H 8900 7650 50  0001 C CNN
@@ -931,12 +931,12 @@ Wire Wire Line
 Text GLabel 9250 4700 2    50   Input ~ 0
 HDMI1_HOTPLUG
 $Comp
-L antmicroResistors0603:R_1k_0603 R?
+L scalenode:R_1k_0603 R?
 U 1 1 601EE0FC
 P 5200 3600
 F 0 "R?" H 5150 3700 60  0000 C CNN
 F 1 "R_1k_0603" H 5200 3450 60  0001 C CNN
-F 2 "antmicro-footprints:0603-res" H 5400 3800 60  0001 L CNN
+F 2 "scalenode-footprints:0603-res" H 5400 3800 60  0001 L CNN
 F 3 "" H 5200 3600 50  0001 C CNN
 F 4 "BOURNS" H 5400 4000 60  0001 L CNN "Manufacturer"
 F 5 "CR0603-JW-102ELF" H 5400 3900 60  0001 L CNN "MPN"
