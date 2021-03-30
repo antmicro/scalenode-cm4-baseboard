@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 1 7
 Title "Scalenode"
 Date ""
-Rev "1.0.0"
+Rev "1.0.1"
 Comp "Antmicro"
 Comment1 "www.antmicro.com"
 Comment2 ""

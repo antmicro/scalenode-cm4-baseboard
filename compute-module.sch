@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 7 7
 Title "Scalenode"
 Date ""
-Rev "1.0.0"
+Rev "1.0.1"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -202,8 +202,6 @@ Text GLabel 3350 6300 0    50   Input ~ 0
 RESERVED
 Wire Wire Line
 	3800 6400 3350 6400
-Text GLabel 3350 6400 0    50   Input ~ 0
-GPIO_VREF
 Wire Wire Line
 	3800 6500 3350 6500
 Text GLabel 3350 6500 0    50   Input ~ 0
@@ -996,5 +994,7 @@ NoConn ~ 11800 8350
 Text GLabel 3350 6700 0    50   Input ~ 0
 3V3_RPi
 Text GLabel 5850 3150 1    50   Input ~ 0
+3V3_RPi
+Text GLabel 3350 6400 0    50   Input ~ 0
 3V3_RPi
 $EndSCHEMATC
