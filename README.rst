@@ -4,9 +4,7 @@ Scalenode platform
 
 Copyright (c) 2020-2021 `Antmicro <https://www.antmicro.com>`_
 
-.. image:: img/scalenode.png
-   :scale: 60%
-   :align: center
+.. figure:: img/scalenode.jpg
 
 Overview
 ========
@@ -19,10 +17,10 @@ Key features
 
 * Supports Raspberry Pi CM4
 * Gigabit Ethernet with integrated PoE circuitry
-* On-board M.2 slot supporting NVMe SSDs 
+* On-board M.2 (key-M) slot supporting NVMe SSDs 
 * Slim PCB outline for 1U chassis
 * Expansion connector for peripherals connected over USB
-* Expansion connector for MIPI-CSI & HDMI adapters
+* Expansion connector for HDMI adapters
 
 Board layout and dimensions
 ===========================
@@ -34,7 +32,7 @@ Design status
 =============
 
 The PCB design files were prepared in KiCad.
-Prototypes of revision 1.0.0 are now being manufactured.
+Prototypes of revision 1.0.0 are now being verified.
 
 License
 =======
