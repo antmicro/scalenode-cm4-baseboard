@@ -26,7 +26,6 @@ Board layout and dimensions
 ===========================
 
 .. image:: img/scalenode-dimensions.png
-   :align: center
 
 Design status
 =============
