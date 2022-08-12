@@ -352,7 +352,7 @@
         )
         (pin passive line (at 8.89 -8.89 180) (length 2.54)
           (name "Shell" (effects (font (size 1.27 1.27))))
-          (number "~" (effects (font (size 1.27 1.27))))
+          (number "SH" (effects (font (size 1.27 1.27))))
         )
       )
     )
@@ -4414,7 +4414,7 @@
     (pin "7" (uuid 250b114b-cf83-4586-9c80-c0cda1b5ceb7))
     (pin "8" (uuid c3c68595-cf94-4ac6-8621-31fe88788b78))
     (pin "9" (uuid 8855eda6-4da9-4bc9-be38-3b2bfa6b7242))
-    (pin "~" (uuid aaa3f07b-d345-46d7-8f99-caf57c14b107))
+    (pin "SH" (uuid 55969fc7-8357-4554-bb38-b862ba1e78c0))
   )
 
   (symbol (lib_id "scalenode:GND") (at 111.506 208.026 0) (unit 1)
