@@ -107,7 +107,7 @@
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
         "min_silk_clearance": 0.0,
-        "min_through_hole_diameter": 0.19999999999999998,
+        "min_through_hole_diameter": 0.15,
         "min_track_width": 0.09999999999999999,
         "min_via_annular_width": 0.049999999999999996,
         "min_via_diameter": 0.09999999999999999,
@@ -116,6 +116,8 @@
       "track_widths": [
         0.0,
         0.127,
+        0.15,
+        0.18,
         0.2,
         0.254,
         0.4,
@@ -134,11 +136,15 @@
         },
         {
           "diameter": 0.5,
-          "drill": 0.2
+          "drill": 0.15
         },
         {
-          "diameter": 1.2,
-          "drill": 0.6
+          "diameter": 0.5,
+          "drill": 0.15
+        },
+        {
+          "diameter": 0.5,
+          "drill": 0.15
         }
       ],
       "zones_allow_external_fillets": false,
@@ -378,16 +384,16 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.254,
-        "via_diameter": 0.8,
-        "via_drill": 0.4,
+        "via_diameter": 0.5,
+        "via_drill": 0.15,
         "wire_width": 6.0
       },
       {
         "bus_width": 12.0,
         "clearance": 0.1,
-        "diff_pair_gap": 0.25,
+        "diff_pair_gap": 0.2,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
+        "diff_pair_width": 0.15,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
@@ -429,26 +435,30 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.15,
-        "via_diameter": 0.8,
-        "via_drill": 0.4,
+        "via_diameter": 0.5,
+        "via_drill": 0.15,
         "wire_width": 6.0
       },
       {
         "bus_width": 12.0,
         "clearance": 0.1,
-        "diff_pair_gap": 0.25,
+        "diff_pair_gap": 0.2,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
+        "diff_pair_width": 0.18,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Diff_90",
         "nets": [
+          "/Interfaces/CONN_USB_N",
+          "/Interfaces/CONN_USB_P",
+          "/Interfaces/FTDI_USB_N",
+          "/Interfaces/FTDI_USB_P",
           "/Interfaces/RPi_USB_N",
           "/Interfaces/RPi_USB_P",
           "/Interfaces/VBus_Slave",
-          "Arty_USB_N",
-          "Arty_USB_P",
+          "Adapter_USB_N",
+          "Adapter_USB_P",
           "PCIE_CLK_N",
           "PCIE_CLK_P",
           "PCIE_RX_N",
@@ -460,9 +470,9 @@
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
-        "via_diameter": 0.8,
-        "via_drill": 0.4,
+        "track_width": 0.18,
+        "via_diameter": 0.5,
+        "via_drill": 0.15,
         "wire_width": 6.0
       }
     ],
@@ -522,7 +532,7 @@
   },
   "sheets": [
     [
-      "26e9bc80-8c43-4067-b031-d3a83b23a283",
+      "60b842dc-0853-4a25-99ac-5784ddf94d0d",
       ""
     ],
     [
