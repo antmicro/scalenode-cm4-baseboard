@@ -3304,24 +3304,6 @@
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-00005ff64a72"
       (reference "#PWR014") (unit 1) (value "GND") (footprint "scalenode-footprints:")
     )
-    (path "/00000000-0000-0000-0000-00005fea17e9/00000000-0000-0000-0000-0000602d9ac1"
-      (reference "#PWR015") (unit 1) (value "GND") (footprint "scalenode-footprints:")
-    )
-    (path "/00000000-0000-0000-0000-00005fea17e9/00000000-0000-0000-0000-0000602a304d"
-      (reference "#PWR016") (unit 1) (value "GND") (footprint "scalenode-footprints:")
-    )
-    (path "/00000000-0000-0000-0000-00005fea17e9/00000000-0000-0000-0000-0000602c79f1"
-      (reference "#PWR017") (unit 1) (value "GND") (footprint "scalenode-footprints:")
-    )
-    (path "/00000000-0000-0000-0000-00005fea17e9/00000000-0000-0000-0000-0000602c6528"
-      (reference "#PWR018") (unit 1) (value "GND") (footprint "scalenode-footprints:")
-    )
-    (path "/00000000-0000-0000-0000-00005fea17e9/00000000-0000-0000-0000-0000602c408d"
-      (reference "#PWR019") (unit 1) (value "GND") (footprint "scalenode-footprints:")
-    )
-    (path "/00000000-0000-0000-0000-00005fea17e9/00000000-0000-0000-0000-0000602c4c70"
-      (reference "#PWR020") (unit 1) (value "GND") (footprint "scalenode-footprints:")
-    )
     (path "/00000000-0000-0000-0000-00005fea17d8/540de053-3b35-4ccc-9c41-3f775902166d"
       (reference "#PWR021") (unit 1) (value "GND") (footprint "scalenode-footprints:")
     )
@@ -3367,11 +3349,17 @@
     (path "/00000000-0000-0000-0000-00005fea17d8/00000000-0000-0000-0000-0000602d4830"
       (reference "#PWR0105") (unit 1) (value "GND") (footprint "scalenode-footprints:")
     )
+    (path "/00000000-0000-0000-0000-00005fea17e9/e793e5b7-b4ff-476b-8b8e-2f4e38189b49"
+      (reference "#PWR0106") (unit 1) (value "GND") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00005fea17d8/00000000-0000-0000-0000-000060377da0"
       (reference "#PWR0107") (unit 1) (value "Earth") (footprint "scalenode-footprints:")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/00000000-0000-0000-0000-0000603c9e45"
       (reference "#PWR0108") (unit 1) (value "GND") (footprint "scalenode-footprints:")
+    )
+    (path "/00000000-0000-0000-0000-00005fea17e9/d68a5780-a924-4af0-ab48-b1854886bc58"
+      (reference "#PWR0109") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000060011e76/00000000-0000-0000-0000-000060d720ba"
       (reference "#PWR0110") (unit 1) (value "GND") (footprint "scalenode-footprints:")
@@ -3379,8 +3367,17 @@
     (path "/00000000-0000-0000-0000-000060011e76/00000000-0000-0000-0000-000060d72431"
       (reference "#PWR0111") (unit 1) (value "GND") (footprint "scalenode-footprints:")
     )
+    (path "/00000000-0000-0000-0000-00005fea17e9/29e5d1f1-0904-4618-a844-bc8a77eb2bde"
+      (reference "#PWR0112") (unit 1) (value "GND") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00005fea17d8/00000000-0000-0000-0000-0000613326e4"
       (reference "#PWR0113") (unit 1) (value "Earth") (footprint "scalenode-footprints:")
+    )
+    (path "/00000000-0000-0000-0000-00005fea17e9/4687ba66-4d2e-4d7c-9b8d-ef9c325dc127"
+      (reference "#PWR0114") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005fea17e9/7f2abf96-5c44-4f1c-8583-052bcf037186"
+      (reference "#PWR0115") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005fea1b94/00000000-0000-0000-0000-00005ffa3033"
       (reference "C1") (unit 1) (value "C_10u_0603") (footprint "scalenode-footprints:0603-cap")
@@ -3427,17 +3424,17 @@
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-0000602577ec"
       (reference "C15") (unit 1) (value "C_1u_0402") (footprint "scalenode-footprints:0402-cap")
     )
-    (path "/00000000-0000-0000-0000-00005fea17e9/00000000-0000-0000-0000-000060286d44"
-      (reference "C16") (unit 1) (value "C_22u_KEMET_A") (footprint "scalenode-footprints:KEMET_A")
+    (path "/00000000-0000-0000-0000-00005fea17e9/198cfc2a-5d17-4dc4-a183-ab3f60dfcef2"
+      (reference "C16") (unit 1) (value "C_22u_0805_10V") (footprint "antmicro-footprints:0805-cap")
     )
-    (path "/00000000-0000-0000-0000-00005fea17e9/00000000-0000-0000-0000-0000602a1299"
-      (reference "C17") (unit 1) (value "C_4u7_0603") (footprint "scalenode-footprints:0603-cap")
+    (path "/00000000-0000-0000-0000-00005fea17e9/e75afa72-e416-4325-a9a1-9fa3af862369"
+      (reference "C17") (unit 1) (value "C_100n_0402") (footprint "antmicro-footprints:0402-cap")
     )
-    (path "/00000000-0000-0000-0000-00005fea17e9/00000000-0000-0000-0000-0000602a921b"
-      (reference "C18") (unit 1) (value "C_120p_0402") (footprint "scalenode-footprints:0402-res")
+    (path "/00000000-0000-0000-0000-00005fea17e9/92d7c3d3-e46c-4098-8a5a-9c2b29bce1f2"
+      (reference "C18") (unit 1) (value "C_22u_0805_10V") (footprint "antmicro-footprints:0805-cap")
     )
-    (path "/00000000-0000-0000-0000-00005fea17e9/00000000-0000-0000-0000-0000602cc093"
-      (reference "C19") (unit 1) (value "C_22u_1210") (footprint "scalenode-footprints:1210-cap")
+    (path "/00000000-0000-0000-0000-00005fea17e9/d7ab2ff0-fc17-4c55-b323-50dd6c930fd8"
+      (reference "C19") (unit 1) (value "C_22u_0805_10V") (footprint "antmicro-footprints:0805-cap")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/80ce62db-b26e-4c11-92d6-c20e171bfd74"
       (reference "C20") (unit 1) (value "C_100n_0805_100V") (footprint "scalenode-footprints:0805-cap")
@@ -3568,11 +3565,8 @@
     (path "/00000000-0000-0000-0000-000060011e76/00000000-0000-0000-0000-000060befb89"
       (reference "J10") (unit 1) (value "LSHM-130-01-L-RH-A-S-K-TR") (footprint "scalenode-footprints:SAMTEC_LSHM-130-01-XXX-RH-A-S-K-XX")
     )
-    (path "/00000000-0000-0000-0000-00005fea17e9/00000000-0000-0000-0000-0000602d25de"
-      (reference "L1") (unit 1) (value "IHLP2020BZER4R7M01") (footprint "scalenode-footprints:IHLP2020BZER4R7M01")
-    )
-    (path "/00000000-0000-0000-0000-00005fea17e9/00000000-0000-0000-0000-00005ff98413"
-      (reference "L2") (unit 1) (value "IHLP1212AEERR47M11") (footprint "scalenode-footprints:IHLP-1212AE")
+    (path "/00000000-0000-0000-0000-00005fea17e9/eef63523-948c-4d3f-9bcb-e6567c778f01"
+      (reference "L1") (unit 1) (value "XFL4020-102MEC") (footprint "antmicro-footprints:XFL4020-102MEB")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/00000000-0000-0000-0000-00005fef5267"
       (reference "L3") (unit 1) (value "H6096NL") (footprint "scalenode-footprints:SOIC127P1594X685-24N")
@@ -3652,14 +3646,11 @@
     (path "/00000000-0000-0000-0000-00005fea17d8/00000000-0000-0000-0000-0000603f6e84"
       (reference "R17") (unit 1) (value "R_0R_1206") (footprint "scalenode-footprints:1206-res")
     )
-    (path "/00000000-0000-0000-0000-00005fea17e9/00000000-0000-0000-0000-00006029edd9"
-      (reference "R18") (unit 1) (value "R_100k_0603") (footprint "scalenode-footprints:0603-res")
+    (path "/00000000-0000-0000-0000-00005fea17e9/c6fb358c-c535-4e9a-b9c5-d7a757e203f4"
+      (reference "R18") (unit 1) (value "R_33k2_0402") (footprint "antmicro-footprints:0402-res")
     )
-    (path "/00000000-0000-0000-0000-00005fea17e9/00000000-0000-0000-0000-0000602a82c5"
-      (reference "R19") (unit 1) (value "R_453k_0402") (footprint "scalenode-footprints:0402-res")
-    )
-    (path "/00000000-0000-0000-0000-00005fea17e9/00000000-0000-0000-0000-0000602a70fc"
-      (reference "R20") (unit 1) (value "R_100k_0402") (footprint "scalenode-footprints:0402-res")
+    (path "/00000000-0000-0000-0000-00005fea17e9/d0b89add-23b7-4671-940f-97a97bd3cb0a"
+      (reference "R19") (unit 1) (value "R_10k_0402") (footprint "antmicro-footprints:0402-res")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/00000000-0000-0000-0000-00005fee3244"
       (reference "R21") (unit 1) (value "R_220R_0402") (footprint "scalenode-footprints:0402-res")
@@ -3702,9 +3693,6 @@
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/27dff3b1-b81d-430f-a833-68d95b75fda9"
       (reference "R34") (unit 1) (value "R_15k_0603") (footprint "scalenode-footprints:0603-res")
-    )
-    (path "/00000000-0000-0000-0000-00005fea17e9/9b353e4e-27ca-45a4-b3c1-6abe9613d84b"
-      (reference "R35") (unit 1) (value "R_0R_0402") (footprint "scalenode-footprints:0402-res")
     )
     (path "/00000000-0000-0000-0000-00005fea17c4/00000000-0000-0000-0000-0000601ee0fc"
       (reference "R42") (unit 1) (value "R_1k_0603") (footprint "scalenode-footprints:0603-res")
@@ -3763,10 +3751,7 @@
     (path "/00000000-0000-0000-0000-00005fea1b94/00000000-0000-0000-0000-0000602dc131"
       (reference "SP6") (unit 1) (value "97730256332R") (footprint "scalenode-footprints:97730256332R")
     )
-    (path "/00000000-0000-0000-0000-00005fea17e9/00000000-0000-0000-0000-0000602fc1b7"
-      (reference "TP1") (unit 1) (value "TP_SMD1MM") (footprint "scalenode-footprints:Testpoint_smd_1mm")
-    )
-    (path "/00000000-0000-0000-0000-00005fea17e9/00000000-0000-0000-0000-000060280128"
+    (path "/00000000-0000-0000-0000-00005fea17e9/d955de56-e175-4986-9f94-fc08889df80c"
       (reference "TP2") (unit 1) (value "TP_SMD1MM") (footprint "scalenode-footprints:Testpoint_smd_1mm")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/2645583d-0217-488a-8eb4-7f4b58253402"
@@ -3781,11 +3766,14 @@
     (path "/00000000-0000-0000-0000-00005fea17c4/893c07e9-2e71-49dd-83f4-aff8cd27cb7c"
       (reference "TP6") (unit 1) (value "TP_SMD1MM") (footprint "scalenode-footprints:Testpoint_smd_1mm")
     )
+    (path "/00000000-0000-0000-0000-00005fea17e9/b25e3959-f569-4978-8013-d3416436d442"
+      (reference "TP7") (unit 1) (value "TP_SMD1MM") (footprint "scalenode-footprints:Testpoint_smd_1mm")
+    )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-000060648ef9"
       (reference "U1") (unit 1) (value "TS3USB30EDGSR") (footprint "scalenode-footprints:MSOP-10_W3mm")
     )
-    (path "/00000000-0000-0000-0000-00005fea17e9/00000000-0000-0000-0000-00005ff91ea9"
-      (reference "U2") (unit 1) (value "TPS62823DLCT") (footprint "scalenode-footprints:QFN-8_2x1mm")
+    (path "/00000000-0000-0000-0000-00005fea17e9/8318d44a-ef75-4fa2-acbe-7568ddfe56d0"
+      (reference "U2") (unit 1) (value "AP62301WU-7") (footprint "antmicro-footprints:TSOT23-6")
     )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-00006069972b"
       (reference "U5") (unit 1) (value "TS3USB30EDGSR") (footprint "scalenode-footprints:MSOP-10_W3mm")
