@@ -376,7 +376,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "scalenode.kicad_pro",
+    "filename": "scalenode-cm4-baseboard.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -520,7 +520,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "scalenode.net",
+      "netlist": "scalenode-cm4-baseboard.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""

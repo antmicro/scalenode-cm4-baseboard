@@ -364,7 +364,7 @@
   (net 273 "Net-(TP8-Pad1)")
   (net 274 "Net-(TP9-Pad1)")
 
-  (footprint "scalenode-footprints:9774030151" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:9774030151" (layer "F.Cu")
     (tedit 5EE0CAB2) (tstamp 00000000-0000-0000-0000-00005ff7ce78)
     (at 193.488 93.2)
     (property "MPN" "9774030151")
@@ -390,7 +390,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:9774030151" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:9774030151" (layer "F.Cu")
     (tedit 5EE0CAB2) (tstamp 00000000-0000-0000-0000-00005ff7ce84)
     (at 145.488 93.2)
     (property "MPN" "9774030151")
@@ -416,7 +416,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:9774030151" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:9774030151" (layer "F.Cu")
     (tedit 5EE0CAB2) (tstamp 00000000-0000-0000-0000-00005ff7ce90)
     (at 193.488 60.2)
     (property "MPN" "9774030151")
@@ -442,7 +442,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:9774030151" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:9774030151" (layer "F.Cu")
     (tedit 5EE0CAB2) (tstamp 00000000-0000-0000-0000-00005ff7ce9c)
     (at 145.488 60.2)
     (property "MPN" "9774030151")
@@ -468,7 +468,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-00005ff8228c)
     (at 165.27272 75.00568 -90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -511,7 +511,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-cap" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-cap" (layer "F.Cu")
     (tedit 5D5E9295) (tstamp 00000000-0000-0000-0000-00005ff8242a)
     (at 178.7652 83.7128)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -554,7 +554,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-cap" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-cap" (layer "F.Cu")
     (tedit 5D5E9295) (tstamp 00000000-0000-0000-0000-00005ff82454)
     (at 178.7652 82.6968)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -597,7 +597,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0603-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0603-res" (layer "F.Cu")
     (tedit 5D5D3E92) (tstamp 00000000-0000-0000-0000-00005ff8f3a0)
     (at 79.15 77.94)
     (property "MPN" "CRGH0603F270R")
@@ -640,7 +640,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-00005ffff485)
     (at 93.29 58.106 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -683,7 +683,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-00005ffff4af)
     (at 91.25 58.106)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -726,7 +726,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:DF40HC(3.0)-100DS-0.4v" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:DF40HC(3.0)-100DS-0.4v" (layer "F.Cu")
     (tedit 6022D863) (tstamp 00000000-0000-0000-0000-000060100849)
     (at 167.17772 59.80168 180)
     (property "MPN" "DF40HC(3.0)-100DS-0.4v(51")
@@ -1574,7 +1574,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:DF40HC(3.0)-100DS-0.4v" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:DF40HC(3.0)-100DS-0.4v" (layer "F.Cu")
     (tedit 6022D863) (tstamp 00000000-0000-0000-0000-0000601019ea)
     (at 167.17772 93.80168 180)
     (property "MPN" "DF40HC(3.0)-100DS-0.4v(51")
@@ -2422,7 +2422,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-000060103360)
     (at 179.959 85.186 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -2465,7 +2465,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-cap" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-cap" (layer "F.Cu")
     (tedit 5D5E9295) (tstamp 00000000-0000-0000-0000-000060282496)
     (at 85.75 84.5 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -2508,7 +2508,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:Mount-hole-M2.5" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:Mount-hole-M2.5" (layer "F.Cu")
     (tedit 5DC05C01) (tstamp 00000000-0000-0000-0000-000060631374)
     (at 207.041 93.192)
     (property "Sheetfile" "expansion-connectors.kicad_sch")
@@ -2526,7 +2526,7 @@
     (pad "1" thru_hole circle locked (at 0 0) (size 6.2 6.2) (drill 2.75) (layers *.Cu *.Mask) (tstamp 4dbaa038-12a2-40bc-9435-b7568d5de15c))
   )
 
-  (footprint "scalenode-footprints:Mount-hole-M2.5" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:Mount-hole-M2.5" (layer "F.Cu")
     (tedit 5DC05C01) (tstamp 00000000-0000-0000-0000-000060638950)
     (at 207.041 60.192)
     (property "Sheetfile" "expansion-connectors.kicad_sch")
@@ -2544,7 +2544,7 @@
     (pad "1" thru_hole circle locked (at 0 0) (size 6.2 6.2) (drill 2.75) (layers *.Cu *.Mask) (tstamp dec4b767-0156-44fb-9a88-e163459ac0bb))
   )
 
-  (footprint "scalenode-footprints:0402-cap" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-cap" (layer "F.Cu")
     (tedit 5D5E9295) (tstamp 00000000-0000-0000-0000-00006065a8a2)
     (at 172.2374 75.8388 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -2587,7 +2587,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-cap" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-cap" (layer "F.Cu")
     (tedit 5D5E9295) (tstamp 00000000-0000-0000-0000-00006065a8b1)
     (at 172.2374 74.8482 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -2630,7 +2630,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-00006065bd28)
     (at 150.922 62.303 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -2673,7 +2673,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-00006065bd37)
     (at 152.362 61.818)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -2716,7 +2716,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:MSOP-10_W3mm" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:MSOP-10_W3mm" (layer "F.Cu")
     (tedit 5D2894A0) (tstamp 00000000-0000-0000-0000-00006066a4cc)
     (at 176.149 86.329 -90)
     (property "MPN" "TS3USB30EDGSR")
@@ -2776,10 +2776,10 @@
       (net 238 "3V3_RPi") (pinfunction "VCC") (pintype "power_in") (solder_mask_margin 0.05) (tstamp f976af6e-ebed-4407-af24-d4685a03e0fa))
   )
 
-  (footprint "scalenode-footprints:antmicro-logo_scaled_15mm" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:antmicro-logo_scaled_15mm" (layer "F.Cu")
     (tedit 5E4A93DE) (tstamp 00000000-0000-0000-0000-000060743a72)
     (at 97.420173 79.759924)
-    (property "Sheetfile" "scalenode.kicad_sch")
+    (property "Sheetfile" "scalenode-cm4-baseboard.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-0000602d4d74")
     (attr exclude_from_pos_files)
@@ -5097,7 +5097,7 @@
       ) (layer "F.Mask") (width 0.001395) (fill solid) (tstamp fdd1e70d-804e-4407-8dd9-911ea32ede45))
   )
 
-  (footprint "scalenode-footprints:SOIC127P1594X685-24N" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:SOIC127P1594X685-24N" (layer "F.Cu")
     (tedit 5FD9C070) (tstamp 00000000-0000-0000-0000-00006074a30e)
     (at 105.187 66.818 180)
     (descr "PS-2473.001-A")
@@ -5191,7 +5191,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:DFN-12-1EP_3x3mm" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:DFN-12-1EP_3x3mm" (layer "F.Cu")
     (tedit 5D288EE3) (tstamp 00000000-0000-0000-0000-000060764345)
     (at 169.19956 72.02372 90)
     (descr "http://www.ftdichip.com/Support/Documents/TechnicalNotes/TN_166%20FTDI%20Example%20IC%20PCB%20Footprints.pdf")
@@ -5259,7 +5259,7 @@
       (net 11 "GND") (pinfunction "GND") (pintype "power_in") (tstamp 89e48256-23cd-49e0-b706-eaee8d46970c))
   )
 
-  (footprint "scalenode-footprints:0402-cap" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-cap" (layer "F.Cu")
     (tedit 5D5E9295) (tstamp 00000000-0000-0000-0000-0000607643c3)
     (at 172.6414 70.1746)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -5302,7 +5302,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-cap" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-cap" (layer "F.Cu")
     (tedit 5D5E9295) (tstamp 00000000-0000-0000-0000-0000607643ed)
     (at 172.6438 71.1906)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -5345,7 +5345,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-000060764417)
     (at 168.13456 74.33004 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -5388,7 +5388,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-000060765cb4)
     (at 170.26456 74.33512)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -5431,7 +5431,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-000060768466)
     (at 158.89224 71.05344 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -5474,7 +5474,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-0000607684e4)
     (at 158.37916 71.5602 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -5518,7 +5518,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-0000607688d2)
     (at 155.70104 71.0708)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -5561,7 +5561,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-000060769a77)
     (at 155.18288 71.5801 -90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -5605,7 +5605,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:SOT-23-3" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:SOT-23-3" (layer "F.Cu")
     (tedit 5D5D4314) (tstamp 00000000-0000-0000-0000-000060771f02)
     (at 151.892 59.405 90)
     (property "MPN" "BSS138-7-F")
@@ -5659,7 +5659,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-0000607765f4)
     (at 175.808 89.377 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -5702,7 +5702,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-00006077661e)
     (at 176.951 89.377 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -5745,7 +5745,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-cap" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-cap" (layer "F.Cu")
     (tedit 5D5E9295) (tstamp 00000000-0000-0000-0000-00006077b35e)
     (at 172.6438 72.4606)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -5788,7 +5788,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-00006077dc91)
     (at 164.24148 75.00568 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -5831,7 +5831,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:MSOP-10_W3mm" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:MSOP-10_W3mm" (layer "F.Cu")
     (tedit 5D2894A0) (tstamp 00000000-0000-0000-0000-00006078710c)
     (at 168.9862 78.074 -90)
     (property "MPN" "TS3USB30EDGSR")
@@ -5891,7 +5891,7 @@
       (net 238 "3V3_RPi") (pinfunction "VCC") (pintype "power_in") (solder_mask_margin 0.05) (tstamp 9ef3f61d-a677-4385-9563-1491e5a5adac))
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-00006078723c)
     (at 173.144 77.65)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -5934,7 +5934,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:USB_Micro_B_Female_0473460001" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:USB_Micro_B_Female_0473460001" (layer "F.Cu")
     (tedit 5D5E8368) (tstamp 00000000-0000-0000-0000-0000607ab90e)
     (at 76.95372 87.373 90)
     (descr "http://www.molex.com/pdm_docs/sd/473460001_sd.pdf")
@@ -5998,7 +5998,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:mounting-hole-2.2mm" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:mounting-hole-2.2mm" (layer "F.Cu")
     (tedit 5F06C528) (tstamp 00000000-0000-0000-0000-0000607ab954)
     (at 78.126 94.198)
     (property "Sheetfile" "expansion-connectors.kicad_sch")
@@ -6016,10 +6016,10 @@
     (pad "1" thru_hole circle locked (at 0 0) (size 4.5 4.5) (drill 2.2) (layers *.Cu *.Mask) (tstamp ada49ecc-a8c4-424f-97ed-ad3c31a85330))
   )
 
-  (footprint "scalenode-footprints:oshw-logo" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:oshw-logo" (layer "F.Cu")
     (tedit 5E4A93CD) (tstamp 00000000-0000-0000-0000-000060abbed1)
     (at 138.1 60.3)
-    (property "Sheetfile" "scalenode.kicad_sch")
+    (property "Sheetfile" "scalenode-cm4-baseboard.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-0000603350d4")
     (attr exclude_from_pos_files)
@@ -10551,7 +10551,7 @@
       ) (layer "F.Mask") (width 0.01) (fill solid) (tstamp f89583d4-e00c-4bc2-8f44-a50d3f6a9fe8))
   )
 
-  (footprint "scalenode-footprints:Switch_Slide_CAS-120TA" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:Switch_Slide_CAS-120TA" (layer "F.Cu")
     (tedit 60AD2466) (tstamp 00000000-0000-0000-0000-000060adc2ac)
     (at 120.6 59.4 180)
     (property "MPN" "CAS-120TA")
@@ -10593,7 +10593,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-cap" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-cap" (layer "F.Cu")
     (tedit 5D5E9295) (tstamp 00000000-0000-0000-0000-000060af3f11)
     (at 81.745 85.296 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -10636,7 +10636,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:SAMTEC_LSHM-130-01-XXX-RH-A-S-K-XX" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:SAMTEC_LSHM-130-01-XXX-RH-A-S-K-XX" (layer "F.Cu")
     (tedit 60BE5BD8) (tstamp 00000000-0000-0000-0000-000060bfbf71)
     (at 202.584 76.7 90)
     (property "MANUFACTURER" "Samtec")
@@ -11315,7 +11315,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:compute-module-4-1.5mm" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:compute-module-4-1.5mm" (layer "F.Cu")
     (tedit 6022D889) (tstamp 00000000-0000-0000-0000-000060c035c0)
     (at 163.984 56.029)
     (property "Sheetfile" "compute-module.kicad_sch")
@@ -11436,7 +11436,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:LED_0603_R" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:LED_0603_R" (layer "F.Cu")
     (tedit 60E81744) (tstamp 00000000-0000-0000-0000-000060c1def2)
     (at 76.1 81.541 -90)
     (property "MPN" "598-8D80-107F")
@@ -11485,7 +11485,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:1206-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:1206-res" (layer "F.Cu")
     (tedit 5D5E9367) (tstamp 00000000-0000-0000-0000-000060c2537e)
     (at 199.334 91.65 -90)
     (descr "http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C230KFKT_5-24-06.pdf")
@@ -11533,7 +11533,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:1206-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:1206-res" (layer "F.Cu")
     (tedit 5D5E9367) (tstamp 00000000-0000-0000-0000-000060c25393)
     (at 199.334 88.05 90)
     (descr "http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C230KFKT_5-24-06.pdf")
@@ -11582,7 +11582,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:UFDFN-6_1.45x1mm" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:UFDFN-6_1.45x1mm" (layer "F.Cu")
     (tedit 5D28ACE7) (tstamp 00000000-0000-0000-0000-000060d16c74)
     (at 82.225 87.306 -90)
     (property "MPN" "TPD4S012DRYR")
@@ -11639,7 +11639,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0603-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0603-res" (layer "F.Cu")
     (tedit 5D5D3E92) (tstamp 00000000-0000-0000-0000-000060d1aeba)
     (at 79.22 81.76 180)
     (property "MPN" "CR0603-JW-102ELF")
@@ -11682,7 +11682,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:Testpoint_smd_1mm" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:Testpoint_smd_1mm" (layer "F.Cu")
     (tedit 5E4A935B) (tstamp 06275603-402b-4c51-a50b-ff54923400f8)
     (at 138.8 69)
     (property "Sheetfile" "supply.kicad_sch")
@@ -11701,7 +11701,7 @@
       (net 170 "3V3_SSD") (pintype "passive") (tstamp 1bf4bd8a-43ae-43ba-af7e-8b985bb92b17))
   )
 
-  (footprint "scalenode-footprints:PDQE30-Q48" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:PDQE30-Q48" (layer "F.Cu")
     (tedit 608ACD31) (tstamp 12d00ec9-3ec6-4233-8e92-45f115c39365)
     (at 127.25 83.206)
     (property "MPN" "PDQE30-Q48-S5-D")
@@ -11751,7 +11751,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:2220-cap" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:2220-cap" (layer "F.Cu")
     (tedit 618A5F5C) (tstamp 27a9faba-6ecd-4a8b-9734-32db633275ae)
     (at 110.4 92.06 180)
     (descr "Capacitor SMD 2220 (5650 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator")
@@ -11796,7 +11796,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0805-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0805-res" (layer "F.Cu")
     (tedit 5D5D3F54) (tstamp 386bdcd0-007b-497c-aa58-80b3bfaa196c)
     (at 98.9 92.6)
     (property "MPN" "ERA-6AEB3242V")
@@ -11835,7 +11835,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp 43f44eff-de8e-4138-b2b8-cd49b3d68e80)
     (at 93.8 87.1 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -11880,7 +11880,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:QFN65P500X500X100-21N" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:QFN65P500X500X100-21N" (layer "F.Cu")
     (tedit 60D4EA5A) (tstamp 45df9e2a-6a81-4d23-98a5-6ee2889d26ee)
     (at 92.4 91.4)
     (property "DNP" "DNP")
@@ -11989,7 +11989,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:Testpoint_smd_1mm" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:Testpoint_smd_1mm" (layer "F.Cu")
     (tedit 5E4A935B) (tstamp 71498167-189d-4243-97ee-9e018528e1ea)
     (at 133.2 68.8842)
     (property "Sheetfile" "poe.kicad_sch")
@@ -12008,7 +12008,7 @@
       (net 12 "VCC5V0") (pintype "passive") (tstamp 4bffdf2e-7f01-4619-b8c1-edcdbb383efb))
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp 74e3b137-977a-486e-a192-ed1a3de6e950)
     (at 89.8 95.6 -90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -12053,7 +12053,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:SS-74800-144" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:SS-74800-144" (layer "F.Cu")
     (tedit 61289A66) (tstamp 7c1a3c71-2fa5-4982-9e82-c16456b47c38)
     (at 95.816 67.856 -90)
     (property "MPN" "SS-74800-144")
@@ -12128,7 +12128,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:Testpoint_smd_1mm" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:Testpoint_smd_1mm" (layer "F.Cu")
     (tedit 5E4A935B) (tstamp 8281cc01-0019-4a78-8adb-f967594074c2)
     (at 123.2858 68.8842)
     (property "Sheetfile" "poe.kicad_sch")
@@ -12147,7 +12147,7 @@
       (net 11 "GND") (pintype "passive") (tstamp 5ca1b9cf-89c9-49cf-8b2b-53b3e78d0249))
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp 8b4d8709-825c-4212-ac15-c260e81afc42)
     (at 91.3 95.1)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -12192,7 +12192,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:Testpoint_smd_1mm" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:Testpoint_smd_1mm" (layer "F.Cu")
     (tedit 5E4A935B) (tstamp 8ea86b73-725b-41e0-92bd-1e92dbcd47ef)
     (at 128.2858 68.8842)
     (property "Sheetfile" "compute-module.kicad_sch")
@@ -12211,7 +12211,7 @@
       (net 238 "3V3_RPi") (pintype "passive") (tstamp a128e8d4-4f4f-44f5-95c1-eb6b092d475d))
   )
 
-  (footprint "scalenode-footprints:Testpoint_smd_0_75mm" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:Testpoint_smd_0_75mm" (layer "F.Cu")
     (tedit 5E4A9375) (tstamp 969a48ab-ad4e-468c-a3da-d9564941f519)
     (at 95.8 87.2 180)
     (property "Sheetfile" "poe.kicad_sch")
@@ -12230,7 +12230,7 @@
       (net 274 "Net-(TP9-Pad1)") (pintype "passive") (tstamp d28870f3-3a2c-42d2-b180-778dc61fdff9))
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp 9c4ded05-026b-4c97-9d6b-c5602655e48f)
     (at 92.4 87.1 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -12275,7 +12275,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:Testpoint_smd_0_75mm" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:Testpoint_smd_0_75mm" (layer "F.Cu")
     (tedit 5E4A9375) (tstamp a39a318c-ceed-4a47-95ff-4677566551af)
     (at 96.3 89.2)
     (property "Sheetfile" "poe.kicad_sch")
@@ -12294,7 +12294,7 @@
       (net 272 "Net-(TP1-Pad1)") (pintype "passive") (tstamp 24be596b-b226-4421-bfbc-6257f7152d72))
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp b44ad8c2-33b8-40c2-b97a-f03a08422ad0)
     (at 86.885 92.2)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -12339,7 +12339,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:Testpoint_smd_1mm" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:Testpoint_smd_1mm" (layer "F.Cu")
     (tedit 5E4A935B) (tstamp b93ff73f-881e-49fa-9931-95e7259935e7)
     (at 98.916 89.402)
     (property "Sheetfile" "poe.kicad_sch")
@@ -12358,7 +12358,7 @@
       (net 6 "/PoE/VDD_POE_IN") (pintype "passive") (tstamp e5bc1bcc-4464-42d6-bf03-f7a30d2b7bae))
   )
 
-  (footprint "scalenode-footprints:Testpoint_smd_0_75mm" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:Testpoint_smd_0_75mm" (layer "F.Cu")
     (tedit 5E4A9375) (tstamp bf858c55-b775-4ff9-aeb7-e70520a30540)
     (at 96.2 90.7)
     (property "Sheetfile" "poe.kicad_sch")
@@ -12377,7 +12377,7 @@
       (net 273 "Net-(TP8-Pad1)") (pintype "passive") (tstamp c2668302-89fa-4532-b19a-f46c798a0c6f))
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp c7b24c78-e737-4981-ab50-685912420924)
     (at 91 87.1 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -12422,7 +12422,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:LED_0603_R" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:LED_0603_R" (layer "F.Cu")
     (tedit 60E81744) (tstamp d8004f70-edc1-41b9-bed3-9d13a36ea1cc)
     (at 76.1 78.681 -90)
     (property "MPN" "598-8D80-107F")
@@ -12471,7 +12471,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp e1580704-2eb3-46c9-a072-f1c8f2bf8250)
     (at 85.9 90.85)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -12516,7 +12516,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:PinHeader_1x2_P2.5mm_Drill1.1mm" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:PinHeader_1x2_P2.5mm_Drill1.1mm" (layer "F.Cu")
     (tedit 5FD9DA15) (tstamp e2742b36-8d71-4696-aa1b-102df96a9415)
     (at 130.7 60.2 180)
     (descr "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf")
@@ -12565,7 +12565,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:LED_0603" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:LED_0603" (layer "F.Cu")
     (tedit 60C2DD7B) (tstamp edce1a26-bb77-46d1-970a-e15f39fc58bd)
     (at 98.9 90.85 180)
     (property "MPN" "KP-1608CGCK")
@@ -12610,7 +12610,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "F.Cu")
     (tedit 5FD9C158) (tstamp edf155aa-2faa-4bac-93f8-a6a8ae4852bc)
     (at 93.3 95.1 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -12655,7 +12655,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:2220-cap" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:2220-cap" (layer "F.Cu")
     (tedit 618A5F5C) (tstamp ef83afb6-1c9a-4581-9063-966815271df7)
     (at 110.4 85.96 180)
     (descr "Capacitor SMD 2220 (5650 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator")
@@ -12700,7 +12700,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0603-res" (layer "F.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0603-res" (layer "F.Cu")
     (tedit 5D5D3E92) (tstamp fd772101-c9ba-4a0a-8a1a-7bd8931cd462)
     (at 98.925 94.375 180)
     (property "MPN" "CR0603-FX-1502ELF")
@@ -12743,7 +12743,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "B.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-00005ff86781)
     (at 99.452 86.375 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -12786,7 +12786,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "B.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-00005ff867ab)
     (at 98.436 86.375 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -12829,7 +12829,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "B.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-00005ff867d5)
     (at 97.42 86.375 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -12872,7 +12872,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "B.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-00005ff867ff)
     (at 96.404 86.375 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -12915,7 +12915,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "B.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-00005ff86829)
     (at 95.388 86.375 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -12958,7 +12958,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "B.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-00005ff8687d)
     (at 94.372 86.375 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -13001,7 +13001,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0603-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0603-res" (layer "B.Cu")
     (tedit 5D5D3E92) (tstamp 00000000-0000-0000-0000-00005ff8f280)
     (at 178.546 70.146 -90)
     (property "MPN" "CR0603-JW-103ELF")
@@ -13044,7 +13044,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0603-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0603-res" (layer "B.Cu")
     (tedit 5D5D3E92) (tstamp 00000000-0000-0000-0000-00005ff8f2f2)
     (at 181.594 70.146 -90)
     (property "MPN" "CR0603-JW-103ELF")
@@ -13087,7 +13087,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0603-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0603-cap" (layer "B.Cu")
     (tedit 5D5E94D2) (tstamp 00000000-0000-0000-0000-00005ff8f367)
     (at 180.07 67.352 90)
     (property "MPN" "0603YC104KAZ2A")
@@ -13130,7 +13130,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0603-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0603-cap" (layer "B.Cu")
     (tedit 5D5E94D2) (tstamp 00000000-0000-0000-0000-00005ff8f3d9)
     (at 177.022 81.068 90)
     (property "MPN" "GRM188R61A106KE69D")
@@ -13173,7 +13173,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0603-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0603-res" (layer "B.Cu")
     (tedit 5D5D3E92) (tstamp 00000000-0000-0000-0000-00005ff8f412)
     (at 180.07 70.146 -90)
     (property "MPN" "CR0603-JW-103ELF")
@@ -13216,7 +13216,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0603-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0603-cap" (layer "B.Cu")
     (tedit 5D5E94D2) (tstamp 00000000-0000-0000-0000-00005ff8f44b)
     (at 181.594 86.148 -90)
     (property "MPN" "06031C102JAT2A")
@@ -13259,7 +13259,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0603-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0603-cap" (layer "B.Cu")
     (tedit 5D5E94D2) (tstamp 00000000-0000-0000-0000-00005ff8f484)
     (at 180.07 81.068 90)
     (property "MPN" "0603YC104KAZ2A")
@@ -13302,7 +13302,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0603-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0603-cap" (layer "B.Cu")
     (tedit 5D5E94D2) (tstamp 00000000-0000-0000-0000-00005ff8f52f)
     (at 178.546 81.068 90)
     (property "MPN" "0603YD105KAT2A")
@@ -13345,7 +13345,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:1-2199230-6" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:1-2199230-6" (layer "B.Cu")
     (tedit 5EE0CA7C) (tstamp 00000000-0000-0000-0000-00005ff8f637)
     (at 186.039 76.877 90)
     (property "MPN" "1-2199230-6")
@@ -13526,7 +13526,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0603-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0603-cap" (layer "B.Cu")
     (tedit 5D5E94D2) (tstamp 00000000-0000-0000-0000-00005ff8f700)
     (at 181.594 81.068 90)
     (property "MPN" "06031C102JAT2A")
@@ -13569,7 +13569,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0603-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0603-cap" (layer "B.Cu")
     (tedit 5D5E94D2) (tstamp 00000000-0000-0000-0000-00005ff8f739)
     (at 177.022 86.148 -90)
     (property "MPN" "GRM188R61A106KE69D")
@@ -13612,7 +13612,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0603-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0603-cap" (layer "B.Cu")
     (tedit 5D5E94D2) (tstamp 00000000-0000-0000-0000-00005ff8f772)
     (at 181.594 67.352 90)
     (property "MPN" "06031C102JAT2A")
@@ -13655,7 +13655,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0805-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0805-cap" (layer "B.Cu")
     (tedit 5FD9C126) (tstamp 00000000-0000-0000-0000-0000600fecab)
     (at 121.6 85.6 180)
     (property "MPN" "0805ZD226MAT2A")
@@ -13694,7 +13694,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "B.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-000060152a14)
     (at 129.2 83.8 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -13737,7 +13737,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:SON50P350X135X55-14N" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:SON50P350X135X55-14N" (layer "B.Cu")
     (tedit 60127F45) (tstamp 00000000-0000-0000-0000-000060195fec)
     (at 92.33 83.44)
     (property "MPN" "SP3011-06UTG")
@@ -13800,7 +13800,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0805-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0805-cap" (layer "B.Cu")
     (tedit 5FD9C126) (tstamp 00000000-0000-0000-0000-000060241a5e)
     (at 132.2 90.2)
     (property "MPN" "0805ZD226MAT2A")
@@ -13839,7 +13839,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:SRP3212" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:SRP3212" (layer "B.Cu")
     (tedit 614D9445) (tstamp 00000000-0000-0000-0000-0000602450d6)
     (at 127.5 86.75 180)
     (property "MPN" "SRP3212A-1R0M")
@@ -13881,7 +13881,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:1210-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:1210-cap" (layer "B.Cu")
     (tedit 5FD9C203) (tstamp 00000000-0000-0000-0000-000060272652)
     (at 106.306 63.712 -90)
     (descr "http://www.murata-ps.com/data/magnetics/kmp_8200c.pdf")
@@ -13925,7 +13925,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:97730256332R" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:97730256332R" (layer "B.Cu")
     (tedit 602D3C9E) (tstamp 00000000-0000-0000-0000-0000602d7299)
     (at 146.039 76.877)
     (property "DNP" "DNP")
@@ -13985,7 +13985,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "B.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-0000602f3ba3)
     (at 131.5 83.8 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -14028,7 +14028,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "B.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-00006030e0b3)
     (at 88.425 89.156 -90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -14071,7 +14071,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0603-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0603-cap" (layer "B.Cu")
     (tedit 5D5E94D2) (tstamp 00000000-0000-0000-0000-000060356f48)
     (at 177.022 67.352 90)
     (property "MPN" "GRM188R61A106KE69D")
@@ -14114,7 +14114,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0603-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0603-cap" (layer "B.Cu")
     (tedit 5D5E94D2) (tstamp 00000000-0000-0000-0000-000060356fe3)
     (at 178.546 67.352 90)
     (property "MPN" "0603YD105KAT2A")
@@ -14157,7 +14157,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0603-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0603-cap" (layer "B.Cu")
     (tedit 5D5E94D2) (tstamp 00000000-0000-0000-0000-00006035858b)
     (at 180.07 86.148 -90)
     (property "MPN" "0603YC104KAZ2A")
@@ -14200,7 +14200,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0603-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0603-cap" (layer "B.Cu")
     (tedit 5D5E94D2) (tstamp 00000000-0000-0000-0000-0000603586b3)
     (at 178.546 86.148 -90)
     (property "MPN" "0603YD105KAT2A")
@@ -14243,7 +14243,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0805-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0805-cap" (layer "B.Cu")
     (tedit 5FD9C126) (tstamp 00000000-0000-0000-0000-000060358cae)
     (at 121.6 87.8 180)
     (property "MPN" "0805ZD226MAT2A")
@@ -14282,7 +14282,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:MicroSD_1140084168" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:MicroSD_1140084168" (layer "B.Cu")
     (tedit 5EF0CD07) (tstamp 00000000-0000-0000-0000-0000607451cc)
     (at 81.72226 85.05478 90)
     (property "MPN" "1140084168")
@@ -14346,7 +14346,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:1206-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:1206-res" (layer "B.Cu")
     (tedit 5D5E9367) (tstamp 00000000-0000-0000-0000-000060749ea8)
     (at 103.818 59.13)
     (descr "http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C230KFKT_5-24-06.pdf")
@@ -14395,7 +14395,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "B.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-00006074a004)
     (at 109.387 62.638 -90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -14438,7 +14438,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:1210-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:1210-cap" (layer "B.Cu")
     (tedit 5FD9C203) (tstamp 00000000-0000-0000-0000-00006074a183)
     (at 109.406 59.511 180)
     (descr "http://www.murata-ps.com/data/magnetics/kmp_8200c.pdf")
@@ -14482,7 +14482,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "B.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-000060acee73)
     (at 108.3 69.659 -90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -14525,7 +14525,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:TSOT23-6" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:TSOT23-6" (layer "B.Cu")
     (tedit 6215EA50) (tstamp 00000000-0000-0000-0000-000060add98a)
     (at 132 87 180)
     (property "MPN" "AP62301WU-7")
@@ -14580,7 +14580,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "B.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-000060af678a)
     (at 109.337 69.661 -90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -14623,7 +14623,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "B.Cu")
     (tedit 5FD9C158) (tstamp 00000000-0000-0000-0000-000060af67b4)
     (at 109.39 66.496 -90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -14666,7 +14666,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:97730256332R" locked (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:97730256332R" locked (layer "B.Cu")
     (tedit 602D3C9E) (tstamp 00000000-0000-0000-0000-000060af68c6)
     (at 113.939 76.877)
     (property "MPN" "97730256332R")
@@ -14725,7 +14725,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-cap" (layer "B.Cu")
     (tedit 616D63CF) (tstamp 00000000-0000-0000-0000-000060af6dc6)
     (at 134.5 86.25 -90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -14768,7 +14768,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:Testpoint_smd_1mm" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:Testpoint_smd_1mm" (layer "B.Cu")
     (tedit 5E4A935B) (tstamp 02b274df-e70f-46d7-b966-d5bde7bf16f5)
     (at 134 83.75 180)
     (property "Sheetfile" "supply.kicad_sch")
@@ -14787,7 +14787,7 @@
       (net 263 "Net-(TP2-Pad1)") (pintype "passive") (tstamp b156b609-7410-4156-b309-2adf3004fdad))
   )
 
-  (footprint "scalenode-footprints:SOIC127P600X170-9N" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:SOIC127P600X170-9N" (layer "B.Cu")
     (tedit 5FD9C0CC) (tstamp 0871f0e9-26f7-4202-bf91-f94392f9aebf)
     (at 99.05 91.506)
     (descr "DDA (R-PDSO-G8)_1")
@@ -14850,7 +14850,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0603-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0603-cap" (layer "B.Cu")
     (tedit 5D5E94D2) (tstamp 2783d5c8-baeb-48b1-b514-705fb16449be)
     (at 134.8 93.496 90)
     (property "MPN" "GRM188R60J476ME15D")
@@ -14893,7 +14893,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-cap" (layer "B.Cu")
     (tedit 616D63CF) (tstamp 27cc7adc-009e-4009-b7e7-6cde9d232604)
     (at 102.8 74.756)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -14936,7 +14936,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-cap" (layer "B.Cu")
     (tedit 616D63CF) (tstamp 380af549-6c0d-459f-942b-8f8856bd7d6b)
     (at 102.8 64.506)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -14979,7 +14979,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-cap" (layer "B.Cu")
     (tedit 616D63CF) (tstamp 38b3eef1-c3ef-490c-9a79-cfe2bedbd551)
     (at 132 93.181 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -15022,7 +15022,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:1206-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:1206-res" (layer "B.Cu")
     (tedit 5D5E9367) (tstamp 40c55197-914c-4437-b753-1ffc3af40ce7)
     (at 127 91.896 180)
     (descr "http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C230KFKT_5-24-06.pdf")
@@ -15069,7 +15069,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "B.Cu")
     (tedit 5FD9C158) (tstamp 57d4e2ba-f154-41ee-a311-3d563619964a)
     (at 102.8 65.706)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -15112,7 +15112,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0603-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0603-cap" (layer "B.Cu")
     (tedit 5D5E94D2) (tstamp 74d76bc0-c99a-4043-bb9f-a0dea08d63a8)
     (at 133.3 93.496 90)
     (property "MPN" "GRM188R60J476ME15D")
@@ -15155,7 +15155,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "B.Cu")
     (tedit 5FD9C158) (tstamp 78963bf4-64a9-455e-9443-d2f0ddca56f9)
     (at 102.8 68.206)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -15198,7 +15198,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:1210-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:1210-cap" (layer "B.Cu")
     (tedit 5FD9C203) (tstamp 7c216f40-c136-464b-ac98-48fba9666f9f)
     (at 98 59.506 180)
     (descr "http://www.murata-ps.com/data/magnetics/kmp_8200c.pdf")
@@ -15242,7 +15242,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:DO-214AC" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:DO-214AC" (layer "B.Cu")
     (tedit 626A9B82) (tstamp 8021f483-c802-43b5-9d42-081c88609735)
     (at 127 94.796 180)
     (property "MPN" "SMAJ6.5A")
@@ -15302,7 +15302,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:2220-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:2220-cap" (layer "B.Cu")
     (tedit 618A5F5C) (tstamp 82580f92-2a5d-48c6-a5c9-45584572bf93)
     (at 111.766 85.212 180)
     (descr "Capacitor SMD 2220 (5650 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator")
@@ -15347,7 +15347,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0805-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0805-res" (layer "B.Cu")
     (tedit 5D5D3F54) (tstamp 86b652af-1618-42fc-9b11-4d8bf07c4308)
     (at 85.2 95.3)
     (property "MPN" "BLM21PG221SN1D")
@@ -15385,7 +15385,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-cap" (layer "B.Cu")
     (tedit 616D63CF) (tstamp 98716576-024e-469b-817f-290b15812541)
     (at 196.76 87.43 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -15428,7 +15428,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:MB10S" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:MB10S" (layer "B.Cu")
     (tedit 6215E1D7) (tstamp a3ac7a7b-8857-4411-b906-a94d8c60338a)
     (at 98.455 65.746 90)
     (property "MPN" "MB10S")
@@ -15480,7 +15480,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0805-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0805-res" (layer "B.Cu")
     (tedit 5D5D3F54) (tstamp aa484fc3-b446-4293-8d8b-ee29a2ed691c)
     (at 86.1 92.5)
     (property "MPN" "BLM21PG221SN1D")
@@ -15518,7 +15518,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:MB10S" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:MB10S" (layer "B.Cu")
     (tedit 6215E1D7) (tstamp b940cbe5-2ee5-4327-b1e8-115d66c6aa75)
     (at 97.47 77.136 -90)
     (property "MPN" "MB10S")
@@ -15570,7 +15570,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "B.Cu")
     (tedit 5FD9C158) (tstamp c59691a8-b62e-41ad-b689-571afbe49c65)
     (at 102.8 70.906)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -15613,7 +15613,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:DO-214AC" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:DO-214AC" (layer "B.Cu")
     (tedit 626A9B82) (tstamp c6f93b9b-9bf8-40a6-9766-47780b699509)
     (at 90.5 92.006 90)
     (property "MPN" "SMAJ58A-13-F")
@@ -15673,7 +15673,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "B.Cu")
     (tedit 5FD9C158) (tstamp d46d332d-4124-48c0-a0bf-de233323da81)
     (at 102.8 73.506)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -15716,7 +15716,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:2220-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:2220-cap" (layer "B.Cu")
     (tedit 618A5F5C) (tstamp d6ab979a-dddf-4664-bb3f-e9985a07bc3f)
     (at 111.766 91.312 180)
     (descr "Capacitor SMD 2220 (5650 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator")
@@ -15761,7 +15761,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-cap" (layer "B.Cu")
     (tedit 616D63CF) (tstamp ddd90d65-3ddf-483e-99f2-b9130f16007e)
     (at 102.785 67.006)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -15804,7 +15804,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-cap" (layer "B.Cu")
     (tedit 616D63CF) (tstamp ef27f452-4581-412f-87e6-1ff27c58b9aa)
     (at 102.8 72.206)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -15847,7 +15847,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "B.Cu")
     (tedit 5FD9C158) (tstamp f0d218e0-af8f-49d9-9548-8cdfd3283909)
     (at 94.65 90.306 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -15890,7 +15890,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0805-cap" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0805-cap" (layer "B.Cu")
     (tedit 5FD9C126) (tstamp f11f5bfb-40a6-4bb7-9f28-5f91d2643f34)
     (at 93 91.506 90)
     (property "MPN" "CL21B104KCFNNNE")
@@ -15929,7 +15929,7 @@
     )
   )
 
-  (footprint "scalenode-footprints:0402-res" (layer "B.Cu")
+  (footprint "scalenode-cm4-baseboard-footprints:0402-res" (layer "B.Cu")
     (tedit 5FD9C158) (tstamp fada235d-fbdb-414b-ab51-dc781a8256d3)
     (at 94.65 92.756 90)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -16088,7 +16088,7 @@
   (gr_line (start 75.1 59.456) (end 75.1 56.7) (layer "Edge.Cuts") (width 0.1) (tstamp 00000000-0000-0000-0000-0000607439f0))
   (gr_line (start 75.1 96.7) (end 75.1 76.356) (layer "Edge.Cuts") (width 0.1) (tstamp 00000000-0000-0000-0000-000060743af0))
   (gr_line (start 210.58 56.7) (end 210.58 96.7) (layer "Edge.Cuts") (width 0.1) (tstamp 5c31c320-f82b-4caf-adec-76a10cf6eb6f))
-  (gr_text "Scalenode" (at 96.857 81.429) (layer "F.Cu") (tstamp 00000000-0000-0000-0000-000060743a56)
+  (gr_text "Scalenode CM4 Baseboard" (at 96.857 81.429) (layer "F.Cu") (tstamp 00000000-0000-0000-0000-000060743a56)
     (effects (font (size 0.7 0.7) (thickness 0.15)))
   )
   (gr_text "Rev. ${REVISION}" (at 96.49 82.52) (layer "F.Cu") (tstamp 00000000-0000-0000-0000-000060743a59)
@@ -16130,7 +16130,7 @@
   (gr_text "SSD\n" (at 77.934 79.138) (layer "F.SilkS") (tstamp f0abbf0a-4691-481c-8ec1-f61626b7620e)
     (effects (font (size 0.7 0.7) (thickness 0.15)))
   )
-  (gr_text "Scalenode" (at 96.857 81.422) (layer "F.Mask") (tstamp 00000000-0000-0000-0000-0000602e3e7d)
+  (gr_text "Scalenode CM4 Baseboard" (at 96.857 81.422) (layer "F.Mask") (tstamp 00000000-0000-0000-0000-0000602e3e7d)
     (effects (font (size 0.7 0.7) (thickness 0.15)))
   )
   (gr_text "Rev. ${REVISION}" (at 96.49 82.52) (layer "F.Mask") (tstamp 00000000-0000-0000-0000-0000607ac3d7)

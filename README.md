@@ -2,7 +2,7 @@
 
 Copyright (c) 2020-2022 [Antmicro](https://www.antmicro.com)
 
-![visualization](img/scalenode.jpg)
+![visualization](img/scalenode-cm4-baseboard.jpg)
 
 
 ## Overview
@@ -23,7 +23,7 @@ The baseboard has been optimized for 19-inch rack mount installations for distri
 
 ## Board layout and dimensions
 
-![dimensions](img/scalenode-dimensions.png)
+![dimensions](img/scalenode-cm4-baseboard-dimensions.png)
 
 ## License
 

@@ -18,7 +18,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)))) 
-        (property "Footprint" "scalenode-footprints:mounting-hole-2.2mm" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:mounting-hole-2.2mm" 
             (id 2) 
             (at 20.32 17.78 0) 
             (effects 
@@ -67,7 +67,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:1206-res" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:1206-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -149,7 +149,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)))) 
-        (property "Footprint" "scalenode-footprints:compute-module-4-1.5mm" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:compute-module-4-1.5mm" 
             (id 2) 
             (at 1.27 -2.54 0) 
             (effects 
@@ -190,7 +190,7 @@
                 (font 
                     (size 1.27 1.27)) 
                 (justify left bottom))) 
-        (property "Footprint" "scalenode-footprints:DF40HC(3.0)-100DS-0.4v" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:DF40HC(3.0)-100DS-0.4v" 
             (id 2) 
             (at 0 0 0) 
             (effects 
@@ -1340,7 +1340,7 @@
                 (font 
                     (size 1.524 1.524)) 
                 (justify left bottom))) 
-        (property "Footprint" "scalenode-footprints:9774030151" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:9774030151" 
             (id 2) 
             (at 0 0 0) 
             (effects 
@@ -1412,7 +1412,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:0603-res" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0603-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -1496,7 +1496,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)) hide)) 
-        (property "Footprint" "scalenode-footprints:Testpoint_smd_1mm" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:Testpoint_smd_1mm" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -1550,7 +1550,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:0805-cap" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0805-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -1645,7 +1645,7 @@
                 (font 
                     (size 1.27 1.27)) 
                 (justify left))) 
-        (property "Footprint" "scalenode-footprints:TSOT23-6" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:TSOT23-6" 
             (id 2) 
             (at -1.27 -16.51 0) 
             (effects 
@@ -1764,7 +1764,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:0402-res" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0402-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -1847,7 +1847,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:0402-res" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0402-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -1930,7 +1930,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:0402-cap" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0402-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -2025,7 +2025,7 @@
                 (font 
                     (size 1.524 1.524)) 
                 (justify left bottom))) 
-        (property "Footprint" "scalenode-footprints:SRP3212" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:SRP3212" 
             (id 2) 
             (at 0 -12.7 0) 
             (effects 
@@ -2241,7 +2241,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:0603-cap" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0603-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -2335,7 +2335,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:0603-cap" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0603-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -2429,7 +2429,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:0603-cap" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0603-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -2523,7 +2523,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:0603-cap" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0603-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -2617,7 +2617,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:0603-res" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0603-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -2701,7 +2701,7 @@
                 (font 
                     (size 1.524 1.524)) 
                 (justify left bottom))) 
-        (property "Footprint" "scalenode-footprints:97730256332R" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:97730256332R" 
             (id 2) 
             (at 3.81 6.35 0) 
             (effects 
@@ -2773,7 +2773,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:1-2199230-6" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:1-2199230-6" 
             (id 2) 
             (at -3.81 -43.18 0) 
             (effects 
@@ -3584,7 +3584,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:0603-res" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0603-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -3666,7 +3666,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)))) 
-        (property "Footprint" "scalenode-footprints:MicroSD_1140084168" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:MicroSD_1140084168" 
             (id 2) 
             (at -2.54 -16.51 0) 
             (effects 
@@ -3854,7 +3854,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)))) 
-        (property "Footprint" "scalenode-footprints:USB_Micro_B_Female_0473460001" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:USB_Micro_B_Female_0473460001" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -4228,7 +4228,7 @@
                 (font 
                     (size 1.524 1.524)) 
                 (justify left))) 
-        (property "Footprint" "scalenode-footprints:UFDFN-6_1.45x1mm" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:UFDFN-6_1.45x1mm" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -4351,7 +4351,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:0402-res" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0402-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -4434,7 +4434,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:0402-res" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0402-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -4517,7 +4517,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:0402-res" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0402-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -4599,7 +4599,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)))) 
-        (property "Footprint" "scalenode-footprints:SON50P350X135X55-14N" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:SON50P350X135X55-14N" 
             (id 2) 
             (at 30.48 6.35 0) 
             (effects 
@@ -4729,7 +4729,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:0402-cap" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0402-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -4823,7 +4823,7 @@
                 (font 
                     (size 1.524 1.524)) 
                 (justify left))) 
-        (property "Footprint" "scalenode-footprints:MSOP-10_W3mm" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:MSOP-10_W3mm" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -5136,7 +5136,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:0402-res" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0402-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -5218,7 +5218,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)))) 
-        (property "Footprint" "scalenode-footprints:antmicro-logo" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:antmicro-logo" 
             (id 2) 
             (at -2.54 6.35 0) 
             (effects 
@@ -5253,7 +5253,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)))) 
-        (property "Footprint" "scalenode-footprints:oshw-logo" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:oshw-logo" 
             (id 2) 
             (at 0.508 -6.096 0) 
             (effects 
@@ -5290,7 +5290,7 @@
                 (font 
                     (size 1.27 1.27)) 
                 (justify left))) 
-        (property "Footprint" "scalenode-footprints:SOIC127P1594X685-24N" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:SOIC127P1594X685-24N" 
             (id 2) 
             (at 24.13 2.54 0) 
             (effects 
@@ -5623,7 +5623,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:0402-res" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0402-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -5706,7 +5706,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:1210-cap" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:1210-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -5800,7 +5800,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)))) 
-        (property "Footprint" "scalenode-footprints:SS-74800-144" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:SS-74800-144" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -6371,7 +6371,7 @@
                 (font 
                     (size 1.524 1.524)) 
                 (justify left bottom) hide)) 
-        (property "Footprint" "scalenode-footprints:0402-res" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0402-res" 
             (id 2) 
             (at 2.54 7.62 0) 
             (effects 
@@ -6461,7 +6461,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:2220-cap" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:2220-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -6554,7 +6554,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)))) 
-        (property "Footprint" "scalenode-footprints:MB10S" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:MB10S" 
             (id 2) 
             (at -13.97 -1.27 0) 
             (effects 
@@ -6920,7 +6920,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)))) 
-        (property "Footprint" "scalenode-footprints:LED_0603" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:LED_0603" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -7054,7 +7054,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:0603-res" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0603-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -7137,7 +7137,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:0402-res" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0402-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -7221,7 +7221,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)) hide)) 
-        (property "Footprint" "scalenode-footprints:Testpoint_smd_0_75mm" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:Testpoint_smd_0_75mm" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -7275,7 +7275,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:0603-cap" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0603-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -7370,7 +7370,7 @@
                 (font 
                     (size 1.27 1.27)) 
                 (justify left))) 
-        (property "Footprint" "scalenode-footprints:SOIC127P600X170-9N" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:SOIC127P600X170-9N" 
             (id 2) 
             (at 21.59 2.54 0) 
             (effects 
@@ -7566,7 +7566,7 @@
                 (font 
                     (size 1.27 1.27)) 
                 (justify left bottom))) 
-        (property "Footprint" "scalenode-footprints:QFN65P500X500X100-21N" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:QFN65P500X500X100-21N" 
             (id 2) 
             (at 0 0 0) 
             (effects 
@@ -7845,7 +7845,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)))) 
-        (property "Footprint" "scalenode-footprints:1206-res" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:1206-res" 
             (id 2) 
             (at 1.27 -5.715 0) 
             (effects 
@@ -7937,7 +7937,7 @@
                 (font 
                     (size 1.524 1.524)) 
                 (justify left))) 
-        (property "Footprint" "scalenode-footprints:0805-res" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0805-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -8041,7 +8041,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)))) 
-        (property "Footprint" "scalenode-footprints:DO-214AC" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:DO-214AC" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -8157,7 +8157,7 @@
             (effects 
                 (font 
                     (size 1.27 1.27)))) 
-        (property "Footprint" "scalenode-footprints:PinHeader_1x2_P2.5mm_Drill1.1mm" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:PinHeader_1x2_P2.5mm_Drill1.1mm" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -8253,7 +8253,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:0805-cap" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0805-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -8347,7 +8347,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:0805-res" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0805-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -8430,7 +8430,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:0402-cap" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0402-cap" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -8524,7 +8524,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:0402-res" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0402-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -8607,7 +8607,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-footprints:0402-res" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0402-res" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -8691,7 +8691,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)))) 
-        (property "Footprint" "scalenode-footprints:DO-214AC" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:DO-214AC" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -8808,7 +8808,7 @@
                 (font 
                     (size 1.27 1.27)) 
                 (justify left bottom))) 
-        (property "Footprint" "scalenode-footprints:PDQE30-Q48" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:PDQE30-Q48" 
             (id 2) 
             (at 0 0 0) 
             (effects 
