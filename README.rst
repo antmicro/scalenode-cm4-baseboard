@@ -27,11 +27,6 @@ Board layout and dimensions
 
 .. image:: img/scalenode-dimensions.png
 
-Design status
-=============
-
-The PCB design files were prepared in KiCad.
-
 License
 =======
 
