@@ -2919,8 +2919,8 @@
     )
   )
 
-  (text "info: R35 in case MP2162 is used instead of TPS62823"
-    (at 217.17 172.212 0)
+  (text "info: R35 in case MP2162 is used instead of TPS62823\ninfo: L2 in case MP2162 is IHLP1212AEER1R5M11"
+    (at 207.645 172.085 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 867081e4-8903-44a6-b0eb-1dcae4c00692)
   )
