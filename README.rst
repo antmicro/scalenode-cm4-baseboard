@@ -1,6 +1,6 @@
-==================
-Scalenode platform
-==================
+=======================
+Scalenode CM4 Baseboard
+=======================
 
 Copyright (c) 2020-2021 `Antmicro <https://www.antmicro.com>`_
 
@@ -9,7 +9,7 @@ Copyright (c) 2020-2021 `Antmicro <https://www.antmicro.com>`_
 Overview
 ========
 
-This repository contains the PCB design files for a baseboard supporting Raspberry Pi Compute Module 4.
+This repository contains the PCB design files for a baseboard supporting System on Modules with pinout compatible with Raspberry Pi Compute Module 4 (CM4).
 The baseboard has been optimized for 19-inch rack mount installations for distributed multi-node computing systems.
 
 Key features
@@ -31,7 +31,6 @@ Design status
 =============
 
 The PCB design files were prepared in KiCad.
-Prototypes of revision 1.0.0 are now being verified.
 
 License
 =======
