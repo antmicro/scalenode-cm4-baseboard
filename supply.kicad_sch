@@ -1,0 +1,2554 @@
+(kicad_sch 
+    (version 20211123) 
+    (generator eeschema) 
+    (uuid 0857e140-69fb-480c-b3c0-7179e4534c84) 
+    (paper "A3") 
+    (title_block 
+        (title "Scalenode") 
+        (rev "1.0.1")) 
+    (lib_symbols 
+        (symbol "scalenode:C_120p_0402" 
+            (pin_names 
+                (offset 0)) 
+            (in_bom yes) 
+            (on_board yes) 
+            (property "Reference" "C" 
+                (id 0) 
+                (at -1.397 3.429 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left))) 
+            (property "Value" "C_120p_0402" 
+                (id 1) 
+                (at 0 -3.81 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) hide)) 
+            (property "Footprint" "scalenode-footprints:0402-res" 
+                (id 2) 
+                (at 5.08 5.08 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left) hide)) 
+            (property "Datasheet" "" 
+                (id 3) 
+                (at 0 0 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)) hide)) 
+            (property "Manufacturer" "KEMET" 
+                (id 4) 
+                (at 5.08 10.16 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left) hide)) 
+            (property "MPN" "C0402C121J5GACTU" 
+                (id 5) 
+                (at 5.08 7.62 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left) hide)) 
+            (property "Val" "120p" 
+                (id 6) 
+                (at 0 -2.54 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)))) 
+            (symbol "C_120p_0402_1_1" 
+                (polyline 
+                    (pts 
+                        (xy -2.032 -0.762) 
+                        (xy 2.032 -0.762)) 
+                    (stroke 
+                        (width 0.508) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (polyline 
+                    (pts 
+                        (xy -2.032 0.762) 
+                        (xy 2.032 0.762)) 
+                    (stroke 
+                        (width 0.508) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (pin passive line 
+                    (at 0 3.81 270) 
+                    (length 2.794) 
+                    (name "~" 
+                        (effects 
+                            (font 
+                                (size 0 0)))) 
+                    (number "1" 
+                        (effects 
+                            (font 
+                                (size 0 0))))) 
+                (pin passive line 
+                    (at 0 -3.81 90) 
+                    (length 2.794) 
+                    (name "~" 
+                        (effects 
+                            (font 
+                                (size 0 0)))) 
+                    (number "2" 
+                        (effects 
+                            (font 
+                                (size 0 0))))))) 
+        (symbol "scalenode:C_22u_1210" 
+            (pin_names 
+                (offset 0)) 
+            (in_bom yes) 
+            (on_board yes) 
+            (property "Reference" "C" 
+                (id 0) 
+                (at -1.397 3.429 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left))) 
+            (property "Value" "C_22u_1210" 
+                (id 1) 
+                (at 0 -3.81 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) hide)) 
+            (property "Footprint" "scalenode-footprints:1210-cap" 
+                (id 2) 
+                (at 5.08 5.08 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left) hide)) 
+            (property "Datasheet" "" 
+                (id 3) 
+                (at 0 0 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)) hide)) 
+            (property "Manufacturer" "AVX" 
+                (id 4) 
+                (at 5.08 10.16 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left) hide)) 
+            (property "MPN" "1210YD226MAT2A" 
+                (id 5) 
+                (at 5.08 7.62 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left) hide)) 
+            (property "Val" "22u" 
+                (id 6) 
+                (at 0 -2.54 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)))) 
+            (symbol "C_22u_1210_1_1" 
+                (polyline 
+                    (pts 
+                        (xy -2.032 -0.762) 
+                        (xy 2.032 -0.762)) 
+                    (stroke 
+                        (width 0.508) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (polyline 
+                    (pts 
+                        (xy -2.032 0.762) 
+                        (xy 2.032 0.762)) 
+                    (stroke 
+                        (width 0.508) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (pin passive line 
+                    (at 0 3.81 270) 
+                    (length 2.794) 
+                    (name "~" 
+                        (effects 
+                            (font 
+                                (size 0 0)))) 
+                    (number "1" 
+                        (effects 
+                            (font 
+                                (size 0 0))))) 
+                (pin passive line 
+                    (at 0 -3.81 90) 
+                    (length 2.794) 
+                    (name "~" 
+                        (effects 
+                            (font 
+                                (size 0 0)))) 
+                    (number "2" 
+                        (effects 
+                            (font 
+                                (size 0 0))))))) 
+        (symbol "scalenode:C_22u_KEMET_A" 
+            (pin_names 
+                (offset 0)) 
+            (in_bom yes) 
+            (on_board yes) 
+            (property "Reference" "C" 
+                (id 0) 
+                (at -1.397 3.429 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left))) 
+            (property "Value" "C_22u_KEMET_A" 
+                (id 1) 
+                (at 0 -3.81 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) hide)) 
+            (property "Footprint" "scalenode-footprints:KEMET_A" 
+                (id 2) 
+                (at 5.08 5.08 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left) hide)) 
+            (property "Datasheet" "" 
+                (id 3) 
+                (at 0 0 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)) hide)) 
+            (property "Manufacturer" "KEMET" 
+                (id 4) 
+                (at 5.08 10.16 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left) hide)) 
+            (property "MPN" "T491A226K006AT" 
+                (id 5) 
+                (at 5.08 7.62 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left) hide)) 
+            (property "Val" "22u" 
+                (id 6) 
+                (at 0 -2.54 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)))) 
+            (symbol "C_22u_KEMET_A_1_1" 
+                (rectangle 
+                    (start -2.286 -0.762) 
+                    (end -2.286 -0.254) 
+                    (stroke 
+                        (width 0) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (rectangle 
+                    (start -2.286 -0.762) 
+                    (end 2.286 -0.762) 
+                    (stroke 
+                        (width 0) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (polyline 
+                    (pts 
+                        (xy -1.778 1.016) 
+                        (xy -0.762 1.016)) 
+                    (stroke 
+                        (width 0) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (polyline 
+                    (pts 
+                        (xy -1.27 1.524) 
+                        (xy -1.27 0.508)) 
+                    (stroke 
+                        (width 0) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (rectangle 
+                    (start 2.286 -1.778) 
+                    (end -2.286 -2.286) 
+                    (stroke 
+                        (width 0) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type outline))) 
+                (rectangle 
+                    (start 2.286 -0.254) 
+                    (end -2.286 -0.254) 
+                    (stroke 
+                        (width 0) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (rectangle 
+                    (start 2.286 -0.254) 
+                    (end 2.286 -0.762) 
+                    (stroke 
+                        (width 0) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (pin passive line 
+                    (at 0 2.54 270) 
+                    (length 2.794) 
+                    (name "~" 
+                        (effects 
+                            (font 
+                                (size 0 0)))) 
+                    (number "1" 
+                        (effects 
+                            (font 
+                                (size 0 0))))) 
+                (pin passive line 
+                    (at 0 -5.08 90) 
+                    (length 2.794) 
+                    (name "~" 
+                        (effects 
+                            (font 
+                                (size 0 0)))) 
+                    (number "2" 
+                        (effects 
+                            (font 
+                                (size 0 0))))))) 
+        (symbol "scalenode:C_4u7_0603" 
+            (pin_names 
+                (offset 0)) 
+            (in_bom yes) 
+            (on_board yes) 
+            (property "Reference" "C" 
+                (id 0) 
+                (at -1.397 3.429 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left))) 
+            (property "Value" "C_4u7_0603" 
+                (id 1) 
+                (at 0 -3.81 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) hide)) 
+            (property "Footprint" "scalenode-footprints:0603-cap" 
+                (id 2) 
+                (at 5.08 5.08 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left) hide)) 
+            (property "Datasheet" "" 
+                (id 3) 
+                (at 0 0 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)) hide)) 
+            (property "Manufacturer" "TDK" 
+                (id 4) 
+                (at 5.08 10.16 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left) hide)) 
+            (property "MPN" "C1608X5R1V475M080AC" 
+                (id 5) 
+                (at 5.08 7.62 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left) hide)) 
+            (property "Val" "4u7" 
+                (id 6) 
+                (at 0 -2.54 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)))) 
+            (symbol "C_4u7_0603_1_1" 
+                (polyline 
+                    (pts 
+                        (xy -2.032 -0.762) 
+                        (xy 2.032 -0.762)) 
+                    (stroke 
+                        (width 0.508) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (polyline 
+                    (pts 
+                        (xy -2.032 0.762) 
+                        (xy 2.032 0.762)) 
+                    (stroke 
+                        (width 0.508) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (pin passive line 
+                    (at 0 3.81 270) 
+                    (length 2.794) 
+                    (name "~" 
+                        (effects 
+                            (font 
+                                (size 0 0)))) 
+                    (number "1" 
+                        (effects 
+                            (font 
+                                (size 0 0))))) 
+                (pin passive line 
+                    (at 0 -3.81 90) 
+                    (length 2.794) 
+                    (name "~" 
+                        (effects 
+                            (font 
+                                (size 0 0)))) 
+                    (number "2" 
+                        (effects 
+                            (font 
+                                (size 0 0))))))) 
+        (symbol "scalenode:GND" 
+            (power) 
+            (pin_names 
+                (offset 0)) 
+            (in_bom yes) 
+            (on_board yes) 
+            (property "Reference" "#PWR" 
+                (id 0) 
+                (at 0 -6.35 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)) hide)) 
+            (property "Value" "GND" 
+                (id 1) 
+                (at 0 -3.81 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)))) 
+            (property "Footprint" "scalenode-footprints:" 
+                (id 2) 
+                (at 0 0 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)) hide)) 
+            (property "Datasheet" "" 
+                (id 3) 
+                (at 0 0 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)) hide)) 
+            (symbol "GND_0_1" 
+                (polyline 
+                    (pts 
+                        (xy 0 0) 
+                        (xy 0 -1.27) 
+                        (xy 1.27 -1.27) 
+                        (xy 0 -2.54) 
+                        (xy -1.27 -1.27) 
+                        (xy 0 -1.27)) 
+                    (stroke 
+                        (width 0) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none)))) 
+            (symbol "GND_1_1" 
+                (pin power_in line 
+                    (at 0 0 270) 
+                    (length 0) hide 
+                    (name "GND" 
+                        (effects 
+                            (font 
+                                (size 1.27 1.27)))) 
+                    (number "1" 
+                        (effects 
+                            (font 
+                                (size 1.27 1.27))))))) 
+        (symbol "scalenode:IHLP1212AEERR47M11" 
+            (pin_names 
+                (offset 1.016)) 
+            (in_bom yes) 
+            (on_board yes) 
+            (property "Reference" "L" 
+                (id 0) 
+                (at -5.08 3.81 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left bottom))) 
+            (property "Value" "IHLP1212AEERR47M11" 
+                (id 1) 
+                (at -5.08 1.27 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left bottom))) 
+            (property "Footprint" "scalenode-footprints:IHLP-1212AE" 
+                (id 2) 
+                (at 0 0 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) hide)) 
+            (property "Datasheet" "" 
+                (id 3) 
+                (at 0 0 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) hide)) 
+            (property "Manufacturer" "Vishay" 
+                (id 4) 
+                (at 0 0 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)) hide)) 
+            (property "MPN" "IHLP1212AEERR47M11" 
+                (id 5) 
+                (at 0 0 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)) hide)) 
+            (symbol "IHLP1212AEERR47M11_0_1" 
+                (pin passive line 
+                    (at -5.08 0 0) 
+                    (length 2.54) 
+                    (name "P" 
+                        (effects 
+                            (font 
+                                (size 0.0254 0.0254)))) 
+                    (number "1" 
+                        (effects 
+                            (font 
+                                (size 0.0254 0.0254))))) 
+                (pin passive line 
+                    (at 5.08 0 180) 
+                    (length 2.54) 
+                    (name "P" 
+                        (effects 
+                            (font 
+                                (size 0.0254 0.0254)))) 
+                    (number "2" 
+                        (effects 
+                            (font 
+                                (size 0.0254 0.0254)))))) 
+            (symbol "IHLP1212AEERR47M11_1_1" 
+                (arc 
+                    (start -2.3368 0.5334) 
+                    (mid -2.5634 0.3084) 
+                    (end -2.667 0) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start -1.7018 0.5334) 
+                    (mid -2.021 0.6272) 
+                    (end -2.3368 0.5334) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start -1.397 0) 
+                    (mid -1.4773 0.309) 
+                    (end -1.7018 0.5334) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start -1.3208 0.5334) 
+                    (mid -1.5474 0.3084) 
+                    (end -1.651 0) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start -0.6858 0.5334) 
+                    (mid -1.005 0.6272) 
+                    (end -1.3208 0.5334) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start -0.381 0) 
+                    (mid -0.4613 0.309) 
+                    (end -0.6858 0.5334) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start -0.3048 0.5334) 
+                    (mid -0.5314 0.3084) 
+                    (end -0.6096 0) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start 0.3302 0.5334) 
+                    (mid 0.011 0.6272) 
+                    (end -0.3048 0.5334) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start 0.6096 -0.0508) 
+                    (mid 0.5463 0.2752) 
+                    (end 0.3302 0.5334) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start 0.6858 0.5334) 
+                    (mid 0.468 0.3053) 
+                    (end 0.381 0) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start 1.3208 0.5334) 
+                    (mid 1.0052 0.6142) 
+                    (end 0.6858 0.5334) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start 1.6256 0) 
+                    (mid 1.5432 0.306) 
+                    (end 1.3208 0.5334) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start 1.7018 0.5334) 
+                    (mid 1.484 0.3053) 
+                    (end 1.397 0) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start 2.3368 0.5334) 
+                    (mid 2.0212 0.6142) 
+                    (end 1.7018 0.5334) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start 2.667 0) 
+                    (mid 2.5812 0.3187) 
+                    (end 2.3368 0.5334) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))))) 
+        (symbol "scalenode:IHLP2020BZER4R7M01" 
+            (pin_names 
+                (offset 1.016)) 
+            (in_bom yes) 
+            (on_board yes) 
+            (property "Reference" "L" 
+                (id 0) 
+                (at -5.08 3.81 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left bottom))) 
+            (property "Value" "IHLP2020BZER4R7M01" 
+                (id 1) 
+                (at -5.08 1.27 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left bottom))) 
+            (property "Footprint" "scalenode-footprints:IHLP2020BZER4R7M01" 
+                (id 2) 
+                (at 0 0 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) hide)) 
+            (property "Datasheet" "" 
+                (id 3) 
+                (at 0 0 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) hide)) 
+            (property "Manufacturer" "Vishay" 
+                (id 4) 
+                (at 0 0 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)) hide)) 
+            (property "MPN" "IHLP1212AEERR47M11" 
+                (id 5) 
+                (at 0 0 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)) hide)) 
+            (symbol "IHLP2020BZER4R7M01_0_1" 
+                (pin passive line 
+                    (at -5.08 0 0) 
+                    (length 2.54) 
+                    (name "P" 
+                        (effects 
+                            (font 
+                                (size 0.0254 0.0254)))) 
+                    (number "1" 
+                        (effects 
+                            (font 
+                                (size 0.0254 0.0254))))) 
+                (pin passive line 
+                    (at 5.08 0 180) 
+                    (length 2.54) 
+                    (name "P" 
+                        (effects 
+                            (font 
+                                (size 0.0254 0.0254)))) 
+                    (number "2" 
+                        (effects 
+                            (font 
+                                (size 0.0254 0.0254)))))) 
+            (symbol "IHLP2020BZER4R7M01_1_1" 
+                (arc 
+                    (start -2.3368 0.5334) 
+                    (mid -2.5634 0.3084) 
+                    (end -2.667 0) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start -1.7018 0.5334) 
+                    (mid -2.021 0.6272) 
+                    (end -2.3368 0.5334) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start -1.397 0) 
+                    (mid -1.4773 0.309) 
+                    (end -1.7018 0.5334) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start -1.3208 0.5334) 
+                    (mid -1.5474 0.3084) 
+                    (end -1.651 0) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start -0.6858 0.5334) 
+                    (mid -1.005 0.6272) 
+                    (end -1.3208 0.5334) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start -0.381 0) 
+                    (mid -0.4613 0.309) 
+                    (end -0.6858 0.5334) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start -0.3048 0.5334) 
+                    (mid -0.5314 0.3084) 
+                    (end -0.6096 0) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start 0.3302 0.5334) 
+                    (mid 0.011 0.6272) 
+                    (end -0.3048 0.5334) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start 0.6096 -0.0508) 
+                    (mid 0.5463 0.2752) 
+                    (end 0.3302 0.5334) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start 0.6858 0.5334) 
+                    (mid 0.468 0.3053) 
+                    (end 0.381 0) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start 1.3208 0.5334) 
+                    (mid 1.0052 0.6142) 
+                    (end 0.6858 0.5334) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start 1.6256 0) 
+                    (mid 1.5432 0.306) 
+                    (end 1.3208 0.5334) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start 1.7018 0.5334) 
+                    (mid 1.484 0.3053) 
+                    (end 1.397 0) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start 2.3368 0.5334) 
+                    (mid 2.0212 0.6142) 
+                    (end 1.7018 0.5334) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (arc 
+                    (start 2.667 0) 
+                    (mid 2.5812 0.3187) 
+                    (end 2.3368 0.5334) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))))) 
+        (symbol "scalenode:R_100k_0402" 
+            (pin_names 
+                (offset 0)) 
+            (in_bom yes) 
+            (on_board yes) 
+            (property "Reference" "R" 
+                (id 0) 
+                (at -1.397 3.429 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left))) 
+            (property "Value" "R_100k_0402" 
+                (id 1) 
+                (at 0 -3.81 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) hide)) 
+            (property "Footprint" "scalenode-footprints:0402-res" 
+                (id 2) 
+                (at 5.08 5.08 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left) hide)) 
+            (property "Datasheet" "" 
+                (id 3) 
+                (at 0 0 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)) hide)) 
+            (property "Manufacturer" "VISHAY" 
+                (id 4) 
+                (at 5.08 10.16 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left) hide)) 
+            (property "MPN" "CRCW0402100KFKEDHP" 
+                (id 5) 
+                (at 5.08 7.62 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left) hide)) 
+            (property "Val" "100k" 
+                (id 6) 
+                (at 0 -2.54 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)))) 
+            (symbol "R_100k_0402_1_1" 
+                (rectangle 
+                    (start 2.54 -1.016) 
+                    (end -2.54 1.016) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (pin passive line 
+                    (at -3.81 0 0) 
+                    (length 1.27) 
+                    (name "~" 
+                        (effects 
+                            (font 
+                                (size 0 0)))) 
+                    (number "1" 
+                        (effects 
+                            (font 
+                                (size 0 0))))) 
+                (pin passive line 
+                    (at 3.81 0 180) 
+                    (length 1.27) 
+                    (name "~" 
+                        (effects 
+                            (font 
+                                (size 0 0)))) 
+                    (number "2" 
+                        (effects 
+                            (font 
+                                (size 0 0))))))) 
+        (symbol "scalenode:R_100k_0603" 
+            (pin_names 
+                (offset 0)) 
+            (in_bom yes) 
+            (on_board yes) 
+            (property "Reference" "R" 
+                (id 0) 
+                (at -1.397 3.429 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left))) 
+            (property "Value" "R_100k_0603" 
+                (id 1) 
+                (at 0 -3.81 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) hide)) 
+            (property "Footprint" "scalenode-footprints:0603-res" 
+                (id 2) 
+                (at 5.08 5.08 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left) hide)) 
+            (property "Datasheet" "" 
+                (id 3) 
+                (at 0 0 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)) hide)) 
+            (property "Manufacturer" "BOURNS" 
+                (id 4) 
+                (at 5.08 10.16 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left) hide)) 
+            (property "MPN" "CR0603-FX-1003HLF" 
+                (id 5) 
+                (at 5.08 7.62 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left) hide)) 
+            (property "Val" "100k" 
+                (id 6) 
+                (at 0 -2.54 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)))) 
+            (symbol "R_100k_0603_1_1" 
+                (rectangle 
+                    (start 2.54 -1.016) 
+                    (end -2.54 1.016) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (pin passive line 
+                    (at -3.81 0 0) 
+                    (length 1.27) 
+                    (name "~" 
+                        (effects 
+                            (font 
+                                (size 0 0)))) 
+                    (number "1" 
+                        (effects 
+                            (font 
+                                (size 0 0))))) 
+                (pin passive line 
+                    (at 3.81 0 180) 
+                    (length 1.27) 
+                    (name "~" 
+                        (effects 
+                            (font 
+                                (size 0 0)))) 
+                    (number "2" 
+                        (effects 
+                            (font 
+                                (size 0 0))))))) 
+        (symbol "scalenode:R_453k_0402" 
+            (pin_names 
+                (offset 0)) 
+            (in_bom yes) 
+            (on_board yes) 
+            (property "Reference" "R" 
+                (id 0) 
+                (at -1.397 3.429 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left))) 
+            (property "Value" "R_453k_0402" 
+                (id 1) 
+                (at 0 -3.81 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) hide)) 
+            (property "Footprint" "scalenode-footprints:0402-res" 
+                (id 2) 
+                (at 5.08 5.08 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left) hide)) 
+            (property "Datasheet" "" 
+                (id 3) 
+                (at 0 0 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)) hide)) 
+            (property "Manufacturer" "VISHAY" 
+                (id 4) 
+                (at 5.08 10.16 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left) hide)) 
+            (property "MPN" "CRCW0402453KFKED" 
+                (id 5) 
+                (at 5.08 7.62 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left) hide)) 
+            (property "Val" "453k" 
+                (id 6) 
+                (at 0 -2.54 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)))) 
+            (symbol "R_453k_0402_1_1" 
+                (rectangle 
+                    (start 2.54 -1.016) 
+                    (end -2.54 1.016) 
+                    (stroke 
+                        (width 0.254) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none))) 
+                (pin passive line 
+                    (at -3.81 0 0) 
+                    (length 1.27) 
+                    (name "~" 
+                        (effects 
+                            (font 
+                                (size 0 0)))) 
+                    (number "1" 
+                        (effects 
+                            (font 
+                                (size 0 0))))) 
+                (pin passive line 
+                    (at 3.81 0 180) 
+                    (length 1.27) 
+                    (name "~" 
+                        (effects 
+                            (font 
+                                (size 0 0)))) 
+                    (number "2" 
+                        (effects 
+                            (font 
+                                (size 0 0))))))) 
+        (symbol "scalenode:TPS62823DLCT" 
+            (pin_names 
+                (offset 1.016)) 
+            (in_bom yes) 
+            (on_board yes) 
+            (property "Reference" "U" 
+                (id 0) 
+                (at 0 -2.54 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)))) 
+            (property "Value" "TPS62823DLCT" 
+                (id 1) 
+                (at 0 -5.08 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)))) 
+            (property "Footprint" "scalenode-footprints:QFN-8_2x1mm" 
+                (id 2) 
+                (at -2.54 -5.08 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)) hide)) 
+            (property "Datasheet" "" 
+                (id 3) 
+                (at 0 -2.54 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)) hide)) 
+            (property "MPN" "TPS62823DLCT" 
+                (id 4) 
+                (at 0 0 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)))) 
+            (property "Manufacturer" "Texas Instruments" 
+                (id 5) 
+                (at 0 0 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)))) 
+            (symbol "TPS62823DLCT_0_1" 
+                (rectangle 
+                    (start -6.35 15.24) 
+                    (end 8.89 -1.27) 
+                    (stroke 
+                        (width 0) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type background)))) 
+            (symbol "TPS62823DLCT_1_1" 
+                (pin input line 
+                    (at -8.89 8.89 0) 
+                    (length 2.54) 
+                    (name "EN" 
+                        (effects 
+                            (font 
+                                (size 1.27 1.27)))) 
+                    (number "1" 
+                        (effects 
+                            (font 
+                                (size 1.27 1.27))))) 
+                (pin bidirectional line 
+                    (at 11.43 5.08 180) 
+                    (length 2.54) 
+                    (name "FB" 
+                        (effects 
+                            (font 
+                                (size 1.27 1.27)))) 
+                    (number "2" 
+                        (effects 
+                            (font 
+                                (size 1.27 1.27))))) 
+                (pin power_in line 
+                    (at -8.89 1.27 0) 
+                    (length 2.54) 
+                    (name "AGND" 
+                        (effects 
+                            (font 
+                                (size 1.27 1.27)))) 
+                    (number "3" 
+                        (effects 
+                            (font 
+                                (size 1.27 1.27))))) 
+                (pin power_in line 
+                    (at 11.43 1.27 180) 
+                    (length 2.54) 
+                    (name "PGND" 
+                        (effects 
+                            (font 
+                                (size 1.27 1.27)))) 
+                    (number "5" 
+                        (effects 
+                            (font 
+                                (size 1.27 1.27))))) 
+                (pin bidirectional line 
+                    (at 11.43 12.7 180) 
+                    (length 2.54) 
+                    (name "SW" 
+                        (effects 
+                            (font 
+                                (size 1.27 1.27)))) 
+                    (number "6" 
+                        (effects 
+                            (font 
+                                (size 1.27 1.27))))) 
+                (pin power_in line 
+                    (at -8.89 12.7 0) 
+                    (length 2.54) 
+                    (name "VIN" 
+                        (effects 
+                            (font 
+                                (size 1.27 1.27)))) 
+                    (number "7" 
+                        (effects 
+                            (font 
+                                (size 1.27 1.27))))) 
+                (pin output line 
+                    (at -8.89 5.08 0) 
+                    (length 2.54) 
+                    (name "PG" 
+                        (effects 
+                            (font 
+                                (size 1.27 1.27)))) 
+                    (number "8" 
+                        (effects 
+                            (font 
+                                (size 1.27 1.27))))))) 
+        (symbol "scalenode:TP_SMD1MM" 
+            (pin_numbers hide) 
+            (pin_names 
+                (offset 0)) 
+            (in_bom yes) 
+            (on_board yes) 
+            (property "Reference" "TP" 
+                (id 0) 
+                (at -2.54 1.27 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)) 
+                    (justify right))) 
+            (property "Value" "TP_SMD1MM" 
+                (id 1) 
+                (at 0 -2.54 0) 
+                (effects 
+                    (font 
+                        (size 1.27 1.27)) hide)) 
+            (property "Footprint" "scalenode-footprints:Testpoint_smd_1mm" 
+                (id 2) 
+                (at 5.08 5.08 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left) hide)) 
+            (property "Datasheet" "" 
+                (id 3) 
+                (at 5.08 7.62 0) 
+                (effects 
+                    (font 
+                        (size 1.524 1.524)) 
+                    (justify left) hide)) 
+            (symbol "TP_SMD1MM_0_1" 
+                (circle 
+                    (center 0 0) 
+                    (radius 0.5588) 
+                    (stroke 
+                        (width 0) 
+                        (type default) 
+                        (color 0 0 0 0)) 
+                    (fill 
+                        (type none)))) 
+            (symbol "TP_SMD1MM_1_1" 
+                (pin passive line 
+                    (at 0 2.54 270) 
+                    (length 1.905) 
+                    (name "~" 
+                        (effects 
+                            (font 
+                                (size 1.27 1.27)))) 
+                    (number "1" 
+                        (effects 
+                            (font 
+                                (size 1.27 1.27)))))))) 
+    (junction 
+        (at 180.34 167.005) 
+        (diameter 0) 
+        (color 0 0 0 0) 
+        (uuid 13910ca4-597d-4090-82c4-f962d29489c2)) 
+    (junction 
+        (at 245.11 177.8) 
+        (diameter 0) 
+        (color 0 0 0 0) 
+        (uuid 4ac71a62-ff3e-42d5-9a88-9a8e3082ecfd)) 
+    (junction 
+        (at 254 167.005) 
+        (diameter 0) 
+        (color 0 0 0 0) 
+        (uuid 4eb89a02-2d6f-4114-a51c-35a2975c7a49)) 
+    (junction 
+        (at 187.325 167.005) 
+        (diameter 0) 
+        (color 0 0 0 0) 
+        (uuid 5e878434-b24c-4e48-9af9-ec22dbf337ad)) 
+    (junction 
+        (at 197.485 167.005) 
+        (diameter 0) 
+        (color 0 0 0 0) 
+        (uuid 745a4883-ae47-4ee5-9051-0c0813971224)) 
+    (junction 
+        (at 268.605 167.005) 
+        (diameter 0) 
+        (color 0 0 0 0) 
+        (uuid 78561294-3aee-4fbf-887e-06a0c51734f3)) 
+    (junction 
+        (at 170.18 167.005) 
+        (diameter 0) 
+        (color 0 0 0 0) 
+        (uuid 81b03748-51e9-4a50-9af1-1abf25ebf7fa)) 
+    (junction 
+        (at 245.11 167.005) 
+        (diameter 0) 
+        (color 0 0 0 0) 
+        (uuid e7eb189c-5825-4e2a-9deb-474deb53d084)) 
+    (wire 
+        (pts 
+            (xy 278.765 167.005) 
+            (xy 268.605 167.005)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid 05b28945-86a4-4209-bbb5-b0f225af8b19)) 
+    (wire 
+        (pts 
+            (xy 245.11 177.8) 
+            (xy 231.14 177.8)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid 06fbf791-6e90-4ad2-ae09-7c1fcd819ac8)) 
+    (wire 
+        (pts 
+            (xy 189.865 174.625) 
+            (xy 187.325 174.625)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid 2a96798d-fa4a-4994-837b-1fb2b7dd4b18)) 
+    (wire 
+        (pts 
+            (xy 245.11 177.8) 
+            (xy 245.11 176.53)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid 2f048032-db86-49f7-871c-fc533131158a)) 
+    (wire 
+        (pts 
+            (xy 231.14 177.8) 
+            (xy 231.14 174.625)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid 3b13152d-9ed7-4b33-a77b-faa7ba6e2b33)) 
+    (wire 
+        (pts 
+            (xy 245.11 177.8) 
+            (xy 254 177.8)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid 3b4495d7-893b-46fb-b4ae-59623f14478a)) 
+    (wire 
+        (pts 
+            (xy 254 168.91) 
+            (xy 254 167.005)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid 3d35906f-3717-4af7-b077-2f01dd04a225)) 
+    (wire 
+        (pts 
+            (xy 197.485 170.815) 
+            (xy 197.485 167.005)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid 4217e199-6fe6-45fc-8c95-eb71f566d6ff)) 
+    (wire 
+        (pts 
+            (xy 170.18 167.005) 
+            (xy 180.34 167.005)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid 434e2e24-95ea-417a-9517-7017b715197d)) 
+    (wire 
+        (pts 
+            (xy 224.155 178.435) 
+            (xy 227.965 178.435)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid 46988fc9-9196-4fe6-af07-1d2e2218b2b4)) 
+    (wire 
+        (pts 
+            (xy 187.325 174.625) 
+            (xy 187.325 167.005)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid 4d2ea70b-5492-4a65-8880-97d975167d7d)) 
+    (wire 
+        (pts 
+            (xy 197.485 178.435) 
+            (xy 203.835 178.435)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid 51d14741-9d10-41b5-888b-236f2ab80333)) 
+    (wire 
+        (pts 
+            (xy 245.11 167.005) 
+            (xy 254 167.005)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid 5627ad34-2d52-4856-a372-85610676b155)) 
+    (wire 
+        (pts 
+            (xy 167.005 167.005) 
+            (xy 170.18 167.005)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid 660787ee-81d3-43db-908b-af84bf51e7f0)) 
+    (wire 
+        (pts 
+            (xy 268.605 167.005) 
+            (xy 268.605 168.91)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid 6705f58c-7201-402e-9b10-4259bd1f06f9)) 
+    (wire 
+        (pts 
+            (xy 187.325 167.005) 
+            (xy 197.485 167.005)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid 75841c61-4bf9-4d1e-9879-f966f7b3a338)) 
+    (wire 
+        (pts 
+            (xy 232.41 167.005) 
+            (xy 224.155 167.005)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid 7915ff78-8696-43a9-b335-c0654eb6a409)) 
+    (wire 
+        (pts 
+            (xy 180.34 167.005) 
+            (xy 187.325 167.005)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid 7acd8d97-634c-4afe-8999-5c0f186dac20)) 
+    (wire 
+        (pts 
+            (xy 227.965 178.435) 
+            (xy 227.965 188.595)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid 7bda2238-2350-457c-a282-5cd3333004fb)) 
+    (wire 
+        (pts 
+            (xy 197.485 167.005) 
+            (xy 203.835 167.005)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid 841a6e72-e43a-402c-b4e7-3b315e9c32ab)) 
+    (wire 
+        (pts 
+            (xy 254 167.005) 
+            (xy 268.605 167.005)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid 89d41cea-4a03-4c95-b514-7574211fa070)) 
+    (wire 
+        (pts 
+            (xy 180.34 188.595) 
+            (xy 180.34 177.165)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid 931ba533-8d07-4922-a614-fe63afcfea30)) 
+    (wire 
+        (pts 
+            (xy 245.11 168.91) 
+            (xy 245.11 167.005)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid a34d6c20-3116-4c76-b497-add65fbef358)) 
+    (wire 
+        (pts 
+            (xy 147.955 167.005) 
+            (xy 156.845 167.005)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid a7cd874e-6bb9-48ce-b0ac-89c0eb112ad5)) 
+    (wire 
+        (pts 
+            (xy 224.155 174.625) 
+            (xy 231.14 174.625)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid ab9b45b6-55da-4814-865b-048d71aaaf8c)) 
+    (wire 
+        (pts 
+            (xy 180.34 169.545) 
+            (xy 180.34 167.005)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid b5190dac-7a3b-421f-b0ee-fcc7364c43cb)) 
+    (wire 
+        (pts 
+            (xy 197.485 188.595) 
+            (xy 197.485 178.435)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid bba24aca-7f31-47f4-ad72-c8b7517ba0c1)) 
+    (wire 
+        (pts 
+            (xy 245.11 188.595) 
+            (xy 245.11 186.69)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid bfd5829a-6451-49b2-a97e-2bb281742adf)) 
+    (wire 
+        (pts 
+            (xy 254 177.8) 
+            (xy 254 176.53)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid c46f0881-2a4e-4d67-a96d-a85414abc5b4)) 
+    (wire 
+        (pts 
+            (xy 268.605 176.53) 
+            (xy 268.605 188.595)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid c8cb2da7-d4b7-48eb-b0e5-330625805f76)) 
+    (wire 
+        (pts 
+            (xy 203.835 170.815) 
+            (xy 197.485 170.815)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid cddc0de3-2b13-48bb-a4c8-9e36bdca69b7)) 
+    (wire 
+        (pts 
+            (xy 245.11 179.07) 
+            (xy 245.11 177.8)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid e7ce40bc-4797-40ac-a397-766c36678cf6)) 
+    (wire 
+        (pts 
+            (xy 242.57 167.005) 
+            (xy 245.11 167.005)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid eb77d51b-0548-43c3-a9c8-115dca675026)) 
+    (wire 
+        (pts 
+            (xy 170.18 177.165) 
+            (xy 170.18 188.595)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid f004330c-0cdb-4aaf-810e-6e03534dffe9)) 
+    (wire 
+        (pts 
+            (xy 197.485 174.625) 
+            (xy 203.835 174.625)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid f175ff88-f678-407e-a44c-be4fbb6e1877)) 
+    (wire 
+        (pts 
+            (xy 170.18 169.545) 
+            (xy 170.18 167.005)) 
+        (stroke 
+            (width 0) 
+            (type default) 
+            (color 0 0 0 0)) 
+        (uuid f18231d5-59e4-4bce-92dc-06b378bc3189)) 
+    (text "SSD 3V3" 
+        (at 205.105 154.305 0) 
+        (effects 
+            (font 
+                (size 2.7432 2.7432)) 
+            (justify left bottom)) 
+        (uuid ce17dc5e-9a1b-41aa-9261-1c2b60b3d91f)) 
+    (global_label "3V3_SSD" 
+        (shape input) 
+        (at 278.765 167.005 0) 
+        (fields_autoplaced) 
+        (effects 
+            (font 
+                (size 1.27 1.27)) 
+            (justify left)) 
+        (uuid 35fc2107-9bfe-4c55-a450-b776643e0f96) 
+        (property "Intersheet References" "${INTERSHEET_REFS}" 
+            (id 0) 
+            (at 0 0 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide))) 
+    (global_label "VCC5V0" 
+        (shape input) 
+        (at 147.955 167.005 180) 
+        (fields_autoplaced) 
+        (effects 
+            (font 
+                (size 1.27 1.27)) 
+            (justify right)) 
+        (uuid c87948f7-839d-401f-97a5-e36e68b812e4) 
+        (property "Intersheet References" "${INTERSHEET_REFS}" 
+            (id 0) 
+            (at 0 0 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide))) 
+    (symbol 
+        (lib_id "scalenode:TPS62823DLCT") 
+        (at 212.725 179.705 0) 
+        (unit 1) 
+        (in_bom yes) 
+        (on_board yes) 
+        (uuid 00000000-0000-0000-0000-00005ff91ea9) 
+        (property "Reference" "U2" 
+            (id 0) 
+            (at 207.645 163.195 0)) 
+        (property "Value" "" 
+            (id 1) 
+            (at 213.995 182.245 0)) 
+        (property "Footprint" "scalenode-footprints:" 
+            (id 2) 
+            (at 210.185 184.785 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Datasheet" "" 
+            (id 3) 
+            (at 212.725 182.245 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "MPN" "TPS62823DLCT" 
+            (id 4) 
+            (at 213.995 160.274 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Manufacturer" "Texas Instruments" 
+            (id 5) 
+            (at 213.995 162.5854 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (pin "1" 
+            (uuid 6da7e80c-700d-495a-8a55-fac0a57de6ab)) 
+        (pin "2" 
+            (uuid 69b94c3b-13ab-4d59-a5d4-9bed7370e17d)) 
+        (pin "3" 
+            (uuid 25631a96-e796-43dd-a455-48814ef56b5b)) 
+        (pin "5" 
+            (uuid c26722a1-efc8-4c1e-90ae-f677e45ef431)) 
+        (pin "6" 
+            (uuid d34a744b-9a06-457e-844e-37be4a7697d9)) 
+        (pin "7" 
+            (uuid c7b8def1-944c-400f-9ea7-c80da37085e2)) 
+        (pin "8" 
+            (uuid 138d76c3-0f5d-4f2e-ac10-78258abb340b))) 
+    (symbol 
+        (lib_id "scalenode:IHLP1212AEERR47M11") 
+        (at 237.49 167.005 0) 
+        (unit 1) 
+        (in_bom yes) 
+        (on_board yes) 
+        (uuid 00000000-0000-0000-0000-00005ff98413) 
+        (property "Reference" "L2" 
+            (id 0) 
+            (at 237.49 161.5694 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)))) 
+        (property "Value" "" 
+            (id 1) 
+            (at 237.49 164.2618 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)))) 
+        (property "Footprint" "scalenode-footprints:" 
+            (id 2) 
+            (at 237.49 167.005 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) hide)) 
+        (property "Datasheet" "" 
+            (id 3) 
+            (at 237.49 167.005 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) hide)) 
+        (property "Manufacturer" "Vishay" 
+            (id 4) 
+            (at 237.49 167.005 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "MPN" "IHLP1212AEERR47M11" 
+            (id 5) 
+            (at 237.49 167.005 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (pin "1" 
+            (uuid 5f9fd190-c6ca-4e43-a676-14e9a42f25a0)) 
+        (pin "2" 
+            (uuid 28778f74-d3ee-4573-8c13-1044e50c8f44))) 
+    (symbol 
+        (lib_id "scalenode:TP_SMD1MM") 
+        (at 268.605 164.465 180) 
+        (unit 1) 
+        (in_bom yes) 
+        (on_board yes) 
+        (uuid 00000000-0000-0000-0000-000060280128) 
+        (property "Reference" "TP2" 
+            (id 0) 
+            (at 268.605 163.195 90) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify right))) 
+        (property "Value" "" 
+            (id 1) 
+            (at 268.605 161.925 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Footprint" "scalenode-footprints:" 
+            (id 2) 
+            (at 263.525 169.545 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "Datasheet" "" 
+            (id 3) 
+            (at 263.525 172.085 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (pin "1" 
+            (uuid 21fabcea-e55b-4165-94be-af12f756cde9))) 
+    (symbol 
+        (lib_id "scalenode:C_22u_KEMET_A") 
+        (at 170.18 172.085 0) 
+        (unit 1) 
+        (in_bom yes) 
+        (on_board yes) 
+        (uuid 00000000-0000-0000-0000-000060286d44) 
+        (property "Reference" "C16" 
+            (id 0) 
+            (at 173.1772 172.212 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left))) 
+        (property "Value" "" 
+            (id 1) 
+            (at 170.18 175.895 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) hide)) 
+        (property "Footprint" "scalenode-footprints:" 
+            (id 2) 
+            (at 175.26 167.005 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "Datasheet" "" 
+            (id 3) 
+            (at 170.18 172.085 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Manufacturer" "KEMET" 
+            (id 4) 
+            (at 175.26 161.925 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "MPN" "T491A226K006AT" 
+            (id 5) 
+            (at 175.26 164.465 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "Val" "22u" 
+            (id 6) 
+            (at 173.1772 174.7012 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left))) 
+        (pin "1" 
+            (uuid 37c0a729-e316-49dc-8abc-e97add316236)) 
+        (pin "2" 
+            (uuid 174518c3-3edc-4732-91be-ddf7b3035222))) 
+    (symbol 
+        (lib_id "scalenode:R_100k_0603") 
+        (at 193.675 174.625 0) 
+        (mirror x) 
+        (unit 1) 
+        (in_bom yes) 
+        (on_board yes) 
+        (uuid 00000000-0000-0000-0000-00006029edd9) 
+        (property "Reference" "R18" 
+            (id 0) 
+            (at 193.675 169.2148 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)))) 
+        (property "Value" "" 
+            (id 1) 
+            (at 193.675 170.815 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) hide)) 
+        (property "Footprint" "scalenode-footprints:" 
+            (id 2) 
+            (at 198.755 179.705 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "Datasheet" "" 
+            (id 3) 
+            (at 193.675 174.625 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Manufacturer" "BOURNS" 
+            (id 4) 
+            (at 198.755 184.785 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "MPN" "CR0603-FX-1003HLF" 
+            (id 5) 
+            (at 198.755 182.245 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "Val" "100k" 
+            (id 6) 
+            (at 193.675 171.704 0)) 
+        (pin "1" 
+            (uuid 9b6f65dd-4352-43d7-8fb2-a4b16998590b)) 
+        (pin "2" 
+            (uuid b860a8db-2f42-4e61-9488-02cd105e6450))) 
+    (symbol 
+        (lib_id "scalenode:C_4u7_0603") 
+        (at 180.34 173.355 0) 
+        (unit 1) 
+        (in_bom yes) 
+        (on_board yes) 
+        (uuid 00000000-0000-0000-0000-0000602a1299) 
+        (property "Reference" "C17" 
+            (id 0) 
+            (at 183.261 172.212 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left))) 
+        (property "Value" "" 
+            (id 1) 
+            (at 180.34 177.165 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) hide)) 
+        (property "Footprint" "scalenode-footprints:" 
+            (id 2) 
+            (at 185.42 168.275 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "Datasheet" "" 
+            (id 3) 
+            (at 180.34 173.355 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Manufacturer" "TDK" 
+            (id 4) 
+            (at 185.42 163.195 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "MPN" "C1608X5R1V475M080AC" 
+            (id 5) 
+            (at 185.42 165.735 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "Val" "4u7" 
+            (id 6) 
+            (at 183.261 174.7012 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left))) 
+        (pin "1" 
+            (uuid 191d0b4d-2a11-4f9b-9c4f-6d32ab756bfe)) 
+        (pin "2" 
+            (uuid d4704052-fb58-479b-802c-e6a03395b242))) 
+    (symbol 
+        (lib_id "scalenode:GND") 
+        (at 180.34 188.595 0) 
+        (unit 1) 
+        (in_bom yes) 
+        (on_board yes) 
+        (uuid 00000000-0000-0000-0000-0000602a304d) 
+        (property "Reference" "#PWR016" 
+            (id 0) 
+            (at 180.34 194.945 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Value" "" 
+            (id 1) 
+            (at 180.467 192.9892 0)) 
+        (property "Footprint" "scalenode-footprints:" 
+            (id 2) 
+            (at 180.34 188.595 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Datasheet" "" 
+            (id 3) 
+            (at 180.34 188.595 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (pin "1" 
+            (uuid e7b3da57-d5e3-4c5d-8ee2-9daafcaa1d65))) 
+    (symbol 
+        (lib_id "scalenode:R_100k_0402") 
+        (at 245.11 182.88 270) 
+        (unit 1) 
+        (in_bom yes) 
+        (on_board yes) 
+        (uuid 00000000-0000-0000-0000-0000602a70fc) 
+        (property "Reference" "R20" 
+            (id 0) 
+            (at 246.888 181.737 90) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left))) 
+        (property "Value" "" 
+            (id 1) 
+            (at 241.3 182.88 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) hide)) 
+        (property "Footprint" "scalenode-footprints:" 
+            (id 2) 
+            (at 250.19 187.96 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "Datasheet" "" 
+            (id 3) 
+            (at 245.11 182.88 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Manufacturer" "VISHAY" 
+            (id 4) 
+            (at 255.27 187.96 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "MPN" "CRCW0402100KFKEDHP" 
+            (id 5) 
+            (at 252.73 187.96 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "Val" "100k" 
+            (id 6) 
+            (at 246.888 184.2262 90) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left))) 
+        (pin "1" 
+            (uuid 299e1cbd-6ffd-49fa-a030-98395db9bc9d)) 
+        (pin "2" 
+            (uuid ead64efa-cb0f-4db0-91c1-1c78f1ed6ed1))) 
+    (symbol 
+        (lib_id "scalenode:R_453k_0402") 
+        (at 245.11 172.72 270) 
+        (unit 1) 
+        (in_bom yes) 
+        (on_board yes) 
+        (uuid 00000000-0000-0000-0000-0000602a82c5) 
+        (property "Reference" "R19" 
+            (id 0) 
+            (at 246.888 171.577 90) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left))) 
+        (property "Value" "" 
+            (id 1) 
+            (at 241.3 172.72 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) hide)) 
+        (property "Footprint" "scalenode-footprints:" 
+            (id 2) 
+            (at 250.19 177.8 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "Datasheet" "" 
+            (id 3) 
+            (at 245.11 172.72 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Manufacturer" "VISHAY" 
+            (id 4) 
+            (at 255.27 177.8 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "MPN" "CRCW0402453KFKED" 
+            (id 5) 
+            (at 252.73 177.8 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "Val" "453k" 
+            (id 6) 
+            (at 246.888 174.0662 90) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left))) 
+        (pin "1" 
+            (uuid f0b60ce4-b4bc-461f-892b-6b9df2d1901f)) 
+        (pin "2" 
+            (uuid 417c1862-2b94-4c01-b1c3-2de715bc0838))) 
+    (symbol 
+        (lib_id "scalenode:C_120p_0402") 
+        (at 254 172.72 0) 
+        (unit 1) 
+        (in_bom yes) 
+        (on_board yes) 
+        (uuid 00000000-0000-0000-0000-0000602a921b) 
+        (property "Reference" "C18" 
+            (id 0) 
+            (at 256.921 171.577 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left))) 
+        (property "Value" "" 
+            (id 1) 
+            (at 254 176.53 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) hide)) 
+        (property "Footprint" "scalenode-footprints:" 
+            (id 2) 
+            (at 259.08 167.64 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "Datasheet" "" 
+            (id 3) 
+            (at 254 172.72 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Manufacturer" "KEMET" 
+            (id 4) 
+            (at 259.08 162.56 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "MPN" "C0402C121J5GACTU" 
+            (id 5) 
+            (at 259.08 165.1 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "Val" "120p" 
+            (id 6) 
+            (at 256.921 174.0662 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left))) 
+        (pin "1" 
+            (uuid 22409a80-4235-4962-878b-0fc985fd4832)) 
+        (pin "2" 
+            (uuid 84b39565-2d8b-4664-8799-4a50948eee93))) 
+    (symbol 
+        (lib_id "scalenode:GND") 
+        (at 245.11 188.595 0) 
+        (unit 1) 
+        (in_bom yes) 
+        (on_board yes) 
+        (uuid 00000000-0000-0000-0000-0000602c408d) 
+        (property "Reference" "#PWR019" 
+            (id 0) 
+            (at 245.11 194.945 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Value" "" 
+            (id 1) 
+            (at 245.237 192.9892 0)) 
+        (property "Footprint" "scalenode-footprints:" 
+            (id 2) 
+            (at 245.11 188.595 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Datasheet" "" 
+            (id 3) 
+            (at 245.11 188.595 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (pin "1" 
+            (uuid 71b0b974-a4cd-497b-817d-a2235cf5db0b))) 
+    (symbol 
+        (lib_id "scalenode:GND") 
+        (at 268.605 188.595 0) 
+        (unit 1) 
+        (in_bom yes) 
+        (on_board yes) 
+        (uuid 00000000-0000-0000-0000-0000602c4c70) 
+        (property "Reference" "#PWR020" 
+            (id 0) 
+            (at 268.605 194.945 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Value" "" 
+            (id 1) 
+            (at 268.732 192.9892 0)) 
+        (property "Footprint" "scalenode-footprints:" 
+            (id 2) 
+            (at 268.605 188.595 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Datasheet" "" 
+            (id 3) 
+            (at 268.605 188.595 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (pin "1" 
+            (uuid bf5d6107-7c02-44e2-9d8b-5678131d01b1))) 
+    (symbol 
+        (lib_id "scalenode:GND") 
+        (at 227.965 188.595 0) 
+        (unit 1) 
+        (in_bom yes) 
+        (on_board yes) 
+        (uuid 00000000-0000-0000-0000-0000602c6528) 
+        (property "Reference" "#PWR018" 
+            (id 0) 
+            (at 227.965 194.945 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Value" "" 
+            (id 1) 
+            (at 228.092 192.9892 0)) 
+        (property "Footprint" "scalenode-footprints:" 
+            (id 2) 
+            (at 227.965 188.595 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Datasheet" "" 
+            (id 3) 
+            (at 227.965 188.595 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (pin "1" 
+            (uuid 4d3d4f2f-72d3-4f6a-9eeb-800f7e82bc45))) 
+    (symbol 
+        (lib_id "scalenode:GND") 
+        (at 197.485 188.595 0) 
+        (unit 1) 
+        (in_bom yes) 
+        (on_board yes) 
+        (uuid 00000000-0000-0000-0000-0000602c79f1) 
+        (property "Reference" "#PWR017" 
+            (id 0) 
+            (at 197.485 194.945 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Value" "" 
+            (id 1) 
+            (at 197.612 192.9892 0)) 
+        (property "Footprint" "scalenode-footprints:" 
+            (id 2) 
+            (at 197.485 188.595 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Datasheet" "" 
+            (id 3) 
+            (at 197.485 188.595 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (pin "1" 
+            (uuid f67787c3-383d-41f5-a706-39303aa32dec))) 
+    (symbol 
+        (lib_id "scalenode:C_22u_1210") 
+        (at 268.605 172.72 0) 
+        (unit 1) 
+        (in_bom yes) 
+        (on_board yes) 
+        (uuid 00000000-0000-0000-0000-0000602cc093) 
+        (property "Reference" "C19" 
+            (id 0) 
+            (at 271.526 171.577 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left))) 
+        (property "Value" "" 
+            (id 1) 
+            (at 268.605 176.53 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) hide)) 
+        (property "Footprint" "scalenode-footprints:" 
+            (id 2) 
+            (at 273.685 167.64 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "Datasheet" "" 
+            (id 3) 
+            (at 268.605 172.72 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Manufacturer" "AVX" 
+            (id 4) 
+            (at 273.685 162.56 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "MPN" "1210YD226MAT2A" 
+            (id 5) 
+            (at 273.685 165.1 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "Val" "22u" 
+            (id 6) 
+            (at 271.526 174.0662 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify left))) 
+        (pin "1" 
+            (uuid 19bf6bfb-7738-4528-aff6-cf4d60529aca)) 
+        (pin "2" 
+            (uuid 9fc91782-9d85-4b9e-bbfb-ec31607139e7))) 
+    (symbol 
+        (lib_id "scalenode:IHLP2020BZER4R7M01") 
+        (at 161.925 167.005 0) 
+        (unit 1) 
+        (in_bom yes) 
+        (on_board yes) 
+        (uuid 00000000-0000-0000-0000-0000602d25de) 
+        (property "Reference" "L1" 
+            (id 0) 
+            (at 161.925 161.5694 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)))) 
+        (property "Value" "" 
+            (id 1) 
+            (at 161.925 164.2618 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)))) 
+        (property "Footprint" "scalenode-footprints:" 
+            (id 2) 
+            (at 161.925 167.005 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) hide)) 
+        (property "Datasheet" "" 
+            (id 3) 
+            (at 161.925 167.005 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) hide)) 
+        (property "Manufacturer" "Vishay" 
+            (id 4) 
+            (at 161.925 167.005 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "MPN" "IHLP1212AEERR47M11" 
+            (id 5) 
+            (at 161.925 167.005 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (pin "1" 
+            (uuid cdcc4b07-e14e-4114-b805-949ec092d2af)) 
+        (pin "2" 
+            (uuid 9d5d76a1-b443-4c3c-82b3-38b342941cf4))) 
+    (symbol 
+        (lib_id "scalenode:GND") 
+        (at 170.18 188.595 0) 
+        (unit 1) 
+        (in_bom yes) 
+        (on_board yes) 
+        (uuid 00000000-0000-0000-0000-0000602d9ac1) 
+        (property "Reference" "#PWR015" 
+            (id 0) 
+            (at 170.18 194.945 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Value" "" 
+            (id 1) 
+            (at 170.307 192.9892 0)) 
+        (property "Footprint" "scalenode-footprints:" 
+            (id 2) 
+            (at 170.18 188.595 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Datasheet" "" 
+            (id 3) 
+            (at 170.18 188.595 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (pin "1" 
+            (uuid 464b1144-7fa0-4f14-895b-a65ce16098dd))) 
+    (symbol 
+        (lib_id "scalenode:TP_SMD1MM") 
+        (at 197.485 164.465 180) 
+        (unit 1) 
+        (in_bom yes) 
+        (on_board yes) 
+        (uuid 00000000-0000-0000-0000-0000602fc1b7) 
+        (property "Reference" "TP1" 
+            (id 0) 
+            (at 197.485 163.195 90) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) 
+                (justify right))) 
+        (property "Value" "" 
+            (id 1) 
+            (at 197.485 161.925 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Footprint" "scalenode-footprints:" 
+            (id 2) 
+            (at 192.405 169.545 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "Datasheet" "" 
+            (id 3) 
+            (at 192.405 172.085 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (pin "1" 
+            (uuid 9bf8ce47-e497-445a-bf0b-60d99d48a9a2))))

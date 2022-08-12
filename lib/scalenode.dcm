@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP Earth
-D Power symbol creates a global label with name "Earth"
-K power-flag ground gnd
-F ~
-$ENDCMP
-#
-#End Doc Library
