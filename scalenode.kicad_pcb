@@ -978,7 +978,7 @@
       (net 43 "GLOBAL_EN") (pinfunction "99") (pintype "passive") (tstamp 255a2146-b72b-489a-9fb6-f28cce8360be))
     (pad "100" smd rect (at 9.8 -1.54 180) (size 0.2 0.7) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 42 "nEXTRST") (pinfunction "100") (pintype "passive") (tstamp dd4f7a0d-7753-473a-bb80-04a45b6c050a))
-    (model "${ANT3DMDL}/DF40HC_3.0_-100DS-0.4V_58.step"
+    (model "${KIPRJMOD}/lib/3d-models/DF40HC_3.0_-100DS-0.4V_58.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -10495,7 +10495,7 @@
     )
   )
 
-  (footprint "antmicro-footprints:PDQE30-Q48" (layer "F.Cu")
+  (footprint "scalenode-footprints:PDQE30-Q48" (layer "F.Cu")
     (tedit 608ACD31) (tstamp 12d00ec9-3ec6-4233-8e92-45f115c39365)
     (at 127.25 83.206)
     (property "MPN" "PDQE30-Q48-S5-D")
@@ -10538,14 +10538,14 @@
       (net 216 "unconnected-(PS1-Pad5)") (pinfunction "TRIM") (pintype "passive+no_connect") (tstamp e3670307-5d90-4e3d-a0a7-8ed43a841aaa))
     (pad "6" thru_hole circle (at 10.16 -10.16) (size 2.25 2.25) (drill 1.5) (layers *.Cu *.Mask)
       (net 11 "GND") (pinfunction "0V") (pintype "output") (tstamp 3c4c5412-aafe-4f5c-ac29-8b31bf9dca2c))
-    (model "${ANT3DMDL}/PDQE30-Q48.step"
+    (model "${KIPRJMOD}/lib/3d-models/PDQE30-Q48.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 -90))
     )
   )
 
-  (footprint "antmicro-footprints:2220-cap" (layer "F.Cu")
+  (footprint "scalenode-footprints:2220-cap" (layer "F.Cu")
     (tedit 618A5F5C) (tstamp 27a9faba-6ecd-4a8b-9734-32db633275ae)
     (at 110.4 92.06 180)
     (descr "Capacitor SMD 2220 (5650 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator")
@@ -10583,7 +10583,7 @@
       (net 6 "/PoE/VDD_POE_IN") (pintype "passive") (tstamp 33154c5c-9585-4102-adbd-a42b990c668d))
     (pad "2" smd roundrect locked (at 2.55 0 180) (size 1.8 5.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.138889)
       (net 4 "GNDD") (pintype "passive") (tstamp 5d0b539e-d472-4ee6-bedc-16944cb90f50))
-    (model "${ANT3DMDL}/2220-cap.step"
+    (model "${KIPRJMOD}/lib/3d-models/2220-cap.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10790,7 +10790,7 @@
     )
   )
 
-  (footprint "antmicro-footprints:PinHeader_1x2_P2.5mm_Drill1.1mm" (layer "F.Cu")
+  (footprint "scalenode-footprints:PinHeader_1x2_P2.5mm_Drill1.1mm" (layer "F.Cu")
     (tedit 5FD9DA15) (tstamp e2742b36-8d71-4696-aa1b-102df96a9415)
     (at 131.8 60.115 180)
     (descr "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf")
@@ -10832,7 +10832,7 @@
       (net 12 "VCC5V0") (pintype "passive") (tstamp 97b2deca-175e-40d7-9cc9-b8193d1908d4))
     (pad "2" thru_hole circle locked (at 2.5 0 180) (size 2.1 2.1) (drill 1.1) (layers *.Cu *.Mask)
       (net 11 "GND") (pintype "passive") (tstamp 2f484672-d5fe-4f03-86ee-91ac3e1d7671))
-    (model "${ANT3DMDL}/B2B-XH-A_LF__SN_.stp"
+    (model "${KIPRJMOD}/lib/3d-models/B2B-XH-A_LF__SN_.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10927,7 +10927,7 @@
     )
   )
 
-  (footprint "antmicro-footprints:2220-cap" (layer "F.Cu")
+  (footprint "scalenode-footprints:2220-cap" (layer "F.Cu")
     (tedit 618A5F5C) (tstamp ef83afb6-1c9a-4581-9063-966815271df7)
     (at 110.4 85.96 180)
     (descr "Capacitor SMD 2220 (5650 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator")
@@ -10965,7 +10965,7 @@
       (net 6 "/PoE/VDD_POE_IN") (pintype "passive") (tstamp c2dd47d0-b5c6-4fd3-9644-3cfe89e4dd22))
     (pad "2" smd roundrect locked (at 2.55 0 180) (size 1.8 5.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.138889)
       (net 4 "GNDD") (pintype "passive") (tstamp b7fa18cc-09eb-42be-af22-c9d2aebee572))
-    (model "${ANT3DMDL}/2220-cap.step"
+    (model "${KIPRJMOD}/lib/3d-models/2220-cap.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -13401,7 +13401,7 @@
     )
   )
 
-  (footprint "antmicro-footprints:1206-res" (layer "B.Cu")
+  (footprint "scalenode-footprints:1206-res" (layer "B.Cu")
     (tedit 5D5E9367) (tstamp 40c55197-914c-4437-b753-1ffc3af40ce7)
     (at 127 91.896 180)
     (descr "http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C230KFKT_5-24-06.pdf")
@@ -13441,7 +13441,7 @@
       (net 13 "Net-(C35-Pad1)") (pintype "passive") (tstamp a52f07c2-e9af-4dcc-b16f-0b2f98e5e86e))
     (pad "2" smd rect locked (at 1.8 0 180) (size 1.5 1.8) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 12 "VCC5V0") (pintype "passive") (tstamp 94c90418-cf80-4dc1-9beb-f79d34e3059c))
-    (model "${ANT3DMDL}/1206-res.step"
+    (model "${KIPRJMOD}/lib/3d-models/1206-res.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -13621,7 +13621,7 @@
     )
   )
 
-  (footprint "antmicro-footprints:DO-214AC" (layer "B.Cu")
+  (footprint "scalenode-footprints:DO-214AC" (layer "B.Cu")
     (tedit 626A9B82) (tstamp 8021f483-c802-43b5-9d42-081c88609735)
     (at 127 94.796 180)
     (property "MPN" "SMAJ6.5A")
@@ -13674,14 +13674,14 @@
       (net 11 "GND") (pintype "passive") (tstamp 752954e7-4be6-4666-96fb-ede15d456702))
     (pad "K" smd rect locked (at -2 0 180) (size 2.5 1.7) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 13 "Net-(C35-Pad1)") (pintype "passive") (tstamp 30046a0e-b949-444f-b2e1-ffdaf2d62e21))
-    (model "${ANT3DMDL}/DO-214AC.step"
+    (model "${KIPRJMOD}/lib/3d-models/DO-214AC.step"
       (offset (xyz 0 0 1.4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
     )
   )
 
-  (footprint "antmicro-footprints:2220-cap" (layer "B.Cu")
+  (footprint "scalenode-footprints:2220-cap" (layer "B.Cu")
     (tedit 618A5F5C) (tstamp 82580f92-2a5d-48c6-a5c9-45584572bf93)
     (at 111.766 85.212 180)
     (descr "Capacitor SMD 2220 (5650 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator")
@@ -13719,7 +13719,7 @@
       (net 6 "/PoE/VDD_POE_IN") (pintype "passive") (tstamp 56c77495-6238-4a24-9b68-326ce41a66da))
     (pad "2" smd roundrect locked (at 2.55 0 180) (size 1.8 5.4) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.138889)
       (net 4 "GNDD") (pintype "passive") (tstamp 42607bd1-4870-491d-ba07-3c5105a99baa))
-    (model "${ANT3DMDL}/2220-cap.step"
+    (model "${KIPRJMOD}/lib/3d-models/2220-cap.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -13807,7 +13807,7 @@
     )
   )
 
-  (footprint "antmicro-footprints:0402-res" (layer "B.Cu")
+  (footprint "scalenode-footprints:0402-res" (layer "B.Cu")
     (tedit 5FD9C158) (tstamp 98c1498d-2e40-4f75-87b7-f7b034037dac)
     (at 136.911 88.0085)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
@@ -13844,7 +13844,7 @@
       (net 264 "Net-(R35-Pad1)") (pintype "passive") (tstamp 4ebf4374-7aee-44fc-8405-ee53e79abf21))
     (pad "2" smd roundrect locked (at 0.485 0) (size 0.59 0.64) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 170 "3V3_SSD") (pintype "passive") (tstamp eb26b024-863b-4a21-a4f2-fdc40fb314a4))
-    (model "${ANT3DMDL}/0402-res.step"
+    (model "${KIPRJMOD}/lib/3d-models/0402-res.step"
       (offset (xyz 0 0 -0.01))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -14139,7 +14139,7 @@
     )
   )
 
-  (footprint "antmicro-footprints:2220-cap" (layer "B.Cu")
+  (footprint "scalenode-footprints:2220-cap" (layer "B.Cu")
     (tedit 618A5F5C) (tstamp d6ab979a-dddf-4664-bb3f-e9985a07bc3f)
     (at 111.766 91.312 180)
     (descr "Capacitor SMD 2220 (5650 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator")
@@ -14177,7 +14177,7 @@
       (net 6 "/PoE/VDD_POE_IN") (pintype "passive") (tstamp ec3eb623-2241-47a3-919e-06a7e64b5f38))
     (pad "2" smd roundrect locked (at 2.55 0 180) (size 1.8 5.4) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.138889)
       (net 4 "GNDD") (pintype "passive") (tstamp fe4abb91-31cf-4e7c-b30a-a5ce303c9c83))
-    (model "${ANT3DMDL}/2220-cap.step"
+    (model "${KIPRJMOD}/lib/3d-models/2220-cap.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
