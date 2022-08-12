@@ -28,4 +28,4 @@ The baseboard has been optimized for 19-inch rack mount installations for distri
 ## License
 
 
-`Apache-2.0 <LICENSE>`_
+[Apache-2.0](LICENSE)
