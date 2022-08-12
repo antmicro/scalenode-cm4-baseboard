@@ -3778,6 +3778,9 @@
     (path "/00000000-0000-0000-0000-00005fea17d8/dd6a6c3b-9ef0-495a-865a-e438d63a177b"
       (reference "TP5") (unit 1) (value "TP_SMD1MM") (footprint "scalenode-footprints:Testpoint_smd_1mm")
     )
+    (path "/00000000-0000-0000-0000-00005fea17c4/893c07e9-2e71-49dd-83f4-aff8cd27cb7c"
+      (reference "TP6") (unit 1) (value "TP_SMD1MM") (footprint "scalenode-footprints:Testpoint_smd_1mm")
+    )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-000060648ef9"
       (reference "U1") (unit 1) (value "TS3USB30EDGSR") (footprint "scalenode-footprints:MSOP-10_W3mm")
     )
