@@ -1,19 +1,18 @@
-=======================
-Scalenode CM4 Baseboard
-=======================
+# Scalenode CM4 Baseboard
 
-Copyright (c) 2020-2021 `Antmicro <https://www.antmicro.com>`_
+Copyright (c) 2020-2022 [Antmicro](https://www.antmicro.com)
 
-.. figure:: img/scalenode.jpg
+![visualization](img/scalenode.jpg)
 
-Overview
-========
+
+## Overview
+
 
 This repository contains the PCB design files for a baseboard supporting System on Modules with pinout compatible with Raspberry Pi Compute Module 4 (CM4).
 The baseboard has been optimized for 19-inch rack mount installations for distributed multi-node computing systems.
 
-Key features
-============
+## Key features
+
 
 * Supports Raspberry Pi CM4
 * Gigabit Ethernet with integrated PoE circuitry
@@ -22,12 +21,11 @@ Key features
 * Expansion connector for peripherals connected over USB
 * Expansion connector for HDMI adapters
 
-Board layout and dimensions
-===========================
+## Board layout and dimensions
 
-.. image:: img/scalenode-dimensions.png
+![dimensions](img/scalenode-dimensions.png)
 
-License
-=======
+## License
+
 
 `Apache-2.0 <LICENSE>`_
