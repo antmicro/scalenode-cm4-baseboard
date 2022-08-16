@@ -132,6 +132,100 @@
                     (effects 
                         (font 
                             (size 0 0))))))) 
+    (symbol "C_100n_0402" 
+        (pin_names 
+            (offset 0)) 
+        (in_bom yes) 
+        (on_board yes) 
+        (property "Reference" "C" 
+            (id 0) 
+            (at -1.397 3.429 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left))) 
+        (property "Value" "C_100n_0402" 
+            (id 1) 
+            (at 0 -3.81 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) hide)) 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0402-cap" 
+            (id 2) 
+            (at 5.08 5.08 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "Datasheet" "" 
+            (id 3) 
+            (at 0 0 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Manufacturer" "Murata" 
+            (id 4) 
+            (at 5.08 10.16 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "MPN" "GRM155R61H104KE14D" 
+            (id 5) 
+            (at 5.08 7.62 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "Val" "100n" 
+            (id 6) 
+            (at 0 -2.54 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)))) 
+        (symbol "C_100n_0402_1_1" 
+            (polyline 
+                (pts 
+                    (xy -2.032 -0.762) 
+                    (xy 2.032 -0.762)) 
+                (stroke 
+                    (width 0.508) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type none))) 
+            (polyline 
+                (pts 
+                    (xy -2.032 0.762) 
+                    (xy 2.032 0.762)) 
+                (stroke 
+                    (width 0.508) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type none))) 
+            (pin passive line 
+                (at 0 3.81 270) 
+                (length 2.794) 
+                (name "~" 
+                    (effects 
+                        (font 
+                            (size 0 0)))) 
+                (number "1" 
+                    (effects 
+                        (font 
+                            (size 0 0))))) 
+            (pin passive line 
+                (at 0 -3.81 90) 
+                (length 2.794) 
+                (name "~" 
+                    (effects 
+                        (font 
+                            (size 0 0)))) 
+                (number "2" 
+                    (effects 
+                        (font 
+                            (size 0 0))))))) 
     (symbol "compute-module-4-1.5mm" 
         (pin_names 
             (offset 1.016)) 
@@ -1477,6 +1571,89 @@
                     (effects 
                         (font 
                             (size 0 0))))))) 
+    (symbol "R_10k_0402" 
+        (pin_names 
+            (offset 0)) 
+        (in_bom yes) 
+        (on_board yes) 
+        (property "Reference" "R" 
+            (id 0) 
+            (at -1.397 3.429 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left))) 
+        (property "Value" "R_10k_0402" 
+            (id 1) 
+            (at 0 -3.81 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) hide)) 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:0402-res" 
+            (id 2) 
+            (at 5.08 5.08 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "Datasheet" "" 
+            (id 3) 
+            (at 0 0 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)) hide)) 
+        (property "Manufacturer" "VISHAY" 
+            (id 4) 
+            (at 5.08 10.16 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "MPN" "CRCW040210K0FKEDHP" 
+            (id 5) 
+            (at 5.08 7.62 0) 
+            (effects 
+                (font 
+                    (size 1.524 1.524)) 
+                (justify left) hide)) 
+        (property "Val" "10k" 
+            (id 6) 
+            (at 0 -2.54 0) 
+            (effects 
+                (font 
+                    (size 1.27 1.27)))) 
+        (symbol "R_10k_0402_1_1" 
+            (rectangle 
+                (start 2.54 -1.016) 
+                (end -2.54 1.016) 
+                (stroke 
+                    (width 0.254) 
+                    (type default) 
+                    (color 0 0 0 0)) 
+                (fill 
+                    (type none))) 
+            (pin passive line 
+                (at -3.81 0 0) 
+                (length 1.27) 
+                (name "~" 
+                    (effects 
+                        (font 
+                            (size 0 0)))) 
+                (number "1" 
+                    (effects 
+                        (font 
+                            (size 0 0))))) 
+            (pin passive line 
+                (at 3.81 0 180) 
+                (length 1.27) 
+                (name "~" 
+                    (effects 
+                        (font 
+                            (size 0 0)))) 
+                (number "2" 
+                    (effects 
+                        (font 
+                            (size 0 0))))))) 
     (symbol "TP_SMD1MM" 
         (pin_numbers hide) 
         (pin_names 
@@ -1821,183 +1998,6 @@
             (pin passive line 
                 (at 3.81 0 180) 
                 (length 1.27) 
-                (name "~" 
-                    (effects 
-                        (font 
-                            (size 0 0)))) 
-                (number "2" 
-                    (effects 
-                        (font 
-                            (size 0 0))))))) 
-    (symbol "R_10k_0402" 
-        (pin_names 
-            (offset 0)) 
-        (in_bom yes) 
-        (on_board yes) 
-        (property "Reference" "R" 
-            (id 0) 
-            (at -1.397 3.429 0) 
-            (effects 
-                (font 
-                    (size 1.524 1.524)) 
-                (justify left))) 
-        (property "Value" "R_10k_0402" 
-            (id 1) 
-            (at 0 -3.81 0) 
-            (effects 
-                (font 
-                    (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-cm4-baseboard-footprints:0402-res" 
-            (id 2) 
-            (at 5.08 5.08 0) 
-            (effects 
-                (font 
-                    (size 1.524 1.524)) 
-                (justify left) hide)) 
-        (property "Datasheet" "" 
-            (id 3) 
-            (at 0 0 0) 
-            (effects 
-                (font 
-                    (size 1.27 1.27)) hide)) 
-        (property "Manufacturer" "VISHAY" 
-            (id 4) 
-            (at 5.08 10.16 0) 
-            (effects 
-                (font 
-                    (size 1.524 1.524)) 
-                (justify left) hide)) 
-        (property "MPN" "CRCW040210K0FKEDHP" 
-            (id 5) 
-            (at 5.08 7.62 0) 
-            (effects 
-                (font 
-                    (size 1.524 1.524)) 
-                (justify left) hide)) 
-        (property "Val" "10k" 
-            (id 6) 
-            (at 0 -2.54 0) 
-            (effects 
-                (font 
-                    (size 1.27 1.27)))) 
-        (symbol "R_10k_0402_1_1" 
-            (rectangle 
-                (start 2.54 -1.016) 
-                (end -2.54 1.016) 
-                (stroke 
-                    (width 0.254) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (pin passive line 
-                (at -3.81 0 0) 
-                (length 1.27) 
-                (name "~" 
-                    (effects 
-                        (font 
-                            (size 0 0)))) 
-                (number "1" 
-                    (effects 
-                        (font 
-                            (size 0 0))))) 
-            (pin passive line 
-                (at 3.81 0 180) 
-                (length 1.27) 
-                (name "~" 
-                    (effects 
-                        (font 
-                            (size 0 0)))) 
-                (number "2" 
-                    (effects 
-                        (font 
-                            (size 0 0))))))) 
-    (symbol "C_100n_0402" 
-        (pin_names 
-            (offset 0)) 
-        (in_bom yes) 
-        (on_board yes) 
-        (property "Reference" "C" 
-            (id 0) 
-            (at -1.397 3.429 0) 
-            (effects 
-                (font 
-                    (size 1.524 1.524)) 
-                (justify left))) 
-        (property "Value" "C_100n_0402" 
-            (id 1) 
-            (at 0 -3.81 0) 
-            (effects 
-                (font 
-                    (size 1.524 1.524)) hide)) 
-        (property "Footprint" "scalenode-cm4-baseboard-footprints:0402-cap" 
-            (id 2) 
-            (at 5.08 5.08 0) 
-            (effects 
-                (font 
-                    (size 1.524 1.524)) 
-                (justify left) hide)) 
-        (property "Datasheet" "" 
-            (id 3) 
-            (at 0 0 0) 
-            (effects 
-                (font 
-                    (size 1.27 1.27)) hide)) 
-        (property "Manufacturer" "Murata" 
-            (id 4) 
-            (at 5.08 10.16 0) 
-            (effects 
-                (font 
-                    (size 1.524 1.524)) 
-                (justify left) hide)) 
-        (property "MPN" "GRM155R61H104KE14D" 
-            (id 5) 
-            (at 5.08 7.62 0) 
-            (effects 
-                (font 
-                    (size 1.524 1.524)) 
-                (justify left) hide)) 
-        (property "Val" "100n" 
-            (id 6) 
-            (at 0 -2.54 0) 
-            (effects 
-                (font 
-                    (size 1.27 1.27)))) 
-        (symbol "C_100n_0402_1_1" 
-            (polyline 
-                (pts 
-                    (xy -2.032 -0.762) 
-                    (xy 2.032 -0.762)) 
-                (stroke 
-                    (width 0.508) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (polyline 
-                (pts 
-                    (xy -2.032 0.762) 
-                    (xy 2.032 0.762)) 
-                (stroke 
-                    (width 0.508) 
-                    (type default) 
-                    (color 0 0 0 0)) 
-                (fill 
-                    (type none))) 
-            (pin passive line 
-                (at 0 3.81 270) 
-                (length 2.794) 
-                (name "~" 
-                    (effects 
-                        (font 
-                            (size 0 0)))) 
-                (number "1" 
-                    (effects 
-                        (font 
-                            (size 0 0))))) 
-            (pin passive line 
-                (at 0 -3.81 90) 
-                (length 2.794) 
                 (name "~" 
                     (effects 
                         (font 
