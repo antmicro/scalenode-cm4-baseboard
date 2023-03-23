@@ -2978,7 +2978,7 @@
   )
 
   (text "LSHM connector current rating:\n2A per pin (2 pins powered)"
-    (at 245.11 82.55 0)
+    (at 245.11 82.55 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 259f845b-a6e6-4230-b3db-dfe04524d364)
   )

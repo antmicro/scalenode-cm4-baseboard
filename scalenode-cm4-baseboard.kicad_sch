@@ -3382,6 +3382,12 @@
     (path "/00000000-0000-0000-0000-00005fea17e9/7f2abf96-5c44-4f1c-8583-052bcf037186"
       (reference "#PWR0115") (unit 1) (value "GND") (footprint "scalenode-cm4-baseboard-footprints:")
     )
+    (path "/00000000-0000-0000-0000-00005fea17d8/fce497bd-e376-4583-9ccf-29eaee8e29a8"
+      (reference "#PWR0116") (unit 1) (value "GNDD") (footprint "scalenode-cm4-baseboard-footprints:")
+    )
+    (path "/00000000-0000-0000-0000-00005fea17d8/f71c2aa7-d1be-45c6-ba6a-959a901225a3"
+      (reference "#PWR0117") (unit 1) (value "GND") (footprint "scalenode-cm4-baseboard-footprints:")
+    )
     (path "/00000000-0000-0000-0000-00005fea1b94/00000000-0000-0000-0000-00005ffa3033"
       (reference "C1") (unit 1) (value "C_10u_0603") (footprint "scalenode-cm4-baseboard-footprints:0603-cap")
     )
@@ -3813,6 +3819,9 @@
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/54de0b91-4924-46c1-a256-b4b54f07e93d"
       (reference "U3") (unit 1) (value "TPS2373-3RGW") (footprint "scalenode-cm4-baseboard-footprints:QFN65P500X500X100-21N")
+    )
+    (path "/00000000-0000-0000-0000-00005fea17d8/802670b4-b96f-43e4-b951-7a20b4744a0a"
+      (reference "U4") (unit 1) (value "URB4805YMD-30WR3") (footprint "antmicro-footprints:URB4805YMD-30WR3")
     )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-00006069972b"
       (reference "U5") (unit 1) (value "TS3USB30EDGSR") (footprint "scalenode-cm4-baseboard-footprints:MSOP-10_W3mm")
