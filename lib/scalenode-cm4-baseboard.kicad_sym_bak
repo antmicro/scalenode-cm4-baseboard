@@ -1444,7 +1444,7 @@
             (effects 
                 (font 
                     (size 1.524 1.524)))) 
-        (property "Footprint" "scalenode-cm4-baseboard-footprints:LED_0603_R" 
+        (property "Footprint" "antmicro-footprints:LED_0603_R" 
             (id 2) 
             (at 5.08 5.08 0) 
             (effects 
@@ -6808,7 +6808,7 @@
                 (font 
                     (size 1.27 1.27)) 
                 (justify left bottom))) 
-        (property "Footprint" "antmicro-footprints:URB4805YMD-30WR3" 
+        (property "Footprint" "scalenode-cm4-baseboard-footprints:URB4805YMD-30WR3" 
             (id 2) 
             (at 13.97 8.89 0) 
             (effects 
