@@ -1,7 +1,7 @@
 (footprint "SRP3212" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 614D9445)
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at 0 -2) (layer "F.SilkS")
     (effects (font (size 0.7 0.7) (thickness 0.15)))
     (tstamp f260eabb-feb0-4d1f-85cb-bb2d6595b292)
