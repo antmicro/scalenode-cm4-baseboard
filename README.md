@@ -29,6 +29,10 @@ The remaining files are stored in the following directories:
 * Expansion connector for peripherals connected over USB
 * Expansion connector for HDMI adapters
 
+## Block diagram
+
+![visualization](img/scalenode-cm4-baseboard-block-diagram.png)
+
 ## License
 
 This project is published under the [Apache-2.0](LICENSE) license.
