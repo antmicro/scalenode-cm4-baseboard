@@ -4461,7 +4461,7 @@
     (property "Footprint" "scalenode-cm4-baseboard-footprints:USB_Micro_B_Female_0473460001" (id 2) (at 45.339 60.96 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
-    (property "Datasheet" "http://www.amphenol-icc.com/media/wysiwyg/files/drawing/10118192.pdf" (id 3) (at 45.339 58.42 0)
+    (property "Datasheet" "https://www.molex.com/pdm_docs/sd/473460001_sd.pdf" (id 3) (at 45.339 58.42 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
     (property "MPN" "0473460001" (id 4) (at 45.339 53.34 0)
