@@ -3515,7 +3515,7 @@
       (reference "D1") (unit 1) (value "598-8D80-107F") (footprint "scalenode-cm4-baseboard-footprints:LED_0603_R")
     )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-000060199091"
-      (reference "D2") (unit 1) (value "SP3011-06UTG") (footprint "scalenode-cm4-baseboard-footprints:SON50P350X135X55-14N")
+      (reference "D2") (unit 1) (value "SP3011-06UTG") (footprint "antmicro-footprints:SON50P350X135X55-14N")
     )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-00005ffb90b3"
       (reference "D3") (unit 1) (value "TPD4S012DRYR") (footprint "antmicro-footprints:UFDFN-6_1.45x1mm")
