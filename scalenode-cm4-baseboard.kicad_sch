@@ -3521,10 +3521,10 @@
       (reference "D3") (unit 1) (value "TPD4S012DRYR") (footprint "antmicro-footprints:UFDFN-6_1.45x1mm")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/155fceb7-ea88-4d3b-8ab2-90a6a1821189"
-      (reference "D4") (unit 1) (value "MB10S") (footprint "scalenode-cm4-baseboard-footprints:MB10S")
+      (reference "D4") (unit 1) (value "MB10S") (footprint "antmicro-footprints:SOIC-4_4.2x5.0mm_P5.7mm")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/d57397e4-2e5b-4137-959e-1577727a1619"
-      (reference "D5") (unit 1) (value "MB10S") (footprint "scalenode-cm4-baseboard-footprints:MB10S")
+      (reference "D5") (unit 1) (value "MB10S") (footprint "antmicro-footprints:SOIC-4_4.2x5.0mm_P5.7mm")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/ea5875b6-d2e6-40e2-aaa1-3d4a0eb99eda"
       (reference "D6") (unit 1) (value "SMAJ58A-13-F") (footprint "scalenode-cm4-baseboard-footprints:DO-214AC")
