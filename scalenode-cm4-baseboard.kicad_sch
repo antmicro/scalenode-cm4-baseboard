@@ -3560,7 +3560,7 @@
       (reference "J4") (unit 1) (value "1140084168") (footprint "scalenode-cm4-baseboard-footprints:MicroSD_1140084168")
     )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-00005ff4d17e"
-      (reference "J5") (unit 1) (value "0473460001") (footprint "scalenode-cm4-baseboard-footprints:USB_Micro_B_Female_0473460001")
+      (reference "J5") (unit 1) (value "0473460001") (footprint "antmicro-footprints:USB_Micro_B_Female_0473460001")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/00000000-0000-0000-0000-00006132a9cb"
       (reference "J6") (unit 1) (value "SS-74800-144") (footprint "scalenode-cm4-baseboard-footprints:SS-74800-144")
