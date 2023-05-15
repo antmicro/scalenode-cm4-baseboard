@@ -3815,7 +3815,7 @@
       (reference "U1") (unit 1) (value "TS3USB30EDGSR") (footprint "scalenode-cm4-baseboard-footprints:MSOP-10_W3mm")
     )
     (path "/00000000-0000-0000-0000-00005fea17e9/8318d44a-ef75-4fa2-acbe-7568ddfe56d0"
-      (reference "U2") (unit 1) (value "AP62301WU-7") (footprint "scalenode-cm4-baseboard-footprints:TSOT23-6")
+      (reference "U2") (unit 1) (value "AP62301WU-7") (footprint "antmicro-footprints:AP62301WU-7-TSOT23-6")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/54de0b91-4924-46c1-a256-b4b54f07e93d"
       (reference "U3") (unit 1) (value "TPS2373-3RGW") (footprint "scalenode-cm4-baseboard-footprints:QFN65P500X500X100-21N")
