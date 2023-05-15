@@ -3578,7 +3578,7 @@
       (reference "L1") (unit 1) (value "SRP3212A-1R0M") (footprint "scalenode-cm4-baseboard-footprints:SRP3212")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/00000000-0000-0000-0000-00005fef5267"
-      (reference "L3") (unit 1) (value "H6096NL") (footprint "scalenode-cm4-baseboard-footprints:SOIC127P1594X685-24N")
+      (reference "L3") (unit 1) (value "H6096NL") (footprint "antmicro-footprints:SOIC127P1594X685-24N")
     )
     (path "/00000000-0000-0000-0000-00005fea17c4/00000000-0000-0000-0000-00005feb7f76"
       (reference "M1") (unit 1) (value "compute-module-4-1.5mm") (footprint "scalenode-cm4-baseboard-footprints:compute-module-4-1.5mm")
