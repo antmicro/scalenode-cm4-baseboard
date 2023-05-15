@@ -3812,7 +3812,7 @@
       (reference "TP9") (unit 1) (value "TP_SMD_0_75MM") (footprint "scalenode-cm4-baseboard-footprints:Testpoint_smd_0_75mm")
     )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-000060648ef9"
-      (reference "U1") (unit 1) (value "TS3USB30EDGSR") (footprint "scalenode-cm4-baseboard-footprints:MSOP-10_W3mm")
+      (reference "U1") (unit 1) (value "TS3USB30EDGSR") (footprint "antmicro-footprints:MSOP-10_W3mm")
     )
     (path "/00000000-0000-0000-0000-00005fea17e9/8318d44a-ef75-4fa2-acbe-7568ddfe56d0"
       (reference "U2") (unit 1) (value "AP62301WU-7") (footprint "antmicro-footprints:AP62301WU-7-TSOT23-6")
@@ -3824,7 +3824,7 @@
       (reference "U4") (unit 1) (value "URB4805YMD-30WR3") (footprint "scalenode-cm4-baseboard-footprints:URB4805YMD-30WR3")
     )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-00006069972b"
-      (reference "U5") (unit 1) (value "TS3USB30EDGSR") (footprint "scalenode-cm4-baseboard-footprints:MSOP-10_W3mm")
+      (reference "U5") (unit 1) (value "TS3USB30EDGSR") (footprint "antmicro-footprints:MSOP-10_W3mm")
     )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-00006076026a"
       (reference "U6") (unit 1) (value "FT234XD-R") (footprint "scalenode-cm4-baseboard-footprints:DFN-12-1EP_3x3mm")
