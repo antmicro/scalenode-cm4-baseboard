@@ -3518,7 +3518,7 @@
       (reference "D2") (unit 1) (value "SP3011-06UTG") (footprint "scalenode-cm4-baseboard-footprints:SON50P350X135X55-14N")
     )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-00005ffb90b3"
-      (reference "D3") (unit 1) (value "TPD4S012DRYR") (footprint "scalenode-cm4-baseboard-footprints:UFDFN-6_1.45x1mm")
+      (reference "D3") (unit 1) (value "TPD4S012DRYR") (footprint "antmicro-footprints:UFDFN-6_1.45x1mm")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/155fceb7-ea88-4d3b-8ab2-90a6a1821189"
       (reference "D4") (unit 1) (value "MB10S") (footprint "scalenode-cm4-baseboard-footprints:MB10S")
@@ -3566,10 +3566,10 @@
       (reference "J6") (unit 1) (value "SS-74800-144") (footprint "scalenode-cm4-baseboard-footprints:SS-74800-144")
     )
     (path "/00000000-0000-0000-0000-00005fea17c4/00000000-0000-0000-0000-00005feb9acd"
-      (reference "J7") (unit 1) (value "DF40HC(3.0)-100DS-0.4v") (footprint "scalenode-cm4-baseboard-footprints:DF40HC(3.0)-100DS-0.4v")
+      (reference "J7") (unit 1) (value "DF40HC(3.0)-100DS-0.4v") (footprint "antmicro-footprints:DF40HC(3.0)-100DS-0.4v")
     )
     (path "/00000000-0000-0000-0000-00005fea17c4/00000000-0000-0000-0000-00005feba7ca"
-      (reference "J8") (unit 1) (value "DF40HC(3.0)-100DS-0.4v") (footprint "scalenode-cm4-baseboard-footprints:DF40HC(3.0)-100DS-0.4v")
+      (reference "J8") (unit 1) (value "DF40HC(3.0)-100DS-0.4v") (footprint "antmicro-footprints:DF40HC(3.0)-100DS-0.4v")
     )
     (path "/00000000-0000-0000-0000-000060011e76/00000000-0000-0000-0000-000060befb89"
       (reference "J10") (unit 1) (value "LSHM-130-01-L-RH-A-S-K-TR") (footprint "scalenode-cm4-baseboard-footprints:SAMTEC_LSHM-130-01-XXX-RH-A-S-K-XX")
