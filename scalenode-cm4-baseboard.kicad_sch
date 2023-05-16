@@ -3461,7 +3461,7 @@
       (reference "C20") (unit 1) (value "C_100n_0805_100V") (footprint "antmicro-footprints:0805-cap")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/00000000-0000-0000-0000-00005ff27a1e"
-      (reference "C25") (unit 1) (value "C_1n_1210_2kV") (footprint "scalenode-cm4-baseboard-footprints:1210-cap")
+      (reference "C25") (unit 1) (value "C_1n_1210_2kV") (footprint "antmicro-footprints:C_1210_3225Metric")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/c456274a-4146-41d1-9e0d-9aafea0ef3c8"
       (reference "C26") (unit 1) (value "C_22u_2220_100V") (footprint "scalenode-cm4-baseboard-footprints:2220-cap")
@@ -3479,7 +3479,7 @@
       (reference "C30") (unit 1) (value "C_10n_0402") (footprint "scalenode-cm4-baseboard-footprints:0402-cap")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/3bd54402-ee82-410a-abd0-86db322bf46d"
-      (reference "C31") (unit 1) (value "C_1n_1210_2kV") (footprint "scalenode-cm4-baseboard-footprints:1210-cap")
+      (reference "C31") (unit 1) (value "C_1n_1210_2kV") (footprint "antmicro-footprints:C_1210_3225Metric")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/df05bade-ed37-41b5-9ffe-f9ddba6e51ed"
       (reference "C32") (unit 1) (value "C_22u_2220_100V") (footprint "scalenode-cm4-baseboard-footprints:2220-cap")
@@ -3500,7 +3500,7 @@
       (reference "C37") (unit 1) (value "C_100n_0402") (footprint "antmicro-footprints:C_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/00000000-0000-0000-0000-0000603c948b"
-      (reference "C50") (unit 1) (value "C_1n_1210_2kV") (footprint "scalenode-cm4-baseboard-footprints:1210-cap")
+      (reference "C50") (unit 1) (value "C_1n_1210_2kV") (footprint "antmicro-footprints:C_1210_3225Metric")
     )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-0000606996fc"
       (reference "C51") (unit 1) (value "C_100n_0402") (footprint "antmicro-footprints:C_0402_1005Metric")
