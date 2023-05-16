@@ -3262,6 +3262,18 @@
   )
 
   (symbol_instances
+    (path "/00000000-0000-0000-0000-00005fea17e9/c24788a1-d797-4100-8f43-14673b6d22e7"
+      (reference "#FLG0101") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005fea1803/8532cbbb-ee51-432e-a564-0feac9ed2a4a"
+      (reference "#FLG0102") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005fea1803/4f6da84e-9f2a-4b1f-8457-8e9d0a75a2d9"
+      (reference "#FLG0103") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005fea1803/7bb65dbc-2a02-4579-8b18-d875067de0aa"
+      (reference "#FLG0104") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00005fea17d8/17be77b5-11d3-4f00-9fe0-fee8cda24c27"
       (reference "#PWR01") (unit 1) (value "GNDD") (footprint "")
     )
@@ -3389,13 +3401,13 @@
       (reference "#PWR0117") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005fea1b94/00000000-0000-0000-0000-00005ffa3033"
-      (reference "C1") (unit 1) (value "C_10u_0603") (footprint "scalenode-cm4-baseboard-footprints:0603-cap")
+      (reference "C1") (unit 1) (value "C_10u_0603") (footprint "antmicro-footprints:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005fea1b94/00000000-0000-0000-0000-00005ff7e247"
-      (reference "C2") (unit 1) (value "C_10u_0603") (footprint "scalenode-cm4-baseboard-footprints:0603-cap")
+      (reference "C2") (unit 1) (value "C_10u_0603") (footprint "antmicro-footprints:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005fea1b94/00000000-0000-0000-0000-00005ff8c439"
-      (reference "C3") (unit 1) (value "C_10u_0603") (footprint "scalenode-cm4-baseboard-footprints:0603-cap")
+      (reference "C3") (unit 1) (value "C_10u_0603") (footprint "antmicro-footprints:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005fea1b94/00000000-0000-0000-0000-00005ffa31a2"
       (reference "C4") (unit 1) (value "C_1u_0603") (footprint "scalenode-cm4-baseboard-footprints:0603-cap")

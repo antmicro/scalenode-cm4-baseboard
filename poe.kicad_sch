@@ -2319,6 +2319,7 @@
     )
   )
 
+
   (junction (at 221.742 200.406) (diameter 0) (color 0 0 0 0)
     (uuid 022b80bf-ba13-4b37-8566-9d1343b38b64)
   )
@@ -3078,7 +3079,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 82d700c3-1174-4238-8804-463d465cd858)
   )
-  (wire (pts (xy 304.038 182.372) (xy 304.038 186.436))
+  (wire (pts (xy 304.038 182.118) (xy 304.038 186.436))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 83e2f3d3-ca79-4571-badc-e8d60f1b3231)
   )
@@ -5630,7 +5631,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6b06de1b-4d39-4c62-b35e-8cea3ff4a6a7)
   )
-  (label "VO5V" (at 304.038 182.372 0)
+  (label "VO5V" (at 304.038 182.118 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 788a2beb-85b6-42da-b49e-55fd084dc862)
   )
