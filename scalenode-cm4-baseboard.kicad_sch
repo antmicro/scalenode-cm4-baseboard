@@ -3428,13 +3428,13 @@
       (reference "C9") (unit 1) (value "C_100n_0603") (footprint "antmicro-footprints:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005fea1b94/00000000-0000-0000-0000-00005ffa31bc"
-      (reference "C10") (unit 1) (value "C_1n_0603") (footprint "scalenode-cm4-baseboard-footprints:0603-cap")
+      (reference "C10") (unit 1) (value "C_1n_0603") (footprint "antmicro-footprints:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005fea1b94/00000000-0000-0000-0000-00005ff829cf"
-      (reference "C11") (unit 1) (value "C_1n_0603") (footprint "scalenode-cm4-baseboard-footprints:0603-cap")
+      (reference "C11") (unit 1) (value "C_1n_0603") (footprint "antmicro-footprints:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005fea1b94/00000000-0000-0000-0000-00005ff8c558"
-      (reference "C12") (unit 1) (value "C_1n_0603") (footprint "scalenode-cm4-baseboard-footprints:0603-cap")
+      (reference "C12") (unit 1) (value "C_1n_0603") (footprint "antmicro-footprints:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-00006020fdd5"
       (reference "C13") (unit 1) (value "C_100n_0402") (footprint "scalenode-cm4-baseboard-footprints:0402-cap")
