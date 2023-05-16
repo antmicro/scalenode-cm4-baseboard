@@ -3572,7 +3572,7 @@
       (reference "J8") (unit 1) (value "DF40HC(3.0)-100DS-0.4v") (footprint "antmicro-footprints:DF40HC(3.0)-100DS-0.4v")
     )
     (path "/00000000-0000-0000-0000-000060011e76/00000000-0000-0000-0000-000060befb89"
-      (reference "J10") (unit 1) (value "LSHM-130-01-L-RH-A-S-K-TR") (footprint "scalenode-cm4-baseboard-footprints:SAMTEC_LSHM-130-01-XXX-RH-A-S-K-XX")
+      (reference "J10") (unit 1) (value "LSHM-130-01-L-RH-A-S-K-TR") (footprint "antmicro-footprints:SAMTEC_LSHM-130-01-XXX-RH-A-S-K-XX")
     )
     (path "/00000000-0000-0000-0000-00005fea17e9/f755e651-5446-43ff-bb16-0a096262e95d"
       (reference "L1") (unit 1) (value "SRP3212A-1R0M") (footprint "scalenode-cm4-baseboard-footprints:SRP3212")
