@@ -3548,7 +3548,7 @@
       (reference "FB2") (unit 1) (value "BLM21PG221SN1D") (footprint "scalenode-cm4-baseboard-footprints:0805-res")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/500daefa-e8d4-4925-9266-ce52f4312e94"
-      (reference "IC1") (unit 1) (value "TPS2378DDA") (footprint "scalenode-cm4-baseboard-footprints:SOIC127P600X170-9N")
+      (reference "IC1") (unit 1) (value "TPS2378DDA") (footprint "antmicro-footprints:VQFN-20_5x5x1mm_P0.65mm")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/6bf788cd-5914-410b-913a-8f4c2fa3ef77"
       (reference "J1") (unit 1) (value "B2B-XH-A_LF__SN_") (footprint "scalenode-cm4-baseboard-footprints:PinHeader_1x2_P2.5mm_Drill1.1mm")
