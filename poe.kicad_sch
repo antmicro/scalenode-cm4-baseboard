@@ -2319,7 +2319,6 @@
     )
   )
 
-
   (junction (at 221.742 200.406) (diameter 0) (color 0 0 0 0)
     (uuid 022b80bf-ba13-4b37-8566-9d1343b38b64)
   )
@@ -7620,7 +7619,7 @@
     (property "Manufacturer" "CUI Inc" (id 6) (at 314.706 208.026 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
-    (property "STANDARD" "Manufacturer Recommendations" (id 6) (at 314.706 202.946 0)
+    (property "STANDARD" "Manufacturer Recommendations" (id 7) (at 314.706 202.946 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Author" "Antmicro" (id 7) (at 314.706 210.566 0)
