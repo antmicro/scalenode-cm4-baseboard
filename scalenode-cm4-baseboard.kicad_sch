@@ -3821,7 +3821,7 @@
       (reference "U3") (unit 1) (value "TPS2373-3RGW") (footprint "scalenode-cm4-baseboard-footprints:QFN65P500X500X100-21N")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/802670b4-b96f-43e4-b951-7a20b4744a0a"
-      (reference "U4") (unit 1) (value "URB4805YMD-30WR3") (footprint "scalenode-cm4-baseboard-footprints:URB4805YMD-30WR3")
+      (reference "U4") (unit 1) (value "URB4805YMD-30WR3") (footprint "antmicro-footprints:URB4805YMD-30WR3")
     )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-00006069972b"
       (reference "U5") (unit 1) (value "TS3USB30EDGSR") (footprint "antmicro-footprints:MSOP-10_W3mm")
