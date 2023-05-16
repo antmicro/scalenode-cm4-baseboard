@@ -3554,7 +3554,7 @@
       (reference "J1") (unit 1) (value "B2B-XH-A_LF__SN_") (footprint "scalenode-cm4-baseboard-footprints:PinHeader_1x2_P2.5mm_Drill1.1mm")
     )
     (path "/00000000-0000-0000-0000-00005fea1b94/00000000-0000-0000-0000-00006036f4d3"
-      (reference "J3") (unit 1) (value "1-2199230-6") (footprint "scalenode-cm4-baseboard-footprints:1-2199230-6")
+      (reference "J3") (unit 1) (value "1-2199230-6") (footprint "antmicro-footprints:1-2199230-6")
     )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-00005fed21fd"
       (reference "J4") (unit 1) (value "1140084168") (footprint "antmicro-footprints:MicroSD_Amphenol_1140084168")
