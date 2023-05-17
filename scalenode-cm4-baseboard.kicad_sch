@@ -3593,7 +3593,7 @@
       (reference "M1") (unit 1) (value "compute-module-4-1.5mm") (footprint "antmicro-footprints:compute-module-4-1.5mm")
     )
     (path "/00000000-0000-0000-0000-000060011e76/00000000-0000-0000-0000-0000603aaae1"
-      (reference "MP1") (unit 1) (value "PCB_Mount_Hole_2.2_4.5") (footprint "scalenode-cm4-baseboard-footprints:mounting-hole-2.2mm")
+      (reference "MP1") (unit 1) (value "PCB_Mount_Hole_2.2_4.5") (footprint "antmicro-footprints:mounting-hole-2.2mm")
     )
     (path "/00000000-0000-0000-0000-000060011e76/00000000-0000-0000-0000-0000606358c7"
       (reference "MP2") (unit 1) (value "PCB_Mount_Hole_2.5_6.2") (footprint "scalenode-cm4-baseboard-footprints:Mount-hole-M2.5")
