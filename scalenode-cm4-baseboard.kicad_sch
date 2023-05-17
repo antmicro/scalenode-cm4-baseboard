@@ -3542,7 +3542,7 @@
       (reference "D7") (unit 1) (value "KP-1608CGCK") (footprint "antmicro-footprints:LED_0603_1608Metric_G")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/682a1fe3-38ec-47d0-a964-491c3ebbef32"
-      (reference "D8") (unit 1) (value "SMAJ6.5A") (footprint "scalenode-cm4-baseboard-footprints:DO-214AC")
+      (reference "D8") (unit 1) (value "SMAJ6.5A") (footprint "antmicro-footprints:DO-214AC")
     )
     (path "/00000000-0000-0000-0000-00005fea17c4/00000000-0000-0000-0000-00005ff225c8"
       (reference "D11") (unit 1) (value "598-8D80-107F") (footprint "antmicro-footprints:LED_0603_1608Metric_R")
