@@ -3548,7 +3548,7 @@
       (reference "D11") (unit 1) (value "598-8D80-107F") (footprint "antmicro-footprints:LED_0603_1608Metric_R")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/55f64549-3a86-4b9e-81cb-5a29dec25750"
-      (reference "F1") (unit 1) (value "1206L450SLWR") (footprint "scalenode-cm4-baseboard-footprints:1206-res")
+      (reference "F1") (unit 1) (value "1206L450SLWR") (footprint "antmicro-footprints:F_1206_3216Metric")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/62da1a6f-91dd-4148-b152-3219809b247c"
       (reference "FB1") (unit 1) (value "BLM21PG221SN1D") (footprint "antmicro-footprints:FB_0805_2012Metric")
