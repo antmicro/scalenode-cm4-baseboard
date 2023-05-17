@@ -3584,7 +3584,7 @@
       (reference "J10") (unit 1) (value "LSHM-130-01-L-RH-A-S-K-TR") (footprint "antmicro-footprints:SAMTEC_LSHM-130-01-XXX-RH-A-S-K-XX")
     )
     (path "/00000000-0000-0000-0000-00005fea17e9/f755e651-5446-43ff-bb16-0a096262e95d"
-      (reference "L1") (unit 1) (value "SRP3212A-1R0M") (footprint "scalenode-cm4-baseboard-footprints:SRP3212")
+      (reference "L1") (unit 1) (value "SRP3212A-1R0M") (footprint "antmicro-footprints:SRP3212")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/00000000-0000-0000-0000-00005fef5267"
       (reference "L3") (unit 1) (value "H6096NL") (footprint "antmicro-footprints:SOIC127P1594X685-24N")
