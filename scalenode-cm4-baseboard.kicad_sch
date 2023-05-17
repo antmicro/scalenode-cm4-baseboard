@@ -3707,7 +3707,7 @@
       (reference "R19") (unit 1) (value "R_10k_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/ebb8394d-8a6c-4ef8-b71c-ba38b26bc633"
-      (reference "R20") (unit 1) (value "R_63R4_0402") (footprint "scalenode-cm4-baseboard-footprints:0402-res")
+      (reference "R20") (unit 1) (value "R_63R4_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/00000000-0000-0000-0000-00005fee3244"
       (reference "R21") (unit 1) (value "R_220R_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
@@ -3716,7 +3716,7 @@
       (reference "R22") (unit 1) (value "R_220R_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/edab77df-2186-4bf5-80cf-98a98480c914"
-      (reference "R23") (unit 1) (value "R_63R4_0402") (footprint "scalenode-cm4-baseboard-footprints:0402-res")
+      (reference "R23") (unit 1) (value "R_63R4_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/368c3f75-6997-452a-9b7d-c5b2fcde6c53"
       (reference "R24") (unit 1) (value "R_24k9_0402") (footprint "scalenode-cm4-baseboard-footprints:0402-res")
@@ -3752,7 +3752,7 @@
       (reference "R34") (unit 1) (value "R_15k_0603") (footprint "scalenode-cm4-baseboard-footprints:0603-res")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/d08f31b9-e1ef-4245-b307-6c580b726c5e"
-      (reference "R35") (unit 1) (value "R_63R4_0402") (footprint "scalenode-cm4-baseboard-footprints:0402-res")
+      (reference "R35") (unit 1) (value "R_63R4_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/cd28fded-5536-41db-b449-c37bcdf9d225"
       (reference "R36") (unit 1) (value "R_24k9_0402") (footprint "scalenode-cm4-baseboard-footprints:0402-res")
