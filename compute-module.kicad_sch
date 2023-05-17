@@ -10,17 +10,17 @@
   )
 
   (lib_symbols
-    (symbol "antmicroLEDIndicationDiscrete:598-8D80-107F" (pin_names hide) (in_bom yes) (on_board yes)
+    (symbol "antmicroLEDIndicationDiscrete:LED_R_0603_598-8D80-107F" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (id 0) (at 22.86 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
-      (property "Value" "598-8D80-107F" (id 1) (at 22.86 -5.08 0)
+      (property "Value" "LED_R_0603_598-8D80-107F" (id 1) (at 22.86 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
       (property "Footprint" "antmicro-footprints:LED_0603_1608Metric_R" (id 2) (at 22.86 -7.62 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
-      (property "Datasheet" "" (id 3) (at 22.86 -10.16 0)
+      (property "Datasheet" "https://www.farnell.com/datasheets/3093797.pdf" (id 3) (at 22.86 -10.16 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
       (property "MPN" "598-8D80-107F" (id 4) (at 22.86 -12.7 0)
@@ -35,7 +35,7 @@
       (property "License" "Apache-2.0" (id 7) (at 22.86 -20.32 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
-      (symbol "598-8D80-107F_1_1"
+      (symbol "LED_R_0603_598-8D80-107F_1_1"
         (polyline
           (pts
             (xy 4.445 3.81)
@@ -5512,7 +5512,7 @@
     (pin "1" (uuid dd990b61-ea53-409a-a000-d8670f6a7fcd))
   )
 
-  (symbol (lib_id "antmicroLEDIndicationDiscrete:598-8D80-107F") (at 176.276 105.918 180) (unit 1)
+  (symbol (lib_id "antmicroLEDIndicationDiscrete:LED_R_0603_598-8D80-107F") (at 176.276 105.918 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005ff225c8)
     (property "Reference" "D11" (id 0) (at 178.181 103.378 0)
@@ -5524,7 +5524,7 @@
     (property "Footprint" "antmicro-footprints:LED_0603_1608Metric_R" (id 2) (at 153.416 98.298 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
-    (property "Datasheet" "" (id 3) (at 153.416 95.758 0)
+    (property "Datasheet" "https://www.farnell.com/datasheets/3093797.pdf" (id 3) (at 153.416 95.758 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "MPN" "598-8D80-107F" (id 4) (at 153.416 93.218 0)
