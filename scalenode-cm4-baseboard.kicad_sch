@@ -3536,7 +3536,7 @@
       (reference "D5") (unit 1) (value "MB10S") (footprint "antmicro-footprints:SOIC-4_4.2x5.0mm_P5.7mm")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/ea5875b6-d2e6-40e2-aaa1-3d4a0eb99eda"
-      (reference "D6") (unit 1) (value "SMAJ58A-13-F") (footprint "scalenode-cm4-baseboard-footprints:DO-214AC")
+      (reference "D6") (unit 1) (value "SMAJ58A-13-F") (footprint "antmicro-footprints:DO-214AC")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/1beaa675-00fb-413a-ab05-af7b08505ded"
       (reference "D7") (unit 1) (value "KP-1608CGCK") (footprint "scalenode-cm4-baseboard-footprints:LED_0603")
