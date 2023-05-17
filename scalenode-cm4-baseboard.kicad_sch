@@ -3590,7 +3590,7 @@
       (reference "L3") (unit 1) (value "H6096NL") (footprint "antmicro-footprints:SOIC127P1594X685-24N")
     )
     (path "/00000000-0000-0000-0000-00005fea17c4/00000000-0000-0000-0000-00005feb7f76"
-      (reference "M1") (unit 1) (value "compute-module-4-1.5mm") (footprint "scalenode-cm4-baseboard-footprints:compute-module-4-1.5mm")
+      (reference "M1") (unit 1) (value "compute-module-4-1.5mm") (footprint "antmicro-footprints:compute-module-4-1.5mm")
     )
     (path "/00000000-0000-0000-0000-000060011e76/00000000-0000-0000-0000-0000603aaae1"
       (reference "MP1") (unit 1) (value "PCB_Mount_Hole_2.2_4.5") (footprint "scalenode-cm4-baseboard-footprints:mounting-hole-2.2mm")
