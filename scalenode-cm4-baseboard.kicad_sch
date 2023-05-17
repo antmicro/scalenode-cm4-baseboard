@@ -3773,7 +3773,7 @@
       (reference "R41") (unit 1) (value "R_10k_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00005fea17c4/00000000-0000-0000-0000-0000601ee0fc"
-      (reference "R42") (unit 1) (value "R_1k_0603") (footprint "scalenode-cm4-baseboard-footprints:0603-res")
+      (reference "R42") (unit 1) (value "R_1k_0603") (footprint "antmicro-footprints:R_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-0000606996ef"
       (reference "R55") (unit 1) (value "R_10k_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
