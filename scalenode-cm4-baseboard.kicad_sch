@@ -3551,10 +3551,10 @@
       (reference "F1") (unit 1) (value "1206L450SLWR") (footprint "scalenode-cm4-baseboard-footprints:1206-res")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/62da1a6f-91dd-4148-b152-3219809b247c"
-      (reference "FB1") (unit 1) (value "BLM21PG221SN1D") (footprint "scalenode-cm4-baseboard-footprints:0805-res")
+      (reference "FB1") (unit 1) (value "BLM21PG221SN1D") (footprint "antmicro-footprints:0805-res")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/83b5cefe-b282-4cd3-b143-9eae60542bfb"
-      (reference "FB2") (unit 1) (value "BLM21PG221SN1D") (footprint "scalenode-cm4-baseboard-footprints:0805-res")
+      (reference "FB2") (unit 1) (value "BLM21PG221SN1D") (footprint "antmicro-footprints:0805-res")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/500daefa-e8d4-4925-9266-ce52f4312e94"
       (reference "IC1") (unit 1) (value "TPS2378DDA") (footprint "antmicro-footprints:VQFN-20_5x5x1mm_P0.65mm")
