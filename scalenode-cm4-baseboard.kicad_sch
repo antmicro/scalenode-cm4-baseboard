@@ -3758,7 +3758,7 @@
       (reference "R36") (unit 1) (value "R_24k9_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/108a26e0-9304-40aa-b161-21c3ffad3468"
-      (reference "R37") (unit 1) (value "R_1k3_0402") (footprint "scalenode-cm4-baseboard-footprints:0402-res")
+      (reference "R37") (unit 1) (value "R_1k3_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/a3774cbf-3a5c-485c-ac11-75df63dac1bf"
       (reference "R38") (unit 1) (value "R_49k9_0402") (footprint "scalenode-cm4-baseboard-footprints:0402-res")
@@ -3830,7 +3830,7 @@
       (reference "SP6") (unit 1) (value "97730256332R") (footprint "scalenode-cm4-baseboard-footprints:97730256332R")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/c8d1de04-6126-430e-844b-0490e26378bc"
-      (reference "TP1") (unit 1) (value "TP_SMD_0_75MM") (footprint "scalenode-cm4-baseboard-footprints:Testpoint_smd_0_75mm")
+      (reference "TP1") (unit 1) (value "TP_SMD_0_75MM") (footprint "antmicro-footprints:TP_SMD_0.75mm")
     )
     (path "/00000000-0000-0000-0000-00005fea17e9/d955de56-e175-4986-9f94-fc08889df80c"
       (reference "TP2") (unit 1) (value "TP_SMD1MM") (footprint "scalenode-cm4-baseboard-footprints:Testpoint_smd_1mm")
@@ -3851,10 +3851,10 @@
       (reference "TP7") (unit 1) (value "TP_SMD1MM") (footprint "scalenode-cm4-baseboard-footprints:Testpoint_smd_1mm")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/d78fbaf6-d3a7-4522-86ee-59234be8b58a"
-      (reference "TP8") (unit 1) (value "TP_SMD_0_75MM") (footprint "scalenode-cm4-baseboard-footprints:Testpoint_smd_0_75mm")
+      (reference "TP8") (unit 1) (value "TP_SMD_0_75MM") (footprint "antmicro-footprints:TP_SMD_0.75mm")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/3b08cdbb-b011-4199-9f40-e3ebbc982b04"
-      (reference "TP9") (unit 1) (value "TP_SMD_0_75MM") (footprint "scalenode-cm4-baseboard-footprints:Testpoint_smd_0_75mm")
+      (reference "TP9") (unit 1) (value "TP_SMD_0_75MM") (footprint "antmicro-footprints:TP_SMD_0.75mm")
     )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-000060648ef9"
       (reference "U1") (unit 1) (value "TS3USB30EDGSR") (footprint "antmicro-footprints:MSOP-10_W3mm")
