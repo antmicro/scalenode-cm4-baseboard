@@ -3815,16 +3815,16 @@
       (reference "SP1") (unit 1) (value "97730256332R") (footprint "antmicro-footprints:97730256332R")
     )
     (path "/00000000-0000-0000-0000-00005fea17c4/00000000-0000-0000-0000-00005fecfb4a"
-      (reference "SP2") (unit 1) (value "9774030151") (footprint "scalenode-cm4-baseboard-footprints:9774030151")
+      (reference "SP2") (unit 1) (value "9774030151") (footprint "antmicro-footprints:9774030151")
     )
     (path "/00000000-0000-0000-0000-00005fea17c4/00000000-0000-0000-0000-00005fed09b8"
-      (reference "SP3") (unit 1) (value "9774030151") (footprint "scalenode-cm4-baseboard-footprints:9774030151")
+      (reference "SP3") (unit 1) (value "9774030151") (footprint "antmicro-footprints:9774030151")
     )
     (path "/00000000-0000-0000-0000-00005fea17c4/00000000-0000-0000-0000-00005fed0d6c"
-      (reference "SP4") (unit 1) (value "9774030151") (footprint "scalenode-cm4-baseboard-footprints:9774030151")
+      (reference "SP4") (unit 1) (value "9774030151") (footprint "antmicro-footprints:9774030151")
     )
     (path "/00000000-0000-0000-0000-00005fea17c4/00000000-0000-0000-0000-00005fed1044"
-      (reference "SP5") (unit 1) (value "9774030151") (footprint "scalenode-cm4-baseboard-footprints:9774030151")
+      (reference "SP5") (unit 1) (value "9774030151") (footprint "antmicro-footprints:9774030151")
     )
     (path "/00000000-0000-0000-0000-00005fea1b94/00000000-0000-0000-0000-0000602dc131"
       (reference "SP6") (unit 1) (value "97730256332R") (footprint "antmicro-footprints:97730256332R")
