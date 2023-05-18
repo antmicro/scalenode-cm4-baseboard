@@ -3833,22 +3833,22 @@
       (reference "TP1") (unit 1) (value "TP_SMD_0_75MM") (footprint "antmicro-footprints:TP_SMD_0.75mm")
     )
     (path "/00000000-0000-0000-0000-00005fea17e9/d955de56-e175-4986-9f94-fc08889df80c"
-      (reference "TP2") (unit 1) (value "TP_SMD1MM") (footprint "scalenode-cm4-baseboard-footprints:Testpoint_smd_1mm")
+      (reference "TP2") (unit 1) (value "TP_SMD1MM") (footprint "antmicro-footprints:Testpoint_smd_1mm")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/2645583d-0217-488a-8eb4-7f4b58253402"
-      (reference "TP3") (unit 1) (value "TP_SMD1MM") (footprint "scalenode-cm4-baseboard-footprints:Testpoint_smd_1mm")
+      (reference "TP3") (unit 1) (value "TP_SMD1MM") (footprint "antmicro-footprints:Testpoint_smd_1mm")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/196aa4cd-e61c-4715-8766-81fb3b7e5bc7"
-      (reference "TP4") (unit 1) (value "TP_SMD1MM") (footprint "scalenode-cm4-baseboard-footprints:Testpoint_smd_1mm")
+      (reference "TP4") (unit 1) (value "TP_SMD1MM") (footprint "antmicro-footprints:Testpoint_smd_1mm")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/dd6a6c3b-9ef0-495a-865a-e438d63a177b"
-      (reference "TP5") (unit 1) (value "TP_SMD1MM") (footprint "scalenode-cm4-baseboard-footprints:Testpoint_smd_1mm")
+      (reference "TP5") (unit 1) (value "TP_SMD1MM") (footprint "antmicro-footprints:Testpoint_smd_1mm")
     )
     (path "/00000000-0000-0000-0000-00005fea17c4/893c07e9-2e71-49dd-83f4-aff8cd27cb7c"
-      (reference "TP6") (unit 1) (value "TP_SMD1MM") (footprint "scalenode-cm4-baseboard-footprints:Testpoint_smd_1mm")
+      (reference "TP6") (unit 1) (value "TP_SMD1MM") (footprint "antmicro-footprints:Testpoint_smd_1mm")
     )
     (path "/00000000-0000-0000-0000-00005fea17e9/b25e3959-f569-4978-8013-d3416436d442"
-      (reference "TP7") (unit 1) (value "TP_SMD1MM") (footprint "scalenode-cm4-baseboard-footprints:Testpoint_smd_1mm")
+      (reference "TP7") (unit 1) (value "TP_SMD1MM") (footprint "antmicro-footprints:Testpoint_smd_1mm")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/d78fbaf6-d3a7-4522-86ee-59234be8b58a"
       (reference "TP8") (unit 1) (value "TP_SMD_0_75MM") (footprint "antmicro-footprints:TP_SMD_0.75mm")
