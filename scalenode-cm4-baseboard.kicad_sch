@@ -3809,7 +3809,7 @@
       (reference "R65") (unit 1) (value "R_10k_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-000060aee4cb"
-      (reference "S1") (unit 1) (value "CAS-120TA") (footprint "scalenode-cm4-baseboard-footprints:Switch_Slide_CAS-120TA")
+      (reference "S1") (unit 1) (value "CAS-120TA") (footprint "antmicro-footprints:Switch_Slide_CAS-120TA")
     )
     (path "/00000000-0000-0000-0000-00005fea1b94/00000000-0000-0000-0000-0000602dbd02"
       (reference "SP1") (unit 1) (value "97730256332R") (footprint "scalenode-cm4-baseboard-footprints:97730256332R")
