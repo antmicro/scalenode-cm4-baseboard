@@ -98,11 +98,11 @@
         )
       )
     )
-    (symbol "antmicroMechanicalParts:9774030151" (pin_names hide) (in_bom yes) (on_board yes)
+    (symbol "antmicroMechanicalParts:Spacer_H3mm_9774030151" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "H" (id 0) (at 22.86 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
-      (property "Value" "9774030151" (id 1) (at 22.86 -5.08 0)
+      (property "Value" "Spacer_H3mm_9774030151" (id 1) (at 22.86 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
       (property "Footprint" "antmicro-footprints:9774030151" (id 2) (at 22.86 -7.62 0)
@@ -123,7 +123,7 @@
       (property "License" "Apache-2.0" (id 7) (at 22.86 -20.32 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
-      (symbol "9774030151_1_1"
+      (symbol "Spacer_H3mm_9774030151_1_1"
         (rectangle (start 2.54 -2.54) (end 7.62 2.54)
           (stroke (width 0.254) (type default) (color 0 0 0 0))
           (fill (type none))
@@ -996,7 +996,6 @@
       )
     )
   )
-
 
   (junction (at 253.746 126.238) (diameter 0) (color 0 0 0 0)
     (uuid 01c70d8f-3c71-467b-a7c7-a0d3246ceac6)
@@ -5472,7 +5471,7 @@
     (pin "99" (uuid ae0f12b0-1be0-4af8-9fc6-a6d9683dd227))
   )
 
-  (symbol (lib_id "antmicroMechanicalParts:9774030151") (at 310.642 136.144 0) (unit 1)
+  (symbol (lib_id "antmicroMechanicalParts:Spacer_H3mm_9774030151") (at 310.642 136.144 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005fecfb4a)
     (property "Reference" "SP2" (id 0) (at 320.04 134.874 0)
@@ -5502,7 +5501,7 @@
     (pin "1" (uuid febb811c-cffa-4cc3-8b0e-850739598c17))
   )
 
-  (symbol (lib_id "antmicroMechanicalParts:9774030151") (at 310.642 145.034 0) (unit 1)
+  (symbol (lib_id "antmicroMechanicalParts:Spacer_H3mm_9774030151") (at 310.642 145.034 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005fed09b8)
     (property "Reference" "SP3" (id 0) (at 320.04 143.764 0)
@@ -5532,7 +5531,7 @@
     (pin "1" (uuid 1d4dd6cf-af3b-433f-ac4f-9d0f2e08131e))
   )
 
-  (symbol (lib_id "antmicroMechanicalParts:9774030151") (at 336.042 136.144 0) (unit 1)
+  (symbol (lib_id "antmicroMechanicalParts:Spacer_H3mm_9774030151") (at 336.042 136.144 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005fed0d6c)
     (property "Reference" "SP4" (id 0) (at 345.44 134.874 0)
@@ -5562,7 +5561,7 @@
     (pin "1" (uuid caafd1fe-007c-4da6-9cd8-f96be8eee0b9))
   )
 
-  (symbol (lib_id "antmicroMechanicalParts:9774030151") (at 336.042 145.034 0) (unit 1)
+  (symbol (lib_id "antmicroMechanicalParts:Spacer_H3mm_9774030151") (at 336.042 145.034 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005fed1044)
     (property "Reference" "SP5" (id 0) (at 345.44 143.764 0)
