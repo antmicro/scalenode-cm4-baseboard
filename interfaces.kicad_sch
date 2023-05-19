@@ -1282,7 +1282,7 @@
         )
       )
     )
-    (symbol "scalenode-cm4-baseboard:GND" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+    (symbol "power:GND" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (id 0) (at 0 -6.35 0)
         (effects (font (size 1.27 1.27)) hide)
       )
@@ -1293,6 +1293,12 @@
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "Datasheet" "" (id 3) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_keywords" "global power" (id 4) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_description" "Power symbol creates a global label with name \"GND\" , ground" (id 5) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (symbol "GND_0_1"
@@ -4621,7 +4627,7 @@
     (pin "SH" (uuid 55969fc7-8357-4554-bb38-b862ba1e78c0))
   )
 
-  (symbol (lib_id "scalenode-cm4-baseboard:GND") (at 111.506 208.026 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 111.506 208.026 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005fed643e)
     (property "Reference" "#PWR013" (id 0) (at 111.506 214.376 0)
@@ -4637,7 +4643,7 @@
     (pin "1" (uuid 41d617e1-acaa-4ecd-9c78-b4b5e0e22dad))
   )
 
-  (symbol (lib_id "scalenode-cm4-baseboard:GND") (at 325.12 104.14 0) (mirror y) (unit 1)
+  (symbol (lib_id "power:GND") (at 325.12 104.14 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005ff2f0af)
     (property "Reference" "#PWR010" (id 0) (at 325.12 110.49 0)
@@ -4688,7 +4694,7 @@
     (pin "SH" (uuid bb15566e-d364-4681-89b7-072db1726119))
   )
 
-  (symbol (lib_id "scalenode-cm4-baseboard:GND") (at 68.072 76.2 0) (mirror y) (unit 1)
+  (symbol (lib_id "power:GND") (at 68.072 76.2 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005ff64a72)
     (property "Reference" "#PWR014" (id 0) (at 68.072 82.55 0)
@@ -5146,7 +5152,7 @@
     (pin "2" (uuid 50e4a07b-677a-4034-a3ce-6d299a25e804))
   )
 
-  (symbol (lib_id "scalenode-cm4-baseboard:GND") (at 322.58 58.42 0) (mirror y) (unit 1)
+  (symbol (lib_id "power:GND") (at 322.58 58.42 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000601737d9)
     (property "Reference" "#PWR09" (id 0) (at 322.58 64.77 0)
@@ -5357,7 +5363,7 @@
     (pin "9" (uuid 8cf126e6-620e-4e51-a176-ce91abfc1480))
   )
 
-  (symbol (lib_id "scalenode-cm4-baseboard:GND") (at 241.3 104.14 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 241.3 104.14 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060699683)
     (property "Reference" "#PWR041" (id 0) (at 241.3 110.49 0)
@@ -5450,7 +5456,7 @@
     (pin "2" (uuid c52eeed0-6e6d-4709-9f89-a1d9a1bf7017))
   )
 
-  (symbol (lib_id "scalenode-cm4-baseboard:GND") (at 219.71 58.42 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 219.71 58.42 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060699709)
     (property "Reference" "#PWR023" (id 0) (at 219.71 64.77 0)
@@ -5695,7 +5701,7 @@
     (pin "2" (uuid 025dae9c-9ddf-44c7-946c-57e9b69877a2))
   )
 
-  (symbol (lib_id "scalenode-cm4-baseboard:GND") (at 278.892 205.486 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 278.892 205.486 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000607a4fb2)
     (property "Reference" "#PWR045" (id 0) (at 278.892 211.836 0)
@@ -5751,7 +5757,7 @@
     (pin "2" (uuid bc400318-67b3-433e-a052-53c44a95b3d5))
   )
 
-  (symbol (lib_id "scalenode-cm4-baseboard:GND") (at 293.624 201.676 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 293.624 201.676 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000607c7f0c)
     (property "Reference" "#PWR046" (id 0) (at 293.624 208.026 0)
@@ -5847,7 +5853,7 @@
     (pin "2" (uuid d45ea80e-c842-4b37-9c81-c0198b0dd920))
   )
 
-  (symbol (lib_id "scalenode-cm4-baseboard:GND") (at 247.65 176.276 0) (mirror y) (unit 1)
+  (symbol (lib_id "power:GND") (at 247.65 176.276 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060803c50)
     (property "Reference" "#PWR044" (id 0) (at 247.65 182.626 0)
@@ -5863,7 +5869,7 @@
     (pin "1" (uuid 0d7bd091-a53f-49ff-81aa-918bb349cfd8))
   )
 
-  (symbol (lib_id "scalenode-cm4-baseboard:GND") (at 240.03 176.276 0) (mirror y) (unit 1)
+  (symbol (lib_id "power:GND") (at 240.03 176.276 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000608042fa)
     (property "Reference" "#PWR043" (id 0) (at 240.03 182.626 0)
@@ -5919,7 +5925,7 @@
     (pin "2" (uuid 4a47e1a3-01a7-47e0-b210-ba6c7a4f4b96))
   )
 
-  (symbol (lib_id "scalenode-cm4-baseboard:GND") (at 58.166 82.042 0) (mirror y) (unit 1)
+  (symbol (lib_id "power:GND") (at 58.166 82.042 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006090d130)
     (property "Reference" "#PWR047" (id 0) (at 58.166 88.392 0)
@@ -5935,7 +5941,7 @@
     (pin "1" (uuid 2185c5ca-da73-4b46-b819-aaf3367aef68))
   )
 
-  (symbol (lib_id "scalenode-cm4-baseboard:GND") (at 37.592 84.836 0) (mirror y) (unit 1)
+  (symbol (lib_id "power:GND") (at 37.592 84.836 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060930f8f)
     (property "Reference" "#PWR08" (id 0) (at 37.592 91.186 0)
@@ -5951,7 +5957,7 @@
     (pin "1" (uuid 7f959065-0b68-4d32-9fe6-c27a30edf1e4))
   )
 
-  (symbol (lib_id "scalenode-cm4-baseboard:GND") (at 50.546 73.66 0) (mirror y) (unit 1)
+  (symbol (lib_id "power:GND") (at 50.546 73.66 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060939357)
     (property "Reference" "#PWR011" (id 0) (at 50.546 80.01 0)
@@ -5995,7 +6001,7 @@
     (pin "3" (uuid 53b7c748-18cf-4f65-9c9c-18b284f28d66))
   )
 
-  (symbol (lib_id "scalenode-cm4-baseboard:GND") (at 147.32 89.408 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 147.32 89.408 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060c3639e)
     (property "Reference" "#PWR012" (id 0) (at 147.32 95.758 0)

@@ -812,7 +812,7 @@
         )
       )
     )
-    (symbol "scalenode-cm4-baseboard:GND" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+    (symbol "power:GND" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (id 0) (at 0 -6.35 0)
         (effects (font (size 1.27 1.27)) hide)
       )
@@ -823,6 +823,12 @@
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "Datasheet" "" (id 3) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_keywords" "global power" (id 4) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_description" "Power symbol creates a global label with name \"GND\" , ground" (id 5) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (symbol "GND_0_1"
@@ -3673,7 +3679,7 @@
     )
   )
 
-  (symbol (lib_id "scalenode-cm4-baseboard:GND") (at 181.61 152.4 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 181.61 152.4 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005ff5c7ed)
     (property "Reference" "#PWR07" (id 0) (at 181.61 158.75 0)
@@ -4160,7 +4166,7 @@
     (pin "2" (uuid dc75083b-6768-4a5a-95c0-3caa964a0c1c))
   )
 
-  (symbol (lib_id "scalenode-cm4-baseboard:GND") (at 82.55 59.69 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 82.55 59.69 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005ffd259f)
     (property "Reference" "#PWR04" (id 0) (at 82.55 66.04 0)
@@ -4176,7 +4182,7 @@
     (pin "1" (uuid 78eadd1b-ed90-4747-bc8c-3a0d0af3930d))
   )
 
-  (symbol (lib_id "scalenode-cm4-baseboard:GND") (at 82.55 127 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 82.55 127 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005ffd3f95)
     (property "Reference" "#PWR05" (id 0) (at 82.55 133.35 0)
@@ -4192,7 +4198,7 @@
     (pin "1" (uuid be6352b4-f8da-4ec0-bea6-996adf9ea314))
   )
 
-  (symbol (lib_id "scalenode-cm4-baseboard:GND") (at 82.55 148.59 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 82.55 148.59 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005ffd5047)
     (property "Reference" "#PWR06" (id 0) (at 82.55 154.94 0)
