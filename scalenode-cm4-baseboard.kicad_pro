@@ -531,7 +531,7 @@
       "netlist": "scalenode-cm4-baseboard.net",
       "specctra_dsn": "",
       "step": "",
-      "vrml": ""
+      "vrml": "scalenode-cm4-baseboard.wrl"
     },
     "page_layout_descr_file": ""
   },
