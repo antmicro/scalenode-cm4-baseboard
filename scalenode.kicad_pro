@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 0.7,
-          "width": 0.2
+          "drill": 0.89,
+          "height": 3.0,
+          "width": 1.6
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -48,26 +48,8 @@
           "min_clearance": 0.254
         }
       },
-      "diff_pair_dimensions": [
-        {
-          "gap": 0.0,
-          "via_gap": 0.0,
-          "width": 0.0
-        }
-      ],
-      "drc_exclusions": [
-        "clearance|137408000|83209000|6cb0e645-66f4-40a4-8cce-3eae11ba91b1|c9c0dc6a-e574-4d9e-af78-3b935d2c2568",
-        "courtyards_overlap|114423001|70383001|12d00ec9-3ec6-4233-8e92-45f115c39365|60cb45b3-237f-45bd-8489-0a6cf70af482",
-        "courtyards_overlap|140199999|70260001|12d00ec9-3ec6-4233-8e92-45f115c39365|60cb45b3-237f-45bd-8489-0a6cf70af482",
-        "courtyards_overlap|140199999|70260001|60cb45b3-237f-45bd-8489-0a6cf70af482|12d00ec9-3ec6-4233-8e92-45f115c39365",
-        "courtyards_overlap|152649999|86750001|00000000-0000-0000-0000-000060c2537e|00000000-0000-0000-0000-000060c25393",
-        "courtyards_overlap|152749999|86200001|00000000-0000-0000-0000-000060c2537e|00000000-0000-0000-0000-000060c25393",
-        "courtyards_overlap|154828822|70630101|00000000-0000-0000-0000-0000607688d2|00000000-0000-0000-0000-000060769a77",
-        "courtyards_overlap|154868592|70650101|00000000-0000-0000-0000-0000607688d2|00000000-0000-0000-0000-000060769a77",
-        "courtyards_overlap|158014995|70610201|00000000-0000-0000-0000-000060768466|00000000-0000-0000-0000-0000607684e4",
-        "courtyards_overlap|158054766|70630201|00000000-0000-0000-0000-000060768466|00000000-0000-0000-0000-0000607684e4",
-        "courtyards_overlap|200483999|88850001|00000000-0000-0000-0000-000060c2537e|00000000-0000-0000-0000-000060c25393"
-      ],
+      "diff_pair_dimensions": [],
+      "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -98,8 +80,8 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_over_copper": "ignore",
-        "silk_overlap": "ignore",
+        "silk_over_copper": "warning",
+        "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -125,7 +107,7 @@
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
         "min_silk_clearance": 0.0,
-        "min_through_hole_diameter": 0.15,
+        "min_through_hole_diameter": 0.19999999999999998,
         "min_track_width": 0.09999999999999999,
         "min_via_annular_width": 0.049999999999999996,
         "min_via_diameter": 0.09999999999999999,
@@ -134,8 +116,6 @@
       "track_widths": [
         0.0,
         0.127,
-        0.15,
-        0.18,
         0.2,
         0.254,
         0.4,
@@ -154,15 +134,11 @@
         },
         {
           "diameter": 0.5,
-          "drill": 0.15
+          "drill": 0.2
         },
         {
-          "diameter": 0.5,
-          "drill": 0.15
-        },
-        {
-          "diameter": 0.5,
-          "drill": 0.15
+          "diameter": 1.2,
+          "drill": 0.6
         }
       ],
       "zones_allow_external_fillets": false,
@@ -360,7 +336,7 @@
       "duplicate_reference": "error",
       "duplicate_sheet_names": "error",
       "extra_units": "error",
-      "global_label_dangling": "ignore",
+      "global_label_dangling": "warning",
       "hier_label_mismatch": "error",
       "label_dangling": "error",
       "lib_symbol_issues": "warning",
@@ -384,14 +360,14 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "scalenode-cm4-baseboard.kicad_pro",
+    "filename": "scalenode.kicad_pro",
     "version": 1
   },
   "net_settings": {
     "classes": [
       {
         "bus_width": 12.0,
-        "clearance": 0.12,
+        "clearance": 0.1,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -402,16 +378,16 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.254,
-        "via_diameter": 0.5,
-        "via_drill": 0.15,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
         "wire_width": 6.0
       },
       {
         "bus_width": 12.0,
-        "clearance": 0.125,
-        "diff_pair_gap": 0.2,
+        "clearance": 0.1,
+        "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.15,
+        "diff_pair_width": 0.2,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
@@ -453,30 +429,26 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.15,
-        "via_diameter": 0.5,
-        "via_drill": 0.15,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
         "wire_width": 6.0
       },
       {
         "bus_width": 12.0,
-        "clearance": 0.125,
-        "diff_pair_gap": 0.2,
+        "clearance": 0.1,
+        "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.18,
+        "diff_pair_width": 0.2,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Diff_90",
         "nets": [
-          "/Interfaces/CONN_USB_N",
-          "/Interfaces/CONN_USB_P",
-          "/Interfaces/FTDI_USB_N",
-          "/Interfaces/FTDI_USB_P",
           "/Interfaces/RPi_USB_N",
           "/Interfaces/RPi_USB_P",
           "/Interfaces/VBus_Slave",
-          "Adapter_USB_N",
-          "Adapter_USB_P",
+          "Arty_USB_N",
+          "Arty_USB_P",
           "PCIE_CLK_N",
           "PCIE_CLK_P",
           "PCIE_RX_N",
@@ -488,34 +460,9 @@
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.18,
-        "via_diameter": 0.5,
-        "via_drill": 0.15,
-        "wire_width": 6.0
-      },
-      {
-        "bus_width": 12.0,
-        "clearance": 0.12,
-        "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "SE_50",
-        "nets": [
-          "SD_CLK",
-          "SD_CMD",
-          "SD_DAT0",
-          "SD_DAT1",
-          "SD_DAT2",
-          "SD_DAT3"
-        ],
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.18,
-        "via_diameter": 0.5,
-        "via_drill": 0.15,
+        "track_width": 0.2,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
         "wire_width": 6.0
       }
     ],
@@ -528,7 +475,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "scalenode-cm4-baseboard.net",
+      "netlist": "scalenode.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -567,7 +514,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "doc/",
+    "plot_directory": "",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
@@ -575,7 +522,7 @@
   },
   "sheets": [
     [
-      "60b842dc-0853-4a25-99ac-5784ddf94d0d",
+      "b630c6a0-2c8a-452b-b48b-9718e2afd6d4",
       ""
     ],
     [
