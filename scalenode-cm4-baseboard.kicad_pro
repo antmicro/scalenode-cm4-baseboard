@@ -119,8 +119,13 @@
         "allow_microvias": false,
         "max_error": 0.005,
         "min_clearance": 0.125,
+<<<<<<< HEAD
         "min_copper_edge_clearance": 0.39999999999999997,
         "min_hole_clearance": 0.19999999999999998,
+=======
+        "min_copper_edge_clearance": 0.049999999999999996,
+        "min_hole_clearance": 0.25,
+>>>>>>> a4fab7d (Fix clearance lower than 0.125mm)
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
