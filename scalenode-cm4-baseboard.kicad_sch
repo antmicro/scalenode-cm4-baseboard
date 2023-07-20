@@ -3658,9 +3658,6 @@
     (path "/00000000-0000-0000-0000-0000603350d4"
       (reference "N3") (unit 1) (value "oshw_logo") (footprint "antmicro-footprints:oshw-logo")
     )
-    (path "/00000000-0000-0000-0000-00005fea17d8/fc872f03-bc7c-4dd0-9228-6ff7b64fca40"
-      (reference "PS1") (unit 1) (value "PDQE30-Q48-S5-D") (footprint "antmicro-footprints:PDQE30-Q48")
-    )
     (path "/00000000-0000-0000-0000-00005fea17c4/00000000-0000-0000-0000-000060a8ac61"
       (reference "Q6") (unit 1) (value "BSS138-7-F") (footprint "antmicro-footprints:SOT-23-3")
     )
@@ -3888,6 +3885,9 @@
     )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-00006076026a"
       (reference "U6") (unit 1) (value "USB_UART_FT234XD-R") (footprint "antmicro-footprints:DFN-12-1EP_3x3mm")
+    )
+    (path "/00000000-0000-0000-0000-00005fea17d8/fc872f03-bc7c-4dd0-9228-6ff7b64fca40"
+      (reference "U7") (unit 1) (value "PDQE30-Q48-S5-D") (footprint "antmicro-footprints:CONV_PDQE30-Q48-S5-D")
     )
   )
 )
