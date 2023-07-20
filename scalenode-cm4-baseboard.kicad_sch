@@ -3325,6 +3325,9 @@
     (path "/00000000-0000-0000-0000-00005fea17d8/9cde09b7-12d3-475e-bf2a-f4ba0392046b"
       (reference "#FLG0105") (unit 1) (value "PWR_FLAG") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-00005fea17d8/6d1130ab-faa1-4fb1-8772-26776ba814b2"
+      (reference "#FLG0106") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00005fea17d8/17be77b5-11d3-4f00-9fe0-fee8cda24c27"
       (reference "#PWR01") (unit 1) (value "GNDD") (footprint "")
     )
@@ -3346,26 +3349,17 @@
     (path "/00000000-0000-0000-0000-00005fea1b94/00000000-0000-0000-0000-00005ff5c7ed"
       (reference "#PWR07") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-000060930f8f"
-      (reference "#PWR08") (unit 1) (value "GND") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-0000601737d9"
       (reference "#PWR09") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-00005ff2f0af"
       (reference "#PWR010") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-000060939357"
-      (reference "#PWR011") (unit 1) (value "GND") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-000060c3639e"
       (reference "#PWR012") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-00005fed643e"
       (reference "#PWR013") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-00005ff64a72"
-      (reference "#PWR014") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/baf7393c-c2be-438b-b611-a3aff1cc4b79"
       (reference "#PWR015") (unit 1) (value "GNDD") (footprint "")
@@ -3450,6 +3444,12 @@
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/f71c2aa7-d1be-45c6-ba6a-959a901225a3"
       (reference "#PWR0117") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005fea1803/8da025bd-604f-4d81-b8a8-889230b1bd68"
+      (reference "#PWR0118") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005fea1803/d5c8bb20-16e2-48fe-ac6e-50dcfab7b7c8"
+      (reference "#PWR0119") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005fea1b94/00000000-0000-0000-0000-00005ffa3033"
       (reference "C1") (unit 1) (value "C_10u_0603") (footprint "antmicro-footprints:C_0603_1608Metric")
