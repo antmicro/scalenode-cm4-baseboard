@@ -3613,8 +3613,8 @@
     (path "/00000000-0000-0000-0000-00005fea17d8/6bf788cd-5914-410b-913a-8f4c2fa3ef77"
       (reference "J1") (unit 1) (value "PinHeader_1x2_P2.5mm_Drill1.1mm") (footprint "antmicro-footprints:PinHeader_1x2_P2.5mm_Drill1.1mm")
     )
-    (path "/00000000-0000-0000-0000-00005fea1b94/00000000-0000-0000-0000-00006036f4d3"
-      (reference "J3") (unit 1) (value "Bus_M.2-0.5P-1-2199230-6") (footprint "antmicro-footprints:1-2199230-6")
+    (path "/00000000-0000-0000-0000-00005fea1b94/3a212e44-5c50-470d-a8bf-1580c21f57e7"
+      (reference "J3") (unit 1) (value "Bus_M.2_1-2199230-6") (footprint "antmicro-footprints:Bus_M.2_Socket_Key_M_TE_1-2199230-6")
     )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-00005fed21fd"
       (reference "J4") (unit 1) (value "MicroSD_1140084168") (footprint "antmicro-footprints:MicroSD_Amphenol_1140084168")
