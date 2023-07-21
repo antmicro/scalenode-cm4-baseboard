@@ -1,3 +1,2 @@
 (fp_lib_table
-  (lib (name "scalenode-cm4-baseboard-footprints")(type "KiCad")(uri "${KIPRJMOD}/lib/scalenode-cm4-baseboard-footprints")(options "")(descr ""))
 )
