@@ -3647,10 +3647,10 @@
       (reference "MP1") (unit 1) (value "PCB_Mount_Hole_2.2_4.5") (footprint "antmicro-footprints:mounting-hole-2.2mm")
     )
     (path "/00000000-0000-0000-0000-000060011e76/00000000-0000-0000-0000-0000606358c7"
-      (reference "MP2") (unit 1) (value "PCB_Mount_Hole_2.5_6.2") (footprint "antmicro-footprints:Mount-hole-M2.5")
+      (reference "MP2") (unit 1) (value "PCB_Mount_Hole_2.5_6.2") (footprint "antmicro-footprints:mounting-hole-2.75mm-M2.5_D6.2mm_PTH")
     )
     (path "/00000000-0000-0000-0000-000060011e76/00000000-0000-0000-0000-0000606391b7"
-      (reference "MP3") (unit 1) (value "PCB_Mount_Hole_2.5_6.2") (footprint "antmicro-footprints:Mount-hole-M2.5")
+      (reference "MP3") (unit 1) (value "PCB_Mount_Hole_2.5_6.2") (footprint "antmicro-footprints:mounting-hole-2.75mm-M2.5_D6.2mm_PTH")
     )
     (path "/00000000-0000-0000-0000-0000602d4d74"
       (reference "N1") (unit 1) (value "antmicro_logo") (footprint "antmicro-footprints:antmicro-logo_scaled_15mm")
