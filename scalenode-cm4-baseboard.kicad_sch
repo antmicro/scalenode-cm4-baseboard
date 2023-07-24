@@ -3623,7 +3623,7 @@
       (reference "J5") (unit 1) (value "USB-Micro-B_0473460001") (footprint "antmicro-footprints:USB_Micro_B_Female_0473460001")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/00000000-0000-0000-0000-00006132a9cb"
-      (reference "J6") (unit 1) (value "SS-74800-144") (footprint "antmicro-footprints:SS-74800-144")
+      (reference "J6") (unit 1) (value "SS-74800-144") (footprint "antmicro-footprints:Ethernet_Jack_SS-74800-144")
     )
     (path "/00000000-0000-0000-0000-00005fea17c4/00000000-0000-0000-0000-00005feb9acd"
       (reference "J7") (unit 1) (value "DF40HC(3.0)-100DS-0.4v") (footprint "antmicro-footprints:DF40HC(3.0)-100DS-0.4v")
