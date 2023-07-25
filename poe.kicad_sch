@@ -7709,7 +7709,7 @@
     (property "License" "Apache-2.0" (id 8) (at 151.13 238.76 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
-    (property "DNP" "DNP" (id 8) (at 120.015 233.045 0))
+    (property "DNP" "DNP" (id 9) (at 120.015 233.045 0))
     (pin "1" (uuid 4a2d9aa2-9793-4050-b1d4-5b5c117a1968))
     (pin "10" (uuid 27caa0fb-a95d-4926-ad19-c934fdc99a3c))
     (pin "11" (uuid c0bfafeb-8a85-43e4-9e7e-f8c6e397ff3f))
