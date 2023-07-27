@@ -3150,6 +3150,7 @@
     )
   )
 
+
   (junction (at 214.63 128.27) (diameter 0) (color 0 0 0 0)
     (uuid 0931112f-397c-4325-8452-e2009d139c96)
   )
@@ -7621,9 +7622,9 @@
   )
 
   (symbol (lib_id "antmicroPMICPowerDistributionSwitchesLoadDrivers:TPS2378DDA") (at 138.43 160.02 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid 500daefa-e8d4-4925-9266-ce52f4312e94)
-    (property "Reference" "IC1" (id 0) (at 142.5581 152.4 0)
+    (property "Reference" "U8" (id 0) (at 142.24 153.67 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "TPS2378DDA" (id 1) (at 173.99 162.56 0)
@@ -7638,7 +7639,7 @@
     (property "Manufacturer" "Texas Instruments" (id 5) (at 173.99 170.18 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
-    (property "MPN" "TPS2378DDA" (id 6) (at 142.5581 154.94 0)
+    (property "MPN" "TPS2378DDA" (id 6) (at 142.24 156.21 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Author" "Antmicro" (id 11) (at 173.99 175.26 0)

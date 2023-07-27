@@ -3225,9 +3225,6 @@
     (path "/00000000-0000-0000-0000-00005fea17d8/83b5cefe-b282-4cd3-b143-9eae60542bfb"
       (reference "FB2") (unit 1) (value "FB_220Z_2A_0805") (footprint "antmicro-footprints:FB_0805_2012Metric")
     )
-    (path "/00000000-0000-0000-0000-00005fea17d8/500daefa-e8d4-4925-9266-ce52f4312e94"
-      (reference "IC1") (unit 1) (value "TPS2378DDA") (footprint "antmicro-footprints:SOIC-8-1EP_3.9x4.9x1.75mm_P1.27mm")
-    )
     (path "/00000000-0000-0000-0000-00005fea17d8/6bf788cd-5914-410b-913a-8f4c2fa3ef77"
       (reference "J1") (unit 1) (value "PinHeader_1x2_P2.5mm_Drill1.1mm") (footprint "antmicro-footprints:PinHeader_1x2_P2.5mm_Drill1.1mm")
     )
@@ -3506,6 +3503,9 @@
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/fc872f03-bc7c-4dd0-9228-6ff7b64fca40"
       (reference "U7") (unit 1) (value "PDQE30-Q48-S5-D") (footprint "antmicro-footprints:CONV_PDQE30-Q48-S5-D")
+    )
+    (path "/00000000-0000-0000-0000-00005fea17d8/500daefa-e8d4-4925-9266-ce52f4312e94"
+      (reference "U8") (unit 1) (value "TPS2378DDA") (footprint "antmicro-footprints:SOIC-8-1EP_3.9x4.9x1.75mm_P1.27mm")
     )
   )
 )
