@@ -1,2 +1,3 @@
 (sym_lib_table
+  (lib (name "scalenode-cm4-baseboard")(type "KiCad")(uri "${KIPRJMOD}/lib/scalenode-cm4-baseboard.kicad_sym")(options "")(descr ""))
 )
