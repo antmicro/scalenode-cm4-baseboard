@@ -3067,7 +3067,7 @@
       (reference "#PWR0119") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005fea1b94/24fd022e-d74a-457d-a2c9-23a99b8312ef"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0120") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005fea1b94/00000000-0000-0000-0000-00005ffa3033"
       (reference "C1") (unit 1) (value "C_10u_0603") (footprint "scalenode-cm4-baseboard-footprints:C_0603_1608Metric")
@@ -3189,6 +3189,9 @@
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-0000608cdbbd"
       (reference "C56") (unit 1) (value "C_100n_0402") (footprint "scalenode-cm4-baseboard-footprints:C_0402_1005Metric")
     )
+    (path "/00000000-0000-0000-0000-00005fea1b94/1edbbbeb-2d9e-4ca9-9c9e-72c9fe30fad4"
+      (reference "D1") (unit 1) (value "LED_R_0603_598-8D80-107F") (footprint "scalenode-cm4-baseboard-footprints:LED_0603_1608Metric_R")
+    )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-000060199091"
       (reference "D2") (unit 1) (value "SP3011-06UTG") (footprint "scalenode-cm4-baseboard-footprints:USON-14_3.5x1.35_P0.5mm")
     )
@@ -3213,9 +3216,6 @@
     (path "/00000000-0000-0000-0000-00005fea17c4/00000000-0000-0000-0000-00005ff225c8"
       (reference "D11") (unit 1) (value "LED_R_0603_598-8D80-107F") (footprint "scalenode-cm4-baseboard-footprints:LED_0603_1608Metric_R")
     )
-    (path "/00000000-0000-0000-0000-00005fea1b94/1edbbbeb-2d9e-4ca9-9c9e-72c9fe30fad4"
-      (reference "D?") (unit 1) (value "LED_R_0603_598-8D80-107F") (footprint "scalenode-cm4-baseboard-footprints:LED_0603_1608Metric_R")
-    )
     (path "/00000000-0000-0000-0000-00005fea17d8/55f64549-3a86-4b9e-81cb-5a29dec25750"
       (reference "F1") (unit 1) (value "PTC_4.5A_1206") (footprint "scalenode-cm4-baseboard-footprints:F_1206_3216Metric")
     )
@@ -3227,6 +3227,9 @@
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/6bf788cd-5914-410b-913a-8f4c2fa3ef77"
       (reference "J1") (unit 1) (value "PinHeader_1x2_P2.5mm_Drill1.1mm") (footprint "scalenode-cm4-baseboard-footprints:PinHeader_1x2_P2.5mm_Drill1.1mm")
+    )
+    (path "/00000000-0000-0000-0000-00005fea1b94/603bfb82-dc0b-476a-b89b-90d3f73ab789"
+      (reference "J3") (unit 1) (value "Bus_M.2_MDT580M01001") (footprint "antmicro-footprints:Bus_M.2_Socket_Key_M_Amphenol_MDT580M01001")
     )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-00005fed21fd"
       (reference "J4") (unit 1) (value "MicroSD_1140084168") (footprint "scalenode-cm4-baseboard-footprints:MicroSD_Amphenol_1140084168")
@@ -3272,6 +3275,18 @@
     )
     (path "/00000000-0000-0000-0000-00005fea17c4/00000000-0000-0000-0000-000060a8ac61"
       (reference "Q6") (unit 1) (value "BSS138-7-F") (footprint "scalenode-cm4-baseboard-footprints:SOT-23-3")
+    )
+    (path "/00000000-0000-0000-0000-00005fea1b94/d11a5b58-a4f3-44a6-9e88-4b470dcd0090"
+      (reference "R1") (unit 1) (value "R_10k_0603") (footprint "scalenode-cm4-baseboard-footprints:R_0603_1608Metric")
+    )
+    (path "/00000000-0000-0000-0000-00005fea1b94/80ac7721-217d-402e-9571-b3f70c9c8889"
+      (reference "R2") (unit 1) (value "R_270R_0603") (footprint "scalenode-cm4-baseboard-footprints:R_0603_1608Metric")
+    )
+    (path "/00000000-0000-0000-0000-00005fea1b94/a150e09a-fe66-48c9-bdae-b47785f14015"
+      (reference "R3") (unit 1) (value "R_10k_0603") (footprint "scalenode-cm4-baseboard-footprints:R_0603_1608Metric")
+    )
+    (path "/00000000-0000-0000-0000-00005fea1b94/9a34ff85-0bef-4eba-b17b-253e62ba556b"
+      (reference "R4") (unit 1) (value "R_10k_0603") (footprint "scalenode-cm4-baseboard-footprints:R_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-000060075160"
       (reference "R5") (unit 1) (value "R_10k_0402") (footprint "scalenode-cm4-baseboard-footprints:R_0402_1005Metric")
@@ -3420,18 +3435,6 @@
     (path "/00000000-0000-0000-0000-00005fea17c4/00000000-0000-0000-0000-000060acbbcf"
       (reference "R65") (unit 1) (value "R_10k_0402") (footprint "scalenode-cm4-baseboard-footprints:R_0402_1005Metric")
     )
-    (path "/00000000-0000-0000-0000-00005fea1b94/80ac7721-217d-402e-9571-b3f70c9c8889"
-      (reference "R?") (unit 1) (value "R_270R_0603") (footprint "scalenode-cm4-baseboard-footprints:R_0603_1608Metric")
-    )
-    (path "/00000000-0000-0000-0000-00005fea1b94/9a34ff85-0bef-4eba-b17b-253e62ba556b"
-      (reference "R?") (unit 1) (value "R_10k_0603") (footprint "scalenode-cm4-baseboard-footprints:R_0603_1608Metric")
-    )
-    (path "/00000000-0000-0000-0000-00005fea1b94/a150e09a-fe66-48c9-bdae-b47785f14015"
-      (reference "R?") (unit 1) (value "R_10k_0603") (footprint "scalenode-cm4-baseboard-footprints:R_0603_1608Metric")
-    )
-    (path "/00000000-0000-0000-0000-00005fea1b94/d11a5b58-a4f3-44a6-9e88-4b470dcd0090"
-      (reference "R?") (unit 1) (value "R_10k_0603") (footprint "scalenode-cm4-baseboard-footprints:R_0603_1608Metric")
-    )
     (path "/00000000-0000-0000-0000-00005fea1803/00000000-0000-0000-0000-000060aee4cb"
       (reference "S1") (unit 1) (value "CAS-120TA") (footprint "scalenode-cm4-baseboard-footprints:Switch_Slide_CAS-120TA")
     )
@@ -3503,9 +3506,6 @@
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/500daefa-e8d4-4925-9266-ce52f4312e94"
       (reference "U8") (unit 1) (value "TPS2378DDA") (footprint "scalenode-cm4-baseboard-footprints:SOIC-8-1EP_3.9x4.9x1.75mm_P1.27mm")
-    )
-    (path "/00000000-0000-0000-0000-00005fea1b94/603bfb82-dc0b-476a-b89b-90d3f73ab789"
-      (reference "U?") (unit 1) (value "Bus_M.2_MDT580M01001") (footprint "antmicro-footprints:Bus_M.2_Socket_Key_M_Amphenol_MDT580M01001")
     )
   )
 )
