@@ -3439,7 +3439,7 @@
       (reference "S1") (unit 1) (value "CAS-120TA") (footprint "scalenode-cm4-baseboard-footprints:Switch_Slide_CAS-120TA")
     )
     (path "/00000000-0000-0000-0000-00005fea1b94/00000000-0000-0000-0000-0000602dbd02"
-      (reference "SP1") (unit 1) (value "Spacer_H0.5mm_97730256332R") (footprint "scalenode-cm4-baseboard-footprints:97730256332R")
+      (reference "SP1") (unit 1) (value "Spacer_H0.5mm_97730256332R") (footprint "antmicro-footprints:Spacer_H0.5mm_97730456332R")
     )
     (path "/00000000-0000-0000-0000-00005fea17c4/00000000-0000-0000-0000-00005fecfb4a"
       (reference "SP2") (unit 1) (value "Spacer_H3mm_9774030151") (footprint "scalenode-cm4-baseboard-footprints:9774030151")
@@ -3454,7 +3454,7 @@
       (reference "SP5") (unit 1) (value "Spacer_H3mm_9774030151") (footprint "scalenode-cm4-baseboard-footprints:9774030151")
     )
     (path "/00000000-0000-0000-0000-00005fea1b94/00000000-0000-0000-0000-0000602dc131"
-      (reference "SP6") (unit 1) (value "Spacer_H0.5mm_97730256332R") (footprint "scalenode-cm4-baseboard-footprints:97730256332R")
+      (reference "SP6") (unit 1) (value "Spacer_H0.5mm_97730256332R") (footprint "antmicro-footprints:Spacer_H0.5mm_97730456332R")
     )
     (path "/00000000-0000-0000-0000-00005fea17d8/c8d1de04-6126-430e-844b-0490e26378bc"
       (reference "TP1") (unit 1) (value "TP_0.75mm_SMD") (footprint "scalenode-cm4-baseboard-footprints:TP_SMD_0.75mm")
