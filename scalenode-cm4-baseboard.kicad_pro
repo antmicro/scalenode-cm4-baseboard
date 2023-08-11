@@ -1,5 +1,6 @@
 {
   "board": {
+    "3dviewports": [],
     "design_settings": {
       "defaults": {
         "board_outline_line_width": 0.09999999999999999,
@@ -56,16 +57,10 @@
         }
       ],
       "drc_exclusions": [
-        "clearance|137408000|83209000|6cb0e645-66f4-40a4-8cce-3eae11ba91b1|c9c0dc6a-e574-4d9e-af78-3b935d2c2568",
         "clearance|137408000|83209000|c9c0dc6a-e574-4d9e-af78-3b935d2c2568|0e661c0e-b7ca-4eeb-98fc-d78ecc4e9154",
         "copper_edge_clearance|203600000|60092000|5c31c320-f82b-4caf-adec-76a10cf6eb6f|bf832309-2f08-47d0-a04b-14521eed794f",
-        "copper_edge_clearance|203600000|60092000|5c31c320-f82b-4caf-adec-76a10cf6eb6f|ead59379-b222-4a89-a93a-fffaca546252",
-        "copper_edge_clearance|203600000|93092000|5c31c320-f82b-4caf-adec-76a10cf6eb6f|19d3c4af-1e3a-4973-b997-5186998b1b85",
         "copper_edge_clearance|203600000|93092000|5c31c320-f82b-4caf-adec-76a10cf6eb6f|630721b7-ee9f-4efe-aa12-c1162bb3873e",
-        "courtyards_overlap|114423001|70383001|12d00ec9-3ec6-4233-8e92-45f115c39365|60cb45b3-237f-45bd-8489-0a6cf70af482",
         "courtyards_overlap|114423001|70383001|60cb45b3-237f-45bd-8489-0a6cf70af482|abdfe3ac-fa43-426f-b011-db846fe9607a",
-        "courtyards_overlap|140199999|70260001|12d00ec9-3ec6-4233-8e92-45f115c39365|60cb45b3-237f-45bd-8489-0a6cf70af482",
-        "courtyards_overlap|140199999|70260001|60cb45b3-237f-45bd-8489-0a6cf70af482|12d00ec9-3ec6-4233-8e92-45f115c39365",
         "courtyards_overlap|152649999|86750001|00000000-0000-0000-0000-000060c2537e|00000000-0000-0000-0000-000060c25393",
         "courtyards_overlap|152749999|86200001|00000000-0000-0000-0000-000060c2537e|00000000-0000-0000-0000-000060c25393",
         "courtyards_overlap|154828822|70630101|00000000-0000-0000-0000-0000607688d2|00000000-0000-0000-0000-000060769a77",
@@ -125,18 +120,63 @@
         "allow_microvias": false,
         "max_error": 0.005,
         "min_clearance": 0.125,
+        "min_connection": 0.0,
         "min_copper_edge_clearance": 0.19999999999999998,
         "min_hole_clearance": 0.19999999999999998,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
+        "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
+        "min_text_height": 0.7999999999999999,
+        "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.15,
         "min_track_width": 0.125,
         "min_via_annular_width": 0.125,
         "min_via_diameter": 0.44999999999999996,
+        "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
+      "teardrop_options": [
+        {
+          "td_allow_use_two_tracks": true,
+          "td_curve_segcount": 5,
+          "td_on_pad_in_zone": false,
+          "td_onpadsmd": true,
+          "td_onroundshapesonly": false,
+          "td_ontrackend": false,
+          "td_onviapad": true
+        }
+      ],
+      "teardrop_parameters": [
+        {
+          "td_curve_segcount": 0,
+          "td_height_ratio": 1.0,
+          "td_length_ratio": 0.5,
+          "td_maxheight": 2.0,
+          "td_maxlen": 1.0,
+          "td_target_name": "td_round_shape",
+          "td_width_to_size_filter_ratio": 0.9
+        },
+        {
+          "td_curve_segcount": 0,
+          "td_height_ratio": 1.0,
+          "td_length_ratio": 0.5,
+          "td_maxheight": 2.0,
+          "td_maxlen": 1.0,
+          "td_target_name": "td_rect_shape",
+          "td_width_to_size_filter_ratio": 0.9
+        },
+        {
+          "td_curve_segcount": 0,
+          "td_height_ratio": 1.0,
+          "td_length_ratio": 0.5,
+          "td_maxheight": 2.0,
+          "td_maxlen": 1.0,
+          "td_target_name": "td_track_end",
+          "td_width_to_size_filter_ratio": 0.9
+        }
+      ],
       "track_widths": [
         0.0,
         0.127,
@@ -174,7 +214,8 @@
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
-    "layer_presets": []
+    "layer_presets": [],
+    "viewports": []
   },
   "boards": [],
   "cvpcb": {
@@ -422,40 +463,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Diff_100",
-        "nets": [
-          "/PoE/T_ETH_D0_N",
-          "/PoE/T_ETH_D0_P",
-          "/PoE/T_ETH_D1_N",
-          "/PoE/T_ETH_D1_P",
-          "/PoE/T_ETH_D2_N",
-          "/PoE/T_ETH_D2_P",
-          "/PoE/T_ETH_D3_N",
-          "/PoE/T_ETH_D3_P",
-          "HDMI0_CK_N",
-          "HDMI0_CK_P",
-          "HDMI0_D0_N",
-          "HDMI0_D0_P",
-          "HDMI0_D1_N",
-          "HDMI0_D1_P",
-          "HDMI0_D2_N",
-          "HDMI0_D2_P",
-          "HDMI1_CK_N",
-          "HDMI1_CK_P",
-          "HDMI1_D0_N",
-          "HDMI1_D0_P",
-          "HDMI1_D1_N",
-          "HDMI1_D1_P",
-          "HDMI1_D2_N",
-          "HDMI1_D2_P",
-          "TRD0_N",
-          "TRD0_P",
-          "TRD1_N",
-          "TRD1_P",
-          "TRD2_N",
-          "TRD2_P",
-          "TRD3_N",
-          "TRD3_P"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.15,
@@ -473,25 +481,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Diff_90",
-        "nets": [
-          "/Interfaces/CONN_USB_N",
-          "/Interfaces/CONN_USB_P",
-          "/Interfaces/FTDI_USB_N",
-          "/Interfaces/FTDI_USB_P",
-          "/Interfaces/RPi_USB_N",
-          "/Interfaces/RPi_USB_P",
-          "/Interfaces/VBus_Slave",
-          "Adapter_USB_N",
-          "Adapter_USB_P",
-          "PCIE_CLK_N",
-          "PCIE_CLK_P",
-          "PCIE_RX_N",
-          "PCIE_RX_P",
-          "PCIE_TX_N",
-          "PCIE_TX_P",
-          "USB2_N",
-          "USB2_P"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.18,
@@ -509,14 +499,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "SE_50",
-        "nets": [
-          "SD_CLK",
-          "SD_CMD",
-          "SD_DAT0",
-          "SD_DAT1",
-          "SD_DAT2",
-          "SD_DAT3"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.18,
@@ -528,7 +511,230 @@
     "meta": {
       "version": 2
     },
-    "net_colors": null
+    "net_colors": null,
+    "netclass_assignments": null,
+    "netclass_patterns": [
+      {
+        "netclass": "Diff_100",
+        "pattern": "/PoE/T_ETH_D0_N"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "/PoE/T_ETH_D0_P"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "/PoE/T_ETH_D1_N"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "/PoE/T_ETH_D1_P"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "/PoE/T_ETH_D2_N"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "/PoE/T_ETH_D2_P"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "/PoE/T_ETH_D3_N"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "/PoE/T_ETH_D3_P"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "HDMI0_CK_N"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "HDMI0_CK_P"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "HDMI0_D0_N"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "HDMI0_D0_P"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "HDMI0_D1_N"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "HDMI0_D1_P"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "HDMI0_D2_N"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "HDMI0_D2_P"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "HDMI1_CK_N"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "HDMI1_CK_P"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "HDMI1_D0_N"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "HDMI1_D0_P"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "HDMI1_D1_N"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "HDMI1_D1_P"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "HDMI1_D2_N"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "HDMI1_D2_P"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "TRD0_N"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "TRD0_P"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "TRD1_N"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "TRD1_P"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "TRD2_N"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "TRD2_P"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "TRD3_N"
+      },
+      {
+        "netclass": "Diff_100",
+        "pattern": "TRD3_P"
+      },
+      {
+        "netclass": "Diff_90",
+        "pattern": "/Interfaces/CONN_USB_N"
+      },
+      {
+        "netclass": "Diff_90",
+        "pattern": "/Interfaces/CONN_USB_P"
+      },
+      {
+        "netclass": "Diff_90",
+        "pattern": "/Interfaces/FTDI_USB_N"
+      },
+      {
+        "netclass": "Diff_90",
+        "pattern": "/Interfaces/FTDI_USB_P"
+      },
+      {
+        "netclass": "Diff_90",
+        "pattern": "/Interfaces/RPi_USB_N"
+      },
+      {
+        "netclass": "Diff_90",
+        "pattern": "/Interfaces/RPi_USB_P"
+      },
+      {
+        "netclass": "Diff_90",
+        "pattern": "/Interfaces/VBus_Slave"
+      },
+      {
+        "netclass": "Diff_90",
+        "pattern": "Adapter_USB_N"
+      },
+      {
+        "netclass": "Diff_90",
+        "pattern": "Adapter_USB_P"
+      },
+      {
+        "netclass": "Diff_90",
+        "pattern": "PCIE_CLK_N"
+      },
+      {
+        "netclass": "Diff_90",
+        "pattern": "PCIE_CLK_P"
+      },
+      {
+        "netclass": "Diff_90",
+        "pattern": "PCIE_RX_N"
+      },
+      {
+        "netclass": "Diff_90",
+        "pattern": "PCIE_RX_P"
+      },
+      {
+        "netclass": "Diff_90",
+        "pattern": "PCIE_TX_N"
+      },
+      {
+        "netclass": "Diff_90",
+        "pattern": "PCIE_TX_P"
+      },
+      {
+        "netclass": "Diff_90",
+        "pattern": "USB2_N"
+      },
+      {
+        "netclass": "Diff_90",
+        "pattern": "USB2_P"
+      },
+      {
+        "netclass": "SE_50",
+        "pattern": "SD_CLK"
+      },
+      {
+        "netclass": "SE_50",
+        "pattern": "SD_CMD"
+      },
+      {
+        "netclass": "SE_50",
+        "pattern": "SD_DAT0"
+      },
+      {
+        "netclass": "SE_50",
+        "pattern": "SD_DAT1"
+      },
+      {
+        "netclass": "SE_50",
+        "pattern": "SD_DAT2"
+      },
+      {
+        "netclass": "SE_50",
+        "pattern": "SD_DAT3"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -544,6 +750,8 @@
   "schematic": {
     "annotate_start_num": 0,
     "drawing": {
+      "dashed_lines_dash_length_ratio": 12.0,
+      "dashed_lines_gap_length_ratio": 3.0,
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
       "field_names": [],
@@ -575,7 +783,11 @@
     "page_layout_descr_file": "",
     "plot_directory": "doc/",
     "spice_adjust_passive_values": false,
+    "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
+    "spice_model_current_sheet_as_root": true,
+    "spice_save_all_currents": false,
+    "spice_save_all_voltages": false,
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
