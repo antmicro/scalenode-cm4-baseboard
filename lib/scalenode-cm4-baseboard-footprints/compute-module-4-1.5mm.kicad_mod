@@ -7146,7 +7146,7 @@
   (fp_line (start 4.276 29.438) (end 4.251 29.422) (layer "User.9") (width 0.02) (tstamp ffd6f7cd-fdc8-44bf-9640-b992c91c8b9a))
   (fp_line (start -5.509 22.755) (end -5.486 22.767) (layer "User.9") (width 0.02) (tstamp ffe12f07-949f-42e8-8029-43b31a5d8d00))
   (fp_line (start -5.31 27.381) (end -5.375 27.37) (layer "User.9") (width 0.02) (tstamp ffefd762-719d-4123-aa2f-c44c2182dfd3))
-  (model "${KIPRJMOD}/lib/3d-models/CM4-simple.step"
+  (model "${KIPRJMOD}/lib/3d-models/MODULE_RASPBERRY_CM4.step"
     (offset (xyz -22 -56.5 1.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

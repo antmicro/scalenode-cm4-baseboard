@@ -1330,7 +1330,7 @@
   (pad "SH" smd rect (at -2.911 0.284 90) (size 1.9 2.375) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c3cd569e-10b5-4dfe-8e5a-ea7f27673f1e))
   (pad "SH" smd rect (at 2.913 0.284 90) (size 1.9 2.375) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d4eb5991-410d-4fd6-a77d-0a9ff3604478))
   (pad "SH" smd rect (at -2.464 -2.016 90) (size 2.1 1.475) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d6afba35-8d29-41d8-9bbc-9d9c983f7e98))
-  (model "${KIPRJMOD}/lib/3d-models/473460001.step"
+  (model "${KIPRJMOD}/lib/3d-models/Molex_MicroUSB_047346-0001_Horizontal.step"
     (offset (xyz -0.001 0.036 1.2))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
