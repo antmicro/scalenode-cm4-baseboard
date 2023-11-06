@@ -19,6 +19,7 @@ The remaining files are stored in the following directories:
 * `lib` - contains the KiCad component libraries
 * `doc` - contains generated schematics and other documentation
 * `img` - contains graphics for this README
+* `assets` - contains visual assets for showcasing this design on [Open Hardware Portal](https://openhardware.antmicro.com)
 
 ## Key features
 
