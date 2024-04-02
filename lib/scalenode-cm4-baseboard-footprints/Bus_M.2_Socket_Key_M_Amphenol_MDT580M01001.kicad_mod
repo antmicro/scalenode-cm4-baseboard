@@ -3302,7 +3302,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))
   )
-  (model "${ANT3DMDL}/MODULE_GENERIC_M.2-2280.step"
+  (model "${KIPRJMOD}/lib/3d-models/MODULE_GENERIC_M.2-2280.step"
     (offset (xyz 11 -79.5 4.2))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

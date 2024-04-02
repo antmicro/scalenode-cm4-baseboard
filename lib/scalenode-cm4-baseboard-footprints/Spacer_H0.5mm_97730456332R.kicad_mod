@@ -439,9 +439,7 @@
   (fp_line (start 0.014 -0.609) (end -0.03 -0.609) (layer "User.9") (width 0.02) (tstamp ff7fcf25-000c-4478-b2f3-34de978a9b5e))
   (pad "1" thru_hole custom (at 0.001 0) (size 4 4) (drill 1) (layers "F.Cu" "F.Mask")
     (solder_paste_margin -1.2) (zone_connect 0)
-    (options (clearance outline) (anchor circle))
-    (primitives
-    ) (tstamp 2b7fca22-4976-477e-8001-0adaa8e9aad9))
+    (options (clearance outline) (anchor circle)) (tstamp 2b7fca22-4976-477e-8001-0adaa8e9aad9))
   (model "${KIPRJMOD}/lib/3d-models/Spacer_H0.5mm_97730456332R.step"
     (offset (xyz 0 0 1.5))
     (scale (xyz 1 1 1))
